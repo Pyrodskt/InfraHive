@@ -60,5 +60,6 @@ Ref: GENERAL.LOCALISATION.parent_id > GENERAL.LOCALISATION.id [delete: set null,
 Ref: PLATFORM.ENTITY.parent_id > PLATFORM.ENTITY.id [delete: set null, update: no action]
 Ref: PLATFORM.ENTITY.localisation_id > GENERAL.LOCALISATION.id [delete: set null, update: no action]
 
-Ref: INVENTORY.OPERATING_SYSTEM.id > INVENTORY.COMPUTER.operating_system.id [delete: set null, update: no action]
+Ref: INVENTORY.OPERATING_SYSTEM.id > INVENTORY.COMPUTER.operating_system_id [delete: set null, update: no action]
 Ref: PLATFORM.ENTITY.id > INVENTORY.COMPUTER.entity_id [delete: set null, update: no action]
+Ref: INVENTORY.COMPUTER_TYPE.id > INVENTORY.COMPUTER.computer_type_id [delete: set null, update: no action]
