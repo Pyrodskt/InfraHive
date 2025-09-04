@@ -1,0 +1,17 @@
+2025-09-04 15:01:13,971 - root - INFO - Configuration de logging chargée avec succès.
+2025-09-04 15:01:13,971 - main - INFO - Application démarrée
+2025-09-04 15:01:14,167 - agents.agent_manager - INFO - Démarrage de la collecte et du traitement en parallèle...
+2025-09-04 15:01:14,168 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - VIC-T1
+2025-09-04 15:01:14,169 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - VIC-T0
+2025-09-04 15:01:14,170 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - OXYA-T0
+2025-09-04 15:01:14,170 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : GLPI - GLPI-VCSI
+2025-09-04 15:01:14,646 - CHECKMK - VIC-T0 - INFO - Normalisation terminée. 92 serveurs normalisés.
+2025-09-04 15:01:14,647 - workers.server_agents_worker - INFO - Collecte terminée : 92 serveurs trouvés pour la source : CHECKMK - VIC-T0
+2025-09-04 15:01:14,667 - CHECKMK - OXYA-T0 - INFO - Normalisation terminée. 31 serveurs normalisés.
+2025-09-04 15:01:14,668 - workers.server_agents_worker - INFO - Collecte terminée : 31 serveurs trouvés pour la source : CHECKMK - OXYA-T0
+2025-09-04 15:01:14,866 - GLPI - GLPI-VCSI - INFO - Normalisation terminée. 1038 serveurs normalisés.
+2025-09-04 15:01:14,867 - workers.server_agents_worker - INFO - Collecte terminée : 1038 serveurs trouvés pour la source : GLPI - GLPI-VCSI
+2025-09-04 15:01:14,998 - CHECKMK - VIC-T1 - INFO - Normalisation terminée. 955 serveurs normalisés.
+2025-09-04 15:01:14,998 - workers.server_agents_worker - INFO - Collecte terminée : 955 serveurs trouvés pour la source : CHECKMK - VIC-T1
+2025-09-04 15:01:15,012 - agents.agent_manager - INFO - Collecte terminée. Démarrage de la consolidation des données.
+2025-09-04 15:01:15,190 - agents.agent_manager - INFO - Démarrage de la phase de traitement et de mise à jour des agents.

@@ -1,0 +1,32 @@
+2025-09-03 15:59:19,120 - root - INFO - Configuration de logging chargée avec succès.
+2025-09-03 15:59:19,121 - main - INFO - Application démarrée
+2025-09-03 15:59:19,185 - agents.agent_manager - INFO - Démarrage de la collecte et du traitement en parallèle...
+2025-09-03 15:59:19,188 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - VIC-T1
+2025-09-03 15:59:19,191 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - VIC-T0
+2025-09-03 15:59:19,194 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - OXYA-T0
+2025-09-03 15:59:19,195 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : GLPI - GLPI-VCSI
+2025-09-03 15:59:19,320 - GLPI - GLPI-VCSI - INFO - <Response [400]>
+2025-09-03 15:59:19,374 - GLPI - GLPI-VCSI - INFO - <Response [400]>
+2025-09-03 15:59:19,374 - GLPI - GLPI-VCSI - INFO - Error in /search/Computer 1
+2025-09-03 15:59:19,375 - workers.server_agents_worker - ERROR - Erreur dans le thread du collecteur GLPI - GLPI-VCSI : 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "e:\KPI_HOSTING - V2.1\workers\server_agents_worker.py", line 47, in run
+    servers_data = self.collector.collect()
+  File "e:\KPI_HOSTING - V2.1\agents\glpi_collector.py", line 20, in collect
+    servers_data = self.glpi_connector.collect()
+  File "e:\KPI_HOSTING - V2.1\connectors\glpi_connector.py", line 68, in collect
+    return self.glpi_computers['data']
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+2025-09-03 15:59:19,667 - CHECKMK - OXYA-T0 - INFO - Normalisation terminée. 31 serveurs normalisés.
+2025-09-03 15:59:19,667 - workers.server_agents_worker - INFO - Collecte terminée : 31 serveurs trouvés pour la source : CHECKMK - OXYA-T0
+2025-09-03 15:59:19,669 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - OXYA-T0' exportées avec succès vers exports\CHECKMK - OXYA-T0.json
+2025-09-03 15:59:19,864 - CHECKMK - VIC-T0 - INFO - Normalisation terminée. 92 serveurs normalisés.
+2025-09-03 15:59:19,864 - workers.server_agents_worker - INFO - Collecte terminée : 92 serveurs trouvés pour la source : CHECKMK - VIC-T0
+2025-09-03 15:59:19,867 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - VIC-T0' exportées avec succès vers exports\CHECKMK - VIC-T0.json
+2025-09-03 15:59:20,058 - CHECKMK - VIC-T1 - INFO - Normalisation terminée. 958 serveurs normalisés.
+2025-09-03 15:59:20,059 - workers.server_agents_worker - INFO - Collecte terminée : 958 serveurs trouvés pour la source : CHECKMK - VIC-T1
+2025-09-03 15:59:20,070 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - VIC-T1' exportées avec succès vers exports\CHECKMK - VIC-T1.json
+2025-09-03 15:59:20,086 - agents.agent_manager - INFO - Données exportées avec succès vers exports\all_agents.json
+2025-09-03 15:59:20,087 - agents.agent_manager - INFO - Phase de collecte terminée. Récupération des résultats...
+2025-09-03 15:59:20,088 - main - INFO - Application terminée

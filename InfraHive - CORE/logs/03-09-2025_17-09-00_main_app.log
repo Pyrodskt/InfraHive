@@ -1,0 +1,34 @@
+2025-09-03 17:09:00,674 - root - INFO - Configuration de logging chargée avec succès.
+2025-09-03 17:09:00,674 - main - INFO - Application démarrée
+2025-09-03 17:09:00,867 - agents.agent_manager - INFO - Démarrage de la collecte et du traitement en parallèle...
+2025-09-03 17:09:00,868 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - VIC-T1
+2025-09-03 17:09:00,868 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - VIC-T0
+2025-09-03 17:09:00,869 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - OXYA-T0
+2025-09-03 17:09:00,870 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : GLPI - GLPI-VCSI
+2025-09-03 17:09:01,353 - CHECKMK - VIC-T0 - INFO - Normalisation terminée. 92 serveurs normalisés.
+2025-09-03 17:09:01,354 - workers.server_agents_worker - INFO - Collecte terminée : 92 serveurs trouvés pour la source : CHECKMK - VIC-T0
+2025-09-03 17:09:01,357 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - VIC-T0' exportées avec succès vers exports\CHECKMK - VIC-T0.json
+2025-09-03 17:09:01,361 - CHECKMK - OXYA-T0 - INFO - Normalisation terminée. 31 serveurs normalisés.
+2025-09-03 17:09:01,361 - workers.server_agents_worker - INFO - Collecte terminée : 31 serveurs trouvés pour la source : CHECKMK - OXYA-T0
+2025-09-03 17:09:01,363 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - OXYA-T0' exportées avec succès vers exports\CHECKMK - OXYA-T0.json
+2025-09-03 17:09:01,482 - GLPI - GLPI-VCSI - INFO - Normalisation terminée. 1041 serveurs normalisés.
+2025-09-03 17:09:01,482 - workers.server_agents_worker - INFO - Collecte terminée : 1041 serveurs trouvés pour la source : GLPI - GLPI-VCSI
+2025-09-03 17:09:01,499 - workers.server_agents_worker - INFO - Données normalisées pour 'GLPI - GLPI-VCSI' exportées avec succès vers exports\GLPI - GLPI-VCSI.json
+2025-09-03 17:09:01,845 - CHECKMK - VIC-T1 - INFO - Normalisation terminée. 958 serveurs normalisés.
+2025-09-03 17:09:01,846 - workers.server_agents_worker - INFO - Collecte terminée : 958 serveurs trouvés pour la source : CHECKMK - VIC-T1
+2025-09-03 17:09:01,859 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - VIC-T1' exportées avec succès vers exports\CHECKMK - VIC-T1.json
+2025-09-03 17:09:01,861 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : GLPI - GLPI-VCSI
+2025-09-03 17:09:01,861 - workers.server_agents_worker - ERROR - Erreur dans le thread du collecteur GLPI - GLPI-VCSI : Rapid7.__init__() missing 3 required positional arguments: 'config', 'logger', and 'servers'
+Traceback (most recent call last):
+  File "e:\KPI_HOSTING - V2.1\workers\server_agents_worker.py", line 47, in run
+    servers_data = self.collector.collect()
+  File "e:\KPI_HOSTING - V2.1\agents\rapid7_collector.py", line 26, in collect
+    raw_servers_data = self.rapid7_connector.collect()
+  File "e:\KPI_HOSTING - V2.1\connectors\rapid7_connector.py", line 19, in collect
+    server_info = self.query_rapid7_by_server(server.server_name)
+  File "e:\KPI_HOSTING - V2.1\connectors\rapid7_connector.py", line 36, in query_rapid7_by_server
+    Rapid7Connector = Rapid7()
+TypeError: Rapid7.__init__() missing 3 required positional arguments: 'config', 'logger', and 'servers'
+2025-09-03 17:09:01,881 - agents.agent_manager - INFO - Données exportées avec succès vers exports\all_agents.json
+2025-09-03 17:09:01,881 - agents.agent_manager - INFO - Phase de collecte terminée. Récupération des résultats...
+2025-09-03 17:09:01,882 - main - INFO - Application terminée

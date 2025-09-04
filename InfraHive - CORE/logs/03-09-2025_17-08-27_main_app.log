@@ -1,0 +1,35 @@
+2025-09-03 17:08:27,692 - root - INFO - Configuration de logging chargée avec succès.
+2025-09-03 17:08:27,692 - main - INFO - Application démarrée
+2025-09-03 17:08:27,867 - agents.agent_manager - INFO - Démarrage de la collecte et du traitement en parallèle...
+2025-09-03 17:08:27,868 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - VIC-T1
+2025-09-03 17:08:27,869 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - VIC-T0
+2025-09-03 17:08:27,869 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - OXYA-T0
+2025-09-03 17:08:27,870 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : GLPI - GLPI-VCSI
+2025-09-03 17:08:28,347 - CHECKMK - VIC-T0 - INFO - Normalisation terminée. 92 serveurs normalisés.
+2025-09-03 17:08:28,348 - CHECKMK - OXYA-T0 - INFO - Normalisation terminée. 31 serveurs normalisés.
+2025-09-03 17:08:28,348 - workers.server_agents_worker - INFO - Collecte terminée : 92 serveurs trouvés pour la source : CHECKMK - VIC-T0
+2025-09-03 17:08:28,348 - workers.server_agents_worker - INFO - Collecte terminée : 31 serveurs trouvés pour la source : CHECKMK - OXYA-T0
+2025-09-03 17:08:28,351 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - OXYA-T0' exportées avec succès vers exports\CHECKMK - OXYA-T0.json
+2025-09-03 17:08:28,352 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - VIC-T0' exportées avec succès vers exports\CHECKMK - VIC-T0.json
+2025-09-03 17:08:28,457 - GLPI - GLPI-VCSI - INFO - Normalisation terminée. 1041 serveurs normalisés.
+2025-09-03 17:08:28,457 - workers.server_agents_worker - INFO - Collecte terminée : 1041 serveurs trouvés pour la source : GLPI - GLPI-VCSI
+2025-09-03 17:08:28,472 - workers.server_agents_worker - INFO - Données normalisées pour 'GLPI - GLPI-VCSI' exportées avec succès vers exports\GLPI - GLPI-VCSI.json
+2025-09-03 17:08:28,708 - CHECKMK - VIC-T1 - INFO - Normalisation terminée. 958 serveurs normalisés.
+2025-09-03 17:08:28,709 - workers.server_agents_worker - INFO - Collecte terminée : 958 serveurs trouvés pour la source : CHECKMK - VIC-T1
+2025-09-03 17:08:28,722 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - VIC-T1' exportées avec succès vers exports\CHECKMK - VIC-T1.json
+2025-09-03 17:08:28,724 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : GLPI - GLPI-VCSI
+2025-09-03 17:08:28,725 - workers.server_agents_worker - ERROR - Erreur dans le thread du collecteur GLPI - GLPI-VCSI : module 'datetime' has no attribute 'now'
+Traceback (most recent call last):
+  File "e:\KPI_HOSTING - V2.1\workers\server_agents_worker.py", line 47, in run
+    servers_data = self.collector.collect()
+  File "e:\KPI_HOSTING - V2.1\agents\rapid7_collector.py", line 26, in collect
+    raw_servers_data = self.rapid7_connector.collect()
+  File "e:\KPI_HOSTING - V2.1\connectors\rapid7_connector.py", line 18, in collect
+    server_info = self.query_rapid7_by_server(server.server_name)
+  File "e:\KPI_HOSTING - V2.1\connectors\rapid7_connector.py", line 34, in query_rapid7_by_server
+    tdy = datetime.now().strftime('%Y-%m-%d')
+          ^^^^^^^^^^^^
+AttributeError: module 'datetime' has no attribute 'now'
+2025-09-03 17:08:28,745 - agents.agent_manager - INFO - Données exportées avec succès vers exports\all_agents.json
+2025-09-03 17:08:28,745 - agents.agent_manager - INFO - Phase de collecte terminée. Récupération des résultats...
+2025-09-03 17:08:28,745 - main - INFO - Application terminée

@@ -1,0 +1,19 @@
+2025-09-03 17:02:14,675 - root - INFO - Configuration de logging chargée avec succès.
+2025-09-03 17:02:14,676 - main - INFO - Application démarrée
+2025-09-03 17:02:14,694 - agents.agent_manager - INFO - Démarrage de la collecte et du traitement en parallèle...
+2025-09-03 17:02:14,695 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - VIC-T1
+2025-09-03 17:02:14,695 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - VIC-T0
+2025-09-03 17:02:14,696 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - OXYA-T0
+2025-09-03 17:02:14,696 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : GLPI - GLPI-VCSI
+2025-09-03 17:02:15,145 - CHECKMK - VIC-T0 - INFO - Normalisation terminée. 92 serveurs normalisés.
+2025-09-03 17:02:15,146 - workers.server_agents_worker - INFO - Collecte terminée : 92 serveurs trouvés pour la source : CHECKMK - VIC-T0
+2025-09-03 17:02:15,148 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - VIC-T0' exportées avec succès vers exports\CHECKMK - VIC-T0.json
+2025-09-03 17:02:15,193 - CHECKMK - OXYA-T0 - INFO - Normalisation terminée. 31 serveurs normalisés.
+2025-09-03 17:02:15,193 - workers.server_agents_worker - INFO - Collecte terminée : 31 serveurs trouvés pour la source : CHECKMK - OXYA-T0
+2025-09-03 17:02:15,195 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - OXYA-T0' exportées avec succès vers exports\CHECKMK - OXYA-T0.json
+2025-09-03 17:02:15,293 - GLPI - GLPI-VCSI - INFO - Normalisation terminée. 1041 serveurs normalisés.
+2025-09-03 17:02:15,295 - workers.server_agents_worker - INFO - Collecte terminée : 1041 serveurs trouvés pour la source : GLPI - GLPI-VCSI
+2025-09-03 17:02:15,308 - workers.server_agents_worker - INFO - Données normalisées pour 'GLPI - GLPI-VCSI' exportées avec succès vers exports\GLPI - GLPI-VCSI.json
+2025-09-03 17:02:15,461 - CHECKMK - VIC-T1 - INFO - Normalisation terminée. 958 serveurs normalisés.
+2025-09-03 17:02:15,462 - workers.server_agents_worker - INFO - Collecte terminée : 958 serveurs trouvés pour la source : CHECKMK - VIC-T1
+2025-09-03 17:02:15,473 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - VIC-T1' exportées avec succès vers exports\CHECKMK - VIC-T1.json

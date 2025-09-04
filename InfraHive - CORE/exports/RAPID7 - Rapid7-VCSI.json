@@ -1,0 +1,7166 @@
+[
+    {
+        "server_name": "SRVTERWEILER",
+        "ip_address": "10.102.216.31",
+        "is_installed": true,
+        "riskScore": 74356.0
+    },
+    {
+        "server_name": "EUR1020",
+        "ip_address": "172.22.0.72",
+        "is_installed": true,
+        "riskScore": 23128.0
+    },
+    {
+        "server_name": "SRVTERVCTSW",
+        "ip_address": "10.102.216.32",
+        "is_installed": true,
+        "riskScore": 91794.0
+    },
+    {
+        "server_name": "SRVTERIDFN02",
+        "ip_address": "10.102.216.18",
+        "is_installed": true,
+        "riskScore": 254489.0
+    },
+    {
+        "server_name": "SRVTERIDFN01",
+        "ip_address": "10.102.216.34",
+        "is_installed": true,
+        "riskScore": 57853.0
+    },
+    {
+        "server_name": "D01PRDADDSWDC02",
+        "ip_address": "10.253.72.11",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "FRHQSV017",
+        "ip_address": "172.22.0.11",
+        "is_installed": false,
+        "riskScore": 13971.0
+    },
+    {
+        "server_name": "ENCPRDADDSWDC02",
+        "ip_address": "10.253.60.11",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "ENCPRDADDSWDC01",
+        "ip_address": "10.250.60.11",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "FRHQSV984",
+        "ip_address": "172.22.8.136",
+        "is_installed": true,
+        "riskScore": 5496.0
+    },
+    {
+        "server_name": "SRVTERATSO01",
+        "ip_address": "10.102.216.14",
+        "is_installed": true,
+        "riskScore": 440159.0
+    },
+    {
+        "server_name": "FRHQSV951",
+        "ip_address": "172.26.0.158",
+        "is_installed": true,
+        "riskScore": 12490.0
+    },
+    {
+        "server_name": "FRHQSV950",
+        "ip_address": "172.26.0.160",
+        "is_installed": true,
+        "riskScore": 11173.0
+    },
+    {
+        "server_name": "SRVTERGPL15",
+        "ip_address": "10.102.216.23",
+        "is_installed": true,
+        "riskScore": 5379.0
+    },
+    {
+        "server_name": "D01PRDADDSWDC01",
+        "ip_address": "10.250.72.11",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "FRHQSV911",
+        "ip_address": "172.22.0.34",
+        "is_installed": false,
+        "riskScore": 3904.0
+    },
+    {
+        "server_name": "EXTPRDADDSWDC01",
+        "ip_address": "10.250.52.11",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "EXTPRDADDSWDC02",
+        "ip_address": "10.253.52.11",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "GRPPRDADDSWDC01",
+        "ip_address": "10.120.18.11",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "SRVTERSOT01",
+        "ip_address": "10.102.216.17",
+        "is_installed": true,
+        "riskScore": 5379.0
+    },
+    {
+        "server_name": "SRVTERPORTCOT",
+        "ip_address": "10.102.216.33",
+        "is_installed": true,
+        "riskScore": 5379.0
+    },
+    {
+        "server_name": "GRPPRDADDSWDC02",
+        "ip_address": "10.120.18.12",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "SRVTERVPLAPP01",
+        "ip_address": "10.102.216.36",
+        "is_installed": true,
+        "riskScore": 28212.0
+    },
+    {
+        "server_name": "GRPPRDDST0ADM01",
+        "ip_address": "10.120.16.121",
+        "is_installed": false,
+        "riskScore": 7557.0
+    },
+    {
+        "server_name": "FRHQSV955",
+        "ip_address": "172.27.0.155",
+        "is_installed": true,
+        "riskScore": 9946.0
+    },
+    {
+        "server_name": "SRVTERVPLAN",
+        "ip_address": "10.102.216.25",
+        "is_installed": true,
+        "riskScore": 148132.0
+    },
+    {
+        "server_name": "GRPPRDOOADFBE01",
+        "ip_address": "10.120.16.122",
+        "is_installed": false,
+        "riskScore": 10552.0
+    },
+    {
+        "server_name": "FRHQSV202",
+        "ip_address": "172.26.0.220",
+        "is_installed": true,
+        "riskScore": 91286.0
+    },
+    {
+        "server_name": "SRVTERCH9",
+        "ip_address": "10.102.216.20",
+        "is_installed": true,
+        "riskScore": 5888.0
+    },
+    {
+        "server_name": "FRHQSV985",
+        "ip_address": "172.22.8.137",
+        "is_installed": true,
+        "riskScore": 80870.0
+    },
+    {
+        "server_name": "SRVTERURBALIA",
+        "ip_address": "10.102.216.40",
+        "is_installed": true,
+        "riskScore": 5379.0
+    },
+    {
+        "server_name": "HLDPRDADDSWDC01",
+        "ip_address": "10.250.57.11",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "HLDPRDADDSWDC02",
+        "ip_address": "10.253.57.11",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "EUR1035",
+        "ip_address": "172.22.8.17",
+        "is_installed": true,
+        "riskScore": 47540.0
+    },
+    {
+        "server_name": "BGUPRDLVNAPP01",
+        "ip_address": "10.102.216.27",
+        "is_installed": true,
+        "riskScore": 137517.0
+    },
+    {
+        "server_name": "SRVTERATRA01",
+        "ip_address": "10.102.216.15",
+        "is_installed": true,
+        "riskScore": 5379.0
+    },
+    {
+        "server_name": "FRHQSV995",
+        "ip_address": "172.22.0.174",
+        "is_installed": true,
+        "riskScore": 6447.0
+    },
+    {
+        "server_name": "PLCPRDADDSWDC01",
+        "ip_address": "10.250.59.11",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "SRVTERCARL-PRD",
+        "ip_address": "10.102.216.37",
+        "is_installed": true,
+        "riskScore": 91598.0
+    },
+    {
+        "server_name": "FRHQSV994",
+        "ip_address": "172.22.0.173",
+        "is_installed": true,
+        "riskScore": 9985.0
+    },
+    {
+        "server_name": "PLCPRDADDSWDC02",
+        "ip_address": "10.253.59.11",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "FRHQSV007",
+        "ip_address": "172.22.0.10",
+        "is_installed": false,
+        "riskScore": 5077.0
+    },
+    {
+        "server_name": "BGUPRDSQLAPP01",
+        "ip_address": "10.102.216.26",
+        "is_installed": true,
+        "riskScore": 889962.0
+    },
+    {
+        "server_name": "SRVTERCNM",
+        "ip_address": "10.102.216.24",
+        "is_installed": true,
+        "riskScore": 5379.0
+    },
+    {
+        "server_name": "FRHQSV987",
+        "ip_address": "172.22.0.175",
+        "is_installed": true,
+        "riskScore": 11604.0
+    },
+    {
+        "server_name": "SRVTERCARL-ACC",
+        "ip_address": "10.102.216.38",
+        "is_installed": true,
+        "riskScore": 86071.0
+    },
+    {
+        "server_name": "FRHQSV956",
+        "ip_address": "172.27.0.156",
+        "is_installed": true,
+        "riskScore": 13372.0
+    },
+    {
+        "server_name": "vicprdveeaprx15",
+        "ip_address": "10.125.18.21",
+        "is_installed": false,
+        "riskScore": 1333.0
+    },
+    {
+        "server_name": "SRVTERTPR01",
+        "ip_address": "10.102.216.16",
+        "is_installed": true,
+        "riskScore": 5379.0
+    },
+    {
+        "server_name": "FRHQSV996",
+        "ip_address": "172.22.0.149",
+        "is_installed": true,
+        "riskScore": 6277.0
+    },
+    {
+        "server_name": "BGUPRDCRBAPP01",
+        "ip_address": "10.102.216.29",
+        "is_installed": true,
+        "riskScore": 806318.0
+    },
+    {
+        "server_name": "FRHQSV989",
+        "ip_address": "172.22.0.176",
+        "is_installed": true,
+        "riskScore": 27455.0
+    },
+    {
+        "server_name": "SRVTERDEMFAC",
+        "ip_address": "10.102.216.21",
+        "is_installed": true,
+        "riskScore": 24277.0
+    },
+    {
+        "server_name": "SOSPRDADDSWDC01",
+        "ip_address": "10.250.54.11",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "SRVTERPRINT",
+        "ip_address": "10.102.216.10",
+        "is_installed": true,
+        "riskScore": 5379.0
+    },
+    {
+        "server_name": "FRHQSV957",
+        "ip_address": "172.27.0.158",
+        "is_installed": true,
+        "riskScore": 13143.0
+    },
+    {
+        "server_name": "SOSPRDADDSWDC02",
+        "ip_address": "10.253.54.11",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "SRVTERPRN",
+        "ip_address": "10.102.216.35",
+        "is_installed": true,
+        "riskScore": 5379.0
+    },
+    {
+        "server_name": "FRHQSV952",
+        "ip_address": "172.26.0.159",
+        "is_installed": true,
+        "riskScore": 12355.0
+    },
+    {
+        "server_name": "FRHQSV145",
+        "ip_address": "172.26.0.10",
+        "is_installed": true,
+        "riskScore": 24133.0
+    },
+    {
+        "server_name": "vicprdveeaprx16",
+        "ip_address": "10.125.18.22",
+        "is_installed": false,
+        "riskScore": 1333.0
+    },
+    {
+        "server_name": "vicprdveeaprx17",
+        "ip_address": "10.125.18.23",
+        "is_installed": false,
+        "riskScore": 1333.0
+    },
+    {
+        "server_name": "VGPPRDPRINT01",
+        "ip_address": "10.121.112.97",
+        "is_installed": true,
+        "riskScore": 250428.0
+    },
+    {
+        "server_name": "FRHQSV912",
+        "ip_address": "172.22.0.35",
+        "is_installed": false,
+        "riskScore": 921616.0
+    },
+    {
+        "server_name": "vicprdveeabck05",
+        "ip_address": "10.125.18.252",
+        "is_installed": true,
+        "riskScore": 63372.0
+    },
+    {
+        "server_name": "DCBPRDSEQ01",
+        "ip_address": "10.121.112.51",
+        "is_installed": true,
+        "riskScore": 4492.0
+    },
+    {
+        "server_name": "FRHQSV993",
+        "ip_address": "172.22.0.172",
+        "is_installed": true,
+        "riskScore": 7281.0
+    },
+    {
+        "server_name": "vcfdevadfsapp51",
+        "ip_address": "10.120.17.25",
+        "is_installed": false,
+        "riskScore": 1041127.0
+    },
+    {
+        "server_name": "vicprdveeaone05",
+        "ip_address": "10.125.18.250",
+        "is_installed": true,
+        "riskScore": 2237.0
+    },
+    {
+        "server_name": "ENGSV000007",
+        "ip_address": "10.123.126.15",
+        "is_installed": true,
+        "riskScore": 393787.0
+    },
+    {
+        "server_name": "vcfdevadfsapp52",
+        "ip_address": "10.120.17.26",
+        "is_installed": false,
+        "riskScore": 1041127.0
+    },
+    {
+        "server_name": "ENCPRDTKLLIC01",
+        "ip_address": "10.121.48.2",
+        "is_installed": true,
+        "riskScore": 118628.0
+    },
+    {
+        "server_name": "vcfhomadfsapp51",
+        "ip_address": "10.120.17.29",
+        "is_installed": false,
+        "riskScore": 6728.0
+    },
+    {
+        "server_name": "FRHQSV205",
+        "ip_address": "172.26.0.26",
+        "is_installed": true,
+        "riskScore": 5522.0
+    },
+    {
+        "server_name": "BGUPRDIMPAPP01",
+        "ip_address": "10.102.216.28",
+        "is_installed": true,
+        "riskScore": 5379.0
+    },
+    {
+        "server_name": "vcfhomadfsapp52",
+        "ip_address": "10.120.17.30",
+        "is_installed": false,
+        "riskScore": 6728.0
+    },
+    {
+        "server_name": "SRVTERLIC01",
+        "ip_address": "10.121.113.30",
+        "is_installed": true,
+        "riskScore": 73432.0
+    },
+    {
+        "server_name": "DCBPRDLIC01",
+        "ip_address": "10.121.112.57",
+        "is_installed": true,
+        "riskScore": 883.0
+    },
+    {
+        "server_name": "GLRESITSV911",
+        "ip_address": "172.22.6.33",
+        "is_installed": false,
+        "riskScore": 5827.0
+    },
+    {
+        "server_name": "VCFPRDADDSWDC50",
+        "ip_address": "10.120.19.11",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "SRVTERDT2I",
+        "ip_address": "10.121.112.19",
+        "is_installed": true,
+        "riskScore": 70078.0
+    },
+    {
+        "server_name": "VCFPRDADDSWDC51",
+        "ip_address": "10.120.19.12",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "FRHQSV201",
+        "ip_address": "172.26.0.192",
+        "is_installed": true,
+        "riskScore": 1082346.0
+    },
+    {
+        "server_name": "EUR1003",
+        "ip_address": "172.26.0.146",
+        "is_installed": true,
+        "riskScore": 11575.0
+    },
+    {
+        "server_name": "VCFPRDADFSAPP51",
+        "ip_address": "10.120.17.52",
+        "is_installed": false,
+        "riskScore": 6728.0
+    },
+    {
+        "server_name": "DCBPRDNPS02",
+        "ip_address": "10.121.112.48",
+        "is_installed": true,
+        "riskScore": 4015.0
+    },
+    {
+        "server_name": "GLRESITSV026",
+        "ip_address": "172.26.0.135",
+        "is_installed": true,
+        "riskScore": 16228.0
+    },
+    {
+        "server_name": "VCFPRDADFSAPP52",
+        "ip_address": "10.120.17.53",
+        "is_installed": false,
+        "riskScore": 6728.0
+    },
+    {
+        "server_name": "VCFPRDADDSWDC52",
+        "ip_address": "10.120.19.13",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "VCFPRDADDSWDC53",
+        "ip_address": "10.120.19.14",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "ENCPRDAPPTSE01",
+        "ip_address": "10.121.48.7",
+        "is_installed": true,
+        "riskScore": 429459.0
+    },
+    {
+        "server_name": "vicprdveeaflr05",
+        "ip_address": "10.125.18.210",
+        "is_installed": true,
+        "riskScore": 818276.0
+    },
+    {
+        "server_name": "VDTPRDADDSWDC01",
+        "ip_address": "10.250.55.11",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "EUR1004",
+        "ip_address": "172.26.0.147",
+        "is_installed": true,
+        "riskScore": 11575.0
+    },
+    {
+        "server_name": "INTE71",
+        "ip_address": "172.26.6.15",
+        "is_installed": true,
+        "riskScore": 15220.0
+    },
+    {
+        "server_name": "ENCPRDRISKAPP01",
+        "ip_address": "10.123.126.10",
+        "is_installed": true,
+        "riskScore": 141032.0
+    },
+    {
+        "server_name": "FRHQSV909",
+        "ip_address": "172.22.0.37",
+        "is_installed": false,
+        "riskScore": 11726.0
+    },
+    {
+        "server_name": "ENCPRDCANEAPP01",
+        "ip_address": "10.123.126.1",
+        "is_installed": true,
+        "riskScore": 62406.0
+    },
+    {
+        "server_name": "CLFRA000DC003",
+        "ip_address": "172.22.6.226",
+        "is_installed": false,
+        "riskScore": 11445.0
+    },
+    {
+        "server_name": "FRHQSV650",
+        "ip_address": "172.22.0.180",
+        "is_installed": true,
+        "riskScore": 7062.0
+    },
+    {
+        "server_name": "FRHQSV800",
+        "ip_address": "172.22.0.182",
+        "is_installed": true,
+        "riskScore": 7564.0
+    },
+    {
+        "server_name": "ENCPRDSAMAPP01",
+        "ip_address": "10.123.126.14",
+        "is_installed": true,
+        "riskScore": 121955.0
+    },
+    {
+        "server_name": "VGPPRDADDSWDC01",
+        "ip_address": "10.250.58.11",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "VDTPRDADDSWDC02",
+        "ip_address": "10.253.55.11",
+        "is_installed": false,
+        "riskScore": 7940.0
+    },
+    {
+        "server_name": "vicdevadfsfbe02",
+        "ip_address": "10.120.17.120",
+        "is_installed": false,
+        "riskScore": 7223.0
+    },
+    {
+        "server_name": "FRHQSV750",
+        "ip_address": "172.22.0.181",
+        "is_installed": true,
+        "riskScore": 5938.0
+    },
+    {
+        "server_name": "SRVTERIURETUD",
+        "ip_address": "10.121.112.54",
+        "is_installed": true,
+        "riskScore": 70078.0
+    },
+    {
+        "server_name": "vicppdadfsfbe05",
+        "ip_address": "10.120.17.123",
+        "is_installed": false,
+        "riskScore": 6728.0
+    },
+    {
+        "server_name": "vicppdadfsfbe06",
+        "ip_address": "10.120.17.124",
+        "is_installed": false,
+        "riskScore": 6728.0
+    },
+    {
+        "server_name": "vicprdveeafrt05",
+        "ip_address": "10.125.18.251",
+        "is_installed": true,
+        "riskScore": 33407.0
+    },
+    {
+        "server_name": "ENCPRDAPPGED01",
+        "ip_address": "10.121.48.5",
+        "is_installed": true,
+        "riskScore": 585792.0
+    },
+    {
+        "server_name": "FRHQSV997",
+        "ip_address": "172.22.8.22",
+        "is_installed": false,
+        "riskScore": 8442.0
+    },
+    {
+        "server_name": "VGPPRDSYS01",
+        "ip_address": "10.123.120.2",
+        "is_installed": true,
+        "riskScore": 67283.0
+    },
+    {
+        "server_name": "DCBPRDNPS01",
+        "ip_address": "10.121.112.46",
+        "is_installed": true,
+        "riskScore": 4015.0
+    },
+    {
+        "server_name": "FRHQDC901",
+        "ip_address": "172.26.0.1",
+        "is_installed": false,
+        "riskScore": 10033.0
+    },
+    {
+        "server_name": "VICPRDADDSWDC01",
+        "ip_address": "10.250.51.11",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "vicprdveeaprx14",
+        "ip_address": "10.125.18.20",
+        "is_installed": false,
+        "riskScore": 1333.0
+    },
+    {
+        "server_name": "VGPPRDSRV01",
+        "ip_address": "10.123.124.4",
+        "is_installed": true,
+        "riskScore": 972702.0
+    },
+    {
+        "server_name": "GLRESITDC901",
+        "ip_address": "172.26.0.120",
+        "is_installed": false,
+        "riskScore": 10374.0
+    },
+    {
+        "server_name": "VICPRDADDSWDC02",
+        "ip_address": "10.253.51.11",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "VGPPRDADDSWDC02",
+        "ip_address": "10.253.58.11",
+        "is_installed": false,
+        "riskScore": 7418.0
+    },
+    {
+        "server_name": "vicprdadfsfbe05",
+        "ip_address": "10.120.17.125",
+        "is_installed": false,
+        "riskScore": 6728.0
+    },
+    {
+        "server_name": "FRHQSV1000",
+        "ip_address": "172.22.0.129",
+        "is_installed": true,
+        "riskScore": 5534.0
+    },
+    {
+        "server_name": "vicprdadfsfbe06",
+        "ip_address": "10.120.17.126",
+        "is_installed": false,
+        "riskScore": 6728.0
+    },
+    {
+        "server_name": "SRVTERIURARCH",
+        "ip_address": "10.121.112.53",
+        "is_installed": true,
+        "riskScore": 4438.0
+    },
+    {
+        "server_name": "SRVTERLIC02",
+        "ip_address": "10.121.112.26",
+        "is_installed": true,
+        "riskScore": 70078.0
+    },
+    {
+        "server_name": "FRHQSV777",
+        "ip_address": "172.22.0.178",
+        "is_installed": true,
+        "riskScore": 12381.0
+    },
+    {
+        "server_name": "ENCPRDAVEVAPP01",
+        "ip_address": "10.123.122.2",
+        "is_installed": true,
+        "riskScore": 193980.0
+    },
+    {
+        "server_name": "ENCPRDECCOAPP01",
+        "ip_address": "10.123.122.3",
+        "is_installed": true,
+        "riskScore": 82027.0
+    },
+    {
+        "server_name": "vicprdazacapp03",
+        "ip_address": "10.120.17.164",
+        "is_installed": false,
+        "riskScore": 64383.0
+    },
+    {
+        "server_name": "vicprdazacapp04",
+        "ip_address": "10.120.17.165",
+        "is_installed": false,
+        "riskScore": 64383.0
+    },
+    {
+        "server_name": "FRHQDC902",
+        "ip_address": "172.26.0.2",
+        "is_installed": false,
+        "riskScore": 10033.0
+    },
+    {
+        "server_name": "ENCPRDAPPPDM01",
+        "ip_address": "10.121.48.9",
+        "is_installed": true,
+        "riskScore": 229667.0
+    },
+    {
+        "server_name": "EUR1002",
+        "ip_address": "172.26.6.2",
+        "is_installed": true,
+        "riskScore": 28323.0
+    },
+    {
+        "server_name": "TGPPRDITWO01",
+        "ip_address": "10.121.112.8",
+        "is_installed": true,
+        "riskScore": 30179.0
+    },
+    {
+        "server_name": "VICPRDCERTFBE02",
+        "ip_address": "10.120.17.151",
+        "is_installed": false,
+        "riskScore": 7732.0
+    },
+    {
+        "server_name": "VICPRDCERTFBE01",
+        "ip_address": "10.120.17.150",
+        "is_installed": false,
+        "riskScore": 7732.0
+    },
+    {
+        "server_name": "SRVTERVCT01",
+        "ip_address": "10.121.112.22",
+        "is_installed": true,
+        "riskScore": 68833.0
+    },
+    {
+        "server_name": "FREF92-001SV111",
+        "ip_address": "172.26.0.43",
+        "is_installed": true,
+        "riskScore": 7630.0
+    },
+    {
+        "server_name": "SRVTERDIRETU",
+        "ip_address": "10.121.112.25",
+        "is_installed": true,
+        "riskScore": 68164.0
+    },
+    {
+        "server_name": "VICPRDCERTFBE04",
+        "ip_address": "10.120.17.155",
+        "is_installed": false,
+        "riskScore": 7692.0
+    },
+    {
+        "server_name": "DCBPRDSQL01",
+        "ip_address": "10.121.112.52",
+        "is_installed": true,
+        "riskScore": 883.0
+    },
+    {
+        "server_name": "VICPRDCERTFBE03",
+        "ip_address": "10.120.17.154",
+        "is_installed": false,
+        "riskScore": 7692.0
+    },
+    {
+        "server_name": "FRHQMLTSV003",
+        "ip_address": "172.22.8.114",
+        "is_installed": true,
+        "riskScore": 26447.0
+    },
+    {
+        "server_name": "VICPRDCERTFBE06",
+        "ip_address": "10.120.17.100",
+        "is_installed": false,
+        "riskScore": 7237.0
+    },
+    {
+        "server_name": "VICPRDCERTFBE05",
+        "ip_address": "10.120.17.157",
+        "is_installed": false,
+        "riskScore": 7237.0
+    },
+    {
+        "server_name": "FRHQSV1006",
+        "ip_address": "172.22.0.185",
+        "is_installed": true,
+        "riskScore": 7167.0
+    },
+    {
+        "server_name": "ENCPRDDEVILIC01",
+        "ip_address": "10.123.122.13",
+        "is_installed": true,
+        "riskScore": 640826.0
+    },
+    {
+        "server_name": "GLRESITDC902",
+        "ip_address": "172.26.0.121",
+        "is_installed": false,
+        "riskScore": 10374.0
+    },
+    {
+        "server_name": "FRHQSV1008",
+        "ip_address": "172.22.0.189",
+        "is_installed": true,
+        "riskScore": 7564.0
+    },
+    {
+        "server_name": "EUR1044",
+        "ip_address": "172.22.8.20",
+        "is_installed": true,
+        "riskScore": 7029.0
+    },
+    {
+        "server_name": "ENCPRDVTPSAPP01",
+        "ip_address": "10.123.126.11",
+        "is_installed": true,
+        "riskScore": 147754.0
+    },
+    {
+        "server_name": "EUR1039",
+        "ip_address": "172.22.8.19",
+        "is_installed": true,
+        "riskScore": 7029.0
+    },
+    {
+        "server_name": "VGPPRDSYS02",
+        "ip_address": "10.123.120.3",
+        "is_installed": true,
+        "riskScore": 158393.0
+    },
+    {
+        "server_name": "ENCPRDLNMKAPP01",
+        "ip_address": "10.123.126.9",
+        "is_installed": true,
+        "riskScore": 212717.0
+    },
+    {
+        "server_name": "VICPRDFILEAPP01",
+        "ip_address": "10.120.16.15",
+        "is_installed": false,
+        "riskScore": 7732.0
+    },
+    {
+        "server_name": "FRHQSV1012",
+        "ip_address": "172.22.0.191",
+        "is_installed": true,
+        "riskScore": 6447.0
+    },
+    {
+        "server_name": "ENCPRDGEDSQL01",
+        "ip_address": "10.121.48.4",
+        "is_installed": true,
+        "riskScore": 334407.0
+    },
+    {
+        "server_name": "SRVSUDCA",
+        "ip_address": "10.102.213.16",
+        "is_installed": true,
+        "riskScore": 5379.0
+    },
+    {
+        "server_name": "FRHQSV1009",
+        "ip_address": "172.22.0.190",
+        "is_installed": true,
+        "riskScore": 5938.0
+    },
+    {
+        "server_name": "FRHQSV1007",
+        "ip_address": "172.22.0.188",
+        "is_installed": true,
+        "riskScore": 7062.0
+    },
+    {
+        "server_name": "EUR1037",
+        "ip_address": "172.22.8.18",
+        "is_installed": true,
+        "riskScore": 47540.0
+    },
+    {
+        "server_name": "VCFPRDCLUSFSW02",
+        "ip_address": "10.102.181.63",
+        "is_installed": true,
+        "riskScore": 24732.0
+    },
+    {
+        "server_name": "VICPRDINFRLIC02",
+        "ip_address": "10.120.16.126",
+        "is_installed": false,
+        "riskScore": 7250.0
+    },
+    {
+        "server_name": "SRVTERUPD",
+        "ip_address": "10.102.216.11",
+        "is_installed": true,
+        "riskScore": 26901.0
+    },
+    {
+        "server_name": "FRHQSV1018",
+        "ip_address": "172.22.0.192",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "FRHQSV1015",
+        "ip_address": "172.22.0.195",
+        "is_installed": true,
+        "riskScore": 7564.0
+    },
+    {
+        "server_name": "VICPRDMEPPPRX01",
+        "ip_address": "10.120.16.90",
+        "is_installed": false,
+        "riskScore": 8729.0
+    },
+    {
+        "server_name": "FRHQSV1022",
+        "ip_address": "172.22.0.197",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "FRHQSV1021",
+        "ip_address": "172.22.0.164",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "VICPRDMEPPPRX02",
+        "ip_address": "10.120.16.91",
+        "is_installed": false,
+        "riskScore": 8729.0
+    },
+    {
+        "server_name": "FRHQSV1019",
+        "ip_address": "172.22.0.196",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "VICPRDMMDTFBE01",
+        "ip_address": "10.120.16.110",
+        "is_installed": false,
+        "riskScore": 6728.0
+    },
+    {
+        "server_name": "VICPRDSFTPAPP01",
+        "ip_address": "10.120.16.43",
+        "is_installed": false,
+        "riskScore": 7551.0
+    },
+    {
+        "server_name": "FRHQSV1020",
+        "ip_address": "172.22.0.132",
+        "is_installed": true,
+        "riskScore": 10296.0
+    },
+    {
+        "server_name": "FRHQSV1014",
+        "ip_address": "172.22.0.194",
+        "is_installed": true,
+        "riskScore": 2812.0
+    },
+    {
+        "server_name": "DGC-0023",
+        "ip_address": "10.121.16.46",
+        "is_installed": true,
+        "riskScore": 52267.0
+    },
+    {
+        "server_name": "VCFHOMADFSWAP51",
+        "ip_address": "10.102.70.30",
+        "is_installed": true,
+        "riskScore": 204478.0
+    },
+    {
+        "server_name": "FRHQSV186",
+        "ip_address": "172.26.6.11",
+        "is_installed": true,
+        "riskScore": 71024.0
+    },
+    {
+        "server_name": "FRHQSV1017",
+        "ip_address": "172.22.0.131",
+        "is_installed": true,
+        "riskScore": 6043.0
+    },
+    {
+        "server_name": "VCFPRDFILORES01",
+        "ip_address": "10.102.221.10",
+        "is_installed": true,
+        "riskScore": 116542.0
+    },
+    {
+        "server_name": "FRHQSV1023",
+        "ip_address": "172.22.0.198",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "VCFPRDADFSWAP52",
+        "ip_address": "10.102.70.21",
+        "is_installed": true,
+        "riskScore": 354014.0
+    },
+    {
+        "server_name": "FRHQMLTSV911",
+        "ip_address": "172.22.0.39",
+        "is_installed": false,
+        "riskScore": 2057.0
+    },
+    {
+        "server_name": "FRHQSV1025",
+        "ip_address": "172.22.0.199",
+        "is_installed": true,
+        "riskScore": 3247.0
+    },
+    {
+        "server_name": "VCFPRDADFSWAP51",
+        "ip_address": "10.102.70.20",
+        "is_installed": true,
+        "riskScore": 233950.0
+    },
+    {
+        "server_name": "VCFPRDGOUAPP01",
+        "ip_address": "10.102.221.11",
+        "is_installed": true,
+        "riskScore": 3899.0
+    },
+    {
+        "server_name": "VICPRDWECSFBE01",
+        "ip_address": "10.120.16.100",
+        "is_installed": false,
+        "riskScore": 6728.0
+    },
+    {
+        "server_name": "vicprdsiemgtw05",
+        "ip_address": "172.22.7.193",
+        "is_installed": true,
+        "riskScore": 205622.0
+    },
+    {
+        "server_name": "F000C002",
+        "ip_address": "172.26.0.93",
+        "is_installed": false,
+        "riskScore": 42983.0
+    },
+    {
+        "server_name": "GLRESITSV035",
+        "ip_address": "172.26.0.148",
+        "is_installed": true,
+        "riskScore": 5042.0
+    },
+    {
+        "server_name": "GLRESITSV030",
+        "ip_address": "172.22.6.3",
+        "is_installed": false,
+        "riskScore": 8895.0
+    },
+    {
+        "server_name": "VCFHOMADFSWAP52",
+        "ip_address": "10.102.70.31",
+        "is_installed": true,
+        "riskScore": 204478.0
+    },
+    {
+        "server_name": "FRHQSV1024",
+        "ip_address": "172.22.0.133",
+        "is_installed": true,
+        "riskScore": 3823.0
+    },
+    {
+        "server_name": "FRHQSV964",
+        "ip_address": "172.26.0.166",
+        "is_installed": true,
+        "riskScore": 6198.0
+    },
+    {
+        "server_name": "DGC-0004",
+        "ip_address": "10.121.16.11",
+        "is_installed": true,
+        "riskScore": 9387.0
+    },
+    {
+        "server_name": "DGC-0030",
+        "ip_address": "10.121.16.68",
+        "is_installed": true,
+        "riskScore": 1922.0
+    },
+    {
+        "server_name": "DGC-0046",
+        "ip_address": "10.121.16.16",
+        "is_installed": true,
+        "riskScore": 11028.0
+    },
+    {
+        "server_name": "VGPPRDSQL02",
+        "ip_address": "10.121.112.13",
+        "is_installed": true,
+        "riskScore": 535031.0
+    },
+    {
+        "server_name": "ESFRA000DC002",
+        "ip_address": "172.26.0.94",
+        "is_installed": true,
+        "riskScore": 2316.0
+    },
+    {
+        "server_name": "CAQCHQDC003",
+        "ip_address": "172.22.6.225",
+        "is_installed": false,
+        "riskScore": 13078.0
+    },
+    {
+        "server_name": "FRHQSV023",
+        "ip_address": "172.26.0.163",
+        "is_installed": true,
+        "riskScore": 443382.0
+    },
+    {
+        "server_name": "GLRESITSV903",
+        "ip_address": "172.26.0.48",
+        "is_installed": true,
+        "riskScore": 488181.0
+    },
+    {
+        "server_name": "DGC-0026",
+        "ip_address": "10.121.16.49",
+        "is_installed": true,
+        "riskScore": 71437.0
+    },
+    {
+        "server_name": "DGC-0060",
+        "ip_address": "10.121.16.19",
+        "is_installed": true,
+        "riskScore": 1728.0
+    },
+    {
+        "server_name": "FRHQSV1026",
+        "ip_address": "172.22.0.200",
+        "is_installed": true,
+        "riskScore": 5880.0
+    },
+    {
+        "server_name": "ZSCALER-PREPROD",
+        "ip_address": "172.22.0.201",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "FRHQSV972",
+        "ip_address": "172.26.0.20",
+        "is_installed": true,
+        "riskScore": 12735.0
+    },
+    {
+        "server_name": "DGC-0057",
+        "ip_address": "10.121.16.10",
+        "is_installed": true,
+        "riskScore": 10757.0
+    },
+    {
+        "server_name": "DGC-0028",
+        "ip_address": "10.121.16.66",
+        "is_installed": true,
+        "riskScore": 71437.0
+    },
+    {
+        "server_name": "FRHQVM044",
+        "ip_address": "172.22.8.228",
+        "is_installed": true,
+        "riskScore": 790056.0
+    },
+    {
+        "server_name": "GLRESITSV904",
+        "ip_address": "172.26.0.49",
+        "is_installed": false,
+        "riskScore": 3990.0
+    },
+    {
+        "server_name": "FRHQSV1028",
+        "ip_address": "172.22.0.135",
+        "is_installed": true,
+        "riskScore": 22057.0
+    },
+    {
+        "server_name": "DGC-0020",
+        "ip_address": "10.121.16.31",
+        "is_installed": true,
+        "riskScore": 64522.0
+    },
+    {
+        "server_name": "DGC-0029",
+        "ip_address": "10.121.16.67",
+        "is_installed": true,
+        "riskScore": 65399.0
+    },
+    {
+        "server_name": "DGC-0027",
+        "ip_address": "10.121.16.63",
+        "is_installed": true,
+        "riskScore": 11873.0
+    },
+    {
+        "server_name": "EAD3-FR3",
+        "ip_address": "172.22.6.227",
+        "is_installed": false,
+        "riskScore": 2747.0
+    },
+    {
+        "server_name": "FRHQSV1031",
+        "ip_address": "172.26.0.167",
+        "is_installed": true,
+        "riskScore": 5534.0
+    },
+    {
+        "server_name": "DGC-0048",
+        "ip_address": "10.121.16.50",
+        "is_installed": true,
+        "riskScore": 65225.0
+    },
+    {
+        "server_name": "vicprdldomfbe03",
+        "ip_address": "10.121.16.9",
+        "is_installed": true,
+        "riskScore": 290652.0
+    },
+    {
+        "server_name": "DGC-0033",
+        "ip_address": "10.121.16.48",
+        "is_installed": true,
+        "riskScore": 16844.0
+    },
+    {
+        "server_name": "vicppdglpifbe02",
+        "ip_address": "10.121.0.36",
+        "is_installed": true,
+        "riskScore": 66074.0
+    },
+    {
+        "server_name": "vicppdsccmfil01",
+        "ip_address": "10.121.1.243",
+        "is_installed": true,
+        "riskScore": 4679.0
+    },
+    {
+        "server_name": "vicppdsccmdps01",
+        "ip_address": "10.121.1.238",
+        "is_installed": true,
+        "riskScore": 8583.0
+    },
+    {
+        "server_name": "INTE72",
+        "ip_address": "172.22.8.65",
+        "is_installed": true,
+        "riskScore": 20689.0
+    },
+    {
+        "server_name": "vicppdsccmfbe01",
+        "ip_address": "10.121.1.219",
+        "is_installed": true,
+        "riskScore": 5188.0
+    },
+    {
+        "server_name": "hldprdfilefbe01",
+        "ip_address": "10.121.16.85",
+        "is_installed": true,
+        "riskScore": 22383.0
+    },
+    {
+        "server_name": "vicppdsccmpri01",
+        "ip_address": "10.121.1.217",
+        "is_installed": true,
+        "riskScore": 8128.0
+    },
+    {
+        "server_name": "vicppdsccmsql01",
+        "ip_address": "10.121.1.218",
+        "is_installed": true,
+        "riskScore": 5014.0
+    },
+    {
+        "server_name": "vicprdcsgpfbe01",
+        "ip_address": "10.121.0.102",
+        "is_installed": true,
+        "riskScore": 79743.0
+    },
+    {
+        "server_name": "vicdevadmntrt03",
+        "ip_address": "10.121.0.182",
+        "is_installed": true,
+        "riskScore": 22176.0
+    },
+    {
+        "server_name": "vicdevadmnfbe01",
+        "ip_address": "10.121.0.170",
+        "is_installed": true,
+        "riskScore": 2290.0
+    },
+    {
+        "server_name": "vicprdcsgpfbe02",
+        "ip_address": "10.121.1.24",
+        "is_installed": true,
+        "riskScore": 71648.0
+    },
+    {
+        "server_name": "FRHQSV1034",
+        "ip_address": "172.22.0.138",
+        "is_installed": true,
+        "riskScore": 2812.0
+    },
+    {
+        "server_name": "vicreccsgpfbe02",
+        "ip_address": "10.121.1.152",
+        "is_installed": true,
+        "riskScore": 69123.0
+    },
+    {
+        "server_name": "vicprdocratrt10",
+        "ip_address": "10.121.0.103",
+        "is_installed": true,
+        "riskScore": 65700.0
+    },
+    {
+        "server_name": "vicprdocratrt07",
+        "ip_address": "10.121.1.138",
+        "is_installed": true,
+        "riskScore": 83091.0
+    },
+    {
+        "server_name": "FRHQSV037",
+        "ip_address": "172.26.0.44",
+        "is_installed": true,
+        "riskScore": 6459.0
+    },
+    {
+        "server_name": "vicprdcsgpfbe03",
+        "ip_address": "10.121.1.146",
+        "is_installed": true,
+        "riskScore": 79667.0
+    },
+    {
+        "server_name": "vicprdcsgpfbe08",
+        "ip_address": "10.121.0.104",
+        "is_installed": true,
+        "riskScore": 79743.0
+    },
+    {
+        "server_name": "vicprdocratrt05",
+        "ip_address": "10.121.0.93",
+        "is_installed": true,
+        "riskScore": 6362.0
+    },
+    {
+        "server_name": "FRHQSV1037",
+        "ip_address": "172.22.0.177",
+        "is_installed": true,
+        "riskScore": 28248.0
+    },
+    {
+        "server_name": "vicprdcsgpfbe05",
+        "ip_address": "10.121.1.210",
+        "is_installed": true,
+        "riskScore": 294479.0
+    },
+    {
+        "server_name": "vicprdocratrt06",
+        "ip_address": "10.121.0.128",
+        "is_installed": true,
+        "riskScore": 26171.0
+    },
+    {
+        "server_name": "FRHQDC904",
+        "ip_address": "172.22.0.4",
+        "is_installed": false,
+        "riskScore": 10033.0
+    },
+    {
+        "server_name": "FRHQSV1038",
+        "ip_address": "172.26.0.189",
+        "is_installed": true,
+        "riskScore": 3287.0
+    },
+    {
+        "server_name": "vicprdocratrt09",
+        "ip_address": "10.121.0.169",
+        "is_installed": true,
+        "riskScore": 17620.0
+    },
+    {
+        "server_name": "VICPPDMULTADM01",
+        "ip_address": "10.121.0.24",
+        "is_installed": true,
+        "riskScore": 18889.0
+    },
+    {
+        "server_name": "victstvcntesb02",
+        "ip_address": "10.121.1.147",
+        "is_installed": true,
+        "riskScore": 143051.0
+    },
+    {
+        "server_name": "GLRESITSV006",
+        "ip_address": "172.26.0.168",
+        "is_installed": true,
+        "riskScore": 267652.0
+    },
+    {
+        "server_name": "vicdevvcnttac02",
+        "ip_address": "10.121.1.145",
+        "is_installed": true,
+        "riskScore": 158180.0
+    },
+    {
+        "server_name": "FRHQSV1036",
+        "ip_address": "172.22.0.136",
+        "is_installed": true,
+        "riskScore": 3789.0
+    },
+    {
+        "server_name": "victstvcnttac02",
+        "ip_address": "10.121.1.151",
+        "is_installed": true,
+        "riskScore": 155511.0
+    },
+    {
+        "server_name": "vicppdvcntnfs02",
+        "ip_address": "10.121.1.159",
+        "is_installed": true,
+        "riskScore": 124010.0
+    },
+    {
+        "server_name": "vicppdvcntlog02",
+        "ip_address": "10.121.0.84",
+        "is_installed": true,
+        "riskScore": 160574.0
+    },
+    {
+        "server_name": "EUR1031",
+        "ip_address": "172.22.0.83",
+        "is_installed": true,
+        "riskScore": 320761.0
+    },
+    {
+        "server_name": "vicdevvcntesb02",
+        "ip_address": "10.121.1.50",
+        "is_installed": true,
+        "riskScore": 162109.0
+    },
+    {
+        "server_name": "victstvcntdsh01",
+        "ip_address": "10.121.0.162",
+        "is_installed": true,
+        "riskScore": 121034.0
+    },
+    {
+        "server_name": "victstvcntjob02",
+        "ip_address": "10.121.1.148",
+        "is_installed": true,
+        "riskScore": 158700.0
+    },
+    {
+        "server_name": "FRHQVM046",
+        "ip_address": "172.26.0.99",
+        "is_installed": true,
+        "riskScore": 490083.0
+    },
+    {
+        "server_name": "victstvcntgtw01",
+        "ip_address": "10.121.0.158",
+        "is_installed": true,
+        "riskScore": 121034.0
+    },
+    {
+        "server_name": "FRHQSV926",
+        "ip_address": "172.22.0.163",
+        "is_installed": true,
+        "riskScore": 5857.0
+    },
+    {
+        "server_name": "EUR1018",
+        "ip_address": "172.22.0.70",
+        "is_installed": true,
+        "riskScore": 6622.0
+    },
+    {
+        "server_name": "vicppdvcnttac03",
+        "ip_address": "10.121.1.66",
+        "is_installed": true,
+        "riskScore": 167004.0
+    },
+    {
+        "server_name": "FRHQSV1043",
+        "ip_address": "172.26.0.222",
+        "is_installed": true,
+        "riskScore": 8140.0
+    },
+    {
+        "server_name": "FRHQSV906",
+        "ip_address": "172.26.0.7",
+        "is_installed": true,
+        "riskScore": 5522.0
+    },
+    {
+        "server_name": "VIN-0042",
+        "ip_address": "10.121.128.10",
+        "is_installed": true,
+        "riskScore": 28478.0
+    },
+    {
+        "server_name": "VIN-0047",
+        "ip_address": "10.121.128.12",
+        "is_installed": true,
+        "riskScore": 26234.0
+    },
+    {
+        "server_name": "FRHQSV977",
+        "ip_address": "172.26.0.63",
+        "is_installed": true,
+        "riskScore": 10808.0
+    },
+    {
+        "server_name": "vicprdvulnapp01",
+        "ip_address": "10.121.2.4",
+        "is_installed": true,
+        "riskScore": 14385.0
+    },
+    {
+        "server_name": "GLRESITSV028",
+        "ip_address": "172.26.0.137",
+        "is_installed": true,
+        "riskScore": 15680.0
+    },
+    {
+        "server_name": "FRHQSV971",
+        "ip_address": "172.26.0.17",
+        "is_installed": true,
+        "riskScore": 6533.0
+    },
+    {
+        "server_name": "vicprdpgasfbe10",
+        "ip_address": "10.121.1.193",
+        "is_installed": true,
+        "riskScore": 172146.0
+    },
+    {
+        "server_name": "EUR1021",
+        "ip_address": "172.22.0.73",
+        "is_installed": true,
+        "riskScore": 12000.0
+    },
+    {
+        "server_name": "vicprdpgasfbe03",
+        "ip_address": "10.121.0.59",
+        "is_installed": true,
+        "riskScore": 161606.0
+    },
+    {
+        "server_name": "vicprdpgasfbe04",
+        "ip_address": "10.121.0.70",
+        "is_installed": true,
+        "riskScore": 152223.0
+    },
+    {
+        "server_name": "FRHQSV907",
+        "ip_address": "172.26.0.8",
+        "is_installed": true,
+        "riskScore": 5522.0
+    },
+    {
+        "server_name": "vicprdsseiapp01",
+        "ip_address": "10.121.0.15",
+        "is_installed": true,
+        "riskScore": 2799.0
+    },
+    {
+        "server_name": "GLRESITSV025",
+        "ip_address": "172.26.0.134",
+        "is_installed": true,
+        "riskScore": 9928.0
+    },
+    {
+        "server_name": "vicprdpgasfbe02",
+        "ip_address": "10.121.1.196",
+        "is_installed": true,
+        "riskScore": 165315.0
+    },
+    {
+        "server_name": "vicppdsseifbe01",
+        "ip_address": "10.121.1.175",
+        "is_installed": true,
+        "riskScore": 6092.0
+    },
+    {
+        "server_name": "vicprdpgasfbe01",
+        "ip_address": "10.121.0.99",
+        "is_installed": true,
+        "riskScore": 160856.0
+    },
+    {
+        "server_name": "victstvcntmdb01",
+        "ip_address": "10.121.0.165",
+        "is_installed": true,
+        "riskScore": 119312.0
+    },
+    {
+        "server_name": "vicprdsseifbe01",
+        "ip_address": "10.121.1.157",
+        "is_installed": true,
+        "riskScore": 3468.0
+    },
+    {
+        "server_name": "FRHQSV927",
+        "ip_address": "172.26.0.221",
+        "is_installed": true,
+        "riskScore": 6024.0
+    },
+    {
+        "server_name": "FRHQSV946",
+        "ip_address": "172.26.0.225",
+        "is_installed": true,
+        "riskScore": 8702.0
+    },
+    {
+        "server_name": "FRHQSV913",
+        "ip_address": "172.22.0.36",
+        "is_installed": false,
+        "riskScore": 4615.0
+    },
+    {
+        "server_name": "vicdevsseifbe02",
+        "ip_address": "10.121.0.107",
+        "is_installed": true,
+        "riskScore": 8363.0
+    },
+    {
+        "server_name": "FRHQSV067",
+        "ip_address": "172.26.0.156",
+        "is_installed": true,
+        "riskScore": 10521.0
+    },
+    {
+        "server_name": "GLRESITSV023",
+        "ip_address": "172.26.0.132",
+        "is_installed": true,
+        "riskScore": 64641.0
+    },
+    {
+        "server_name": "vicprdpgasfbe09",
+        "ip_address": "10.121.1.191",
+        "is_installed": true,
+        "riskScore": 172146.0
+    },
+    {
+        "server_name": "vicppdsseiapp01",
+        "ip_address": "10.121.1.164",
+        "is_installed": true,
+        "riskScore": 20065.0
+    },
+    {
+        "server_name": "UKFRA000DC002",
+        "ip_address": "172.26.0.96",
+        "is_installed": true,
+        "riskScore": 8568.0
+    },
+    {
+        "server_name": "vicdevsseiapp01",
+        "ip_address": "10.121.0.154",
+        "is_installed": true,
+        "riskScore": 15963.0
+    },
+    {
+        "server_name": "EUR1011",
+        "ip_address": "172.26.6.21",
+        "is_installed": true,
+        "riskScore": 10190.0
+    },
+    {
+        "server_name": "vicdevsseifbe01",
+        "ip_address": "10.121.1.10",
+        "is_installed": true,
+        "riskScore": 6480.0
+    },
+    {
+        "server_name": "vicdevsseiapp02",
+        "ip_address": "10.121.0.106",
+        "is_installed": true,
+        "riskScore": 18713.0
+    },
+    {
+        "server_name": "GLRESITSV024",
+        "ip_address": "172.26.0.133",
+        "is_installed": true,
+        "riskScore": 13792.0
+    },
+    {
+        "server_name": "GLRESITSV019",
+        "ip_address": "172.26.0.129",
+        "is_installed": true,
+        "riskScore": 12919.0
+    },
+    {
+        "server_name": "vicprdmrdsweb03",
+        "ip_address": "10.121.0.10",
+        "is_installed": true,
+        "riskScore": 246258.0
+    },
+    {
+        "server_name": "GLRESITSV022",
+        "ip_address": "172.26.0.131",
+        "is_installed": true,
+        "riskScore": 64467.0
+    },
+    {
+        "server_name": "vicprdinfrlic01",
+        "ip_address": "10.121.1.118",
+        "is_installed": true,
+        "riskScore": 12830.0
+    },
+    {
+        "server_name": "vicrecpgasfbe01",
+        "ip_address": "10.121.1.32",
+        "is_installed": true,
+        "riskScore": 161358.0
+    },
+    {
+        "server_name": "EUR1026",
+        "ip_address": "172.22.8.67",
+        "is_installed": true,
+        "riskScore": 5755.0
+    },
+    {
+        "server_name": "FRHQSV979",
+        "ip_address": "172.22.0.170",
+        "is_installed": true,
+        "riskScore": 8861.0
+    },
+    {
+        "server_name": "VICPRDEXCHCLI02",
+        "ip_address": "10.121.0.6",
+        "is_installed": true,
+        "riskScore": 618565.0
+    },
+    {
+        "server_name": "vicprdpshlapp02",
+        "ip_address": "10.121.1.108",
+        "is_installed": true,
+        "riskScore": 4914.0
+    },
+    {
+        "server_name": "EUR1025",
+        "ip_address": "172.22.0.76",
+        "is_installed": true,
+        "riskScore": 10825.0
+    },
+    {
+        "server_name": "CZFRA000DC002",
+        "ip_address": "172.26.0.92",
+        "is_installed": true,
+        "riskScore": 68305.0
+    },
+    {
+        "server_name": "vicprdinfrpwd02",
+        "ip_address": "10.121.1.158",
+        "is_installed": true,
+        "riskScore": 15382.0
+    },
+    {
+        "server_name": "VICPRDEXCHFSW02",
+        "ip_address": "10.121.12.98",
+        "is_installed": true,
+        "riskScore": 13586.0
+    },
+    {
+        "server_name": "vicprdinfrsql02",
+        "ip_address": "10.121.1.174",
+        "is_installed": true,
+        "riskScore": 361129.0
+    },
+    {
+        "server_name": "INTE73",
+        "ip_address": "172.22.8.68",
+        "is_installed": true,
+        "riskScore": 16218.0
+    },
+    {
+        "server_name": "vicdevnetwtrt01",
+        "ip_address": "10.121.0.183",
+        "is_installed": true,
+        "riskScore": 51624.0
+    },
+    {
+        "server_name": "FRHQSV954",
+        "ip_address": "172.27.0.159",
+        "is_installed": true,
+        "riskScore": 7044.0
+    },
+    {
+        "server_name": "USFRA000DC002",
+        "ip_address": "172.26.0.97",
+        "is_installed": false,
+        "riskScore": 10690.0
+    },
+    {
+        "server_name": "GLRESITSV018",
+        "ip_address": "172.26.0.128",
+        "is_installed": true,
+        "riskScore": 6963.0
+    },
+    {
+        "server_name": "FRHQSV199",
+        "ip_address": "172.26.0.12",
+        "is_installed": true,
+        "riskScore": 407190.0
+    },
+    {
+        "server_name": "vicprdvcntesb07",
+        "ip_address": "10.121.1.184",
+        "is_installed": true,
+        "riskScore": 127730.0
+    },
+    {
+        "server_name": "vicprdvcntnxs02",
+        "ip_address": "10.121.0.78",
+        "is_installed": true,
+        "riskScore": 126749.0
+    },
+    {
+        "server_name": "vicprdvcnttac03",
+        "ip_address": "10.121.1.168",
+        "is_installed": true,
+        "riskScore": 167004.0
+    },
+    {
+        "server_name": "EUR1028",
+        "ip_address": "172.22.0.78",
+        "is_installed": true,
+        "riskScore": 46850.0
+    },
+    {
+        "server_name": "vicprdvcntjob04",
+        "ip_address": "10.121.1.197",
+        "is_installed": true,
+        "riskScore": 128399.0
+    },
+    {
+        "server_name": "vicprdvcntrds02",
+        "ip_address": "10.121.1.216",
+        "is_installed": true,
+        "riskScore": 12830.0
+    },
+    {
+        "server_name": "GLRESITSV017",
+        "ip_address": "172.26.6.12",
+        "is_installed": true,
+        "riskScore": 8228.0
+    },
+    {
+        "server_name": "EUR1008",
+        "ip_address": "172.26.6.7",
+        "is_installed": true,
+        "riskScore": 7312.0
+    },
+    {
+        "server_name": "FRHQSV953",
+        "ip_address": "172.27.0.157",
+        "is_installed": true,
+        "riskScore": 8750.0
+    },
+    {
+        "server_name": "vicprdvcntesb08",
+        "ip_address": "10.121.1.183",
+        "is_installed": true,
+        "riskScore": 127730.0
+    },
+    {
+        "server_name": "VIN-0052",
+        "ip_address": "10.121.128.17",
+        "is_installed": true,
+        "riskScore": 237906.0
+    },
+    {
+        "server_name": "vicprdvcntesb05",
+        "ip_address": "10.121.1.181",
+        "is_installed": true,
+        "riskScore": 127730.0
+    },
+    {
+        "server_name": "EUR1029",
+        "ip_address": "172.22.0.80",
+        "is_installed": true,
+        "riskScore": 278080.0
+    },
+    {
+        "server_name": "EUR1030",
+        "ip_address": "172.22.0.81",
+        "is_installed": true,
+        "riskScore": 14692.0
+    },
+    {
+        "server_name": "VCFI-APPLI-07",
+        "ip_address": "10.121.128.40",
+        "is_installed": true,
+        "riskScore": 74809.0
+    },
+    {
+        "server_name": "VIN-0050",
+        "ip_address": "10.121.128.15",
+        "is_installed": true,
+        "riskScore": 26743.0
+    },
+    {
+        "server_name": "INTE74",
+        "ip_address": "172.22.0.79",
+        "is_installed": true,
+        "riskScore": 9194.0
+    },
+    {
+        "server_name": "GLRESITSV016",
+        "ip_address": "172.26.0.127",
+        "is_installed": true,
+        "riskScore": 9185.0
+    },
+    {
+        "server_name": "FRHQSV910",
+        "ip_address": "172.22.0.33",
+        "is_installed": false,
+        "riskScore": 422203.0
+    },
+    {
+        "server_name": "vicprdvcntlog02",
+        "ip_address": "10.121.1.179",
+        "is_installed": true,
+        "riskScore": 125342.0
+    },
+    {
+        "server_name": "VIN-0018",
+        "ip_address": "10.121.128.4",
+        "is_installed": true,
+        "riskScore": 26234.0
+    },
+    {
+        "server_name": "VIN-0044",
+        "ip_address": "10.121.128.14",
+        "is_installed": true,
+        "riskScore": 107577.0
+    },
+    {
+        "server_name": "GLRESITSV020",
+        "ip_address": "172.26.0.130",
+        "is_installed": true,
+        "riskScore": 10397.0
+    },
+    {
+        "server_name": "GLRESITSV021",
+        "ip_address": "172.26.6.13",
+        "is_installed": true,
+        "riskScore": 205875.0
+    },
+    {
+        "server_name": "FRHQSV981",
+        "ip_address": "172.22.8.135",
+        "is_installed": true,
+        "riskScore": 7553.0
+    },
+    {
+        "server_name": "VIN-0051",
+        "ip_address": "10.121.128.16",
+        "is_installed": true,
+        "riskScore": 26234.0
+    },
+    {
+        "server_name": "VIN-0049",
+        "ip_address": "10.121.128.11",
+        "is_installed": true,
+        "riskScore": 30659.0
+    },
+    {
+        "server_name": "VIN-0019",
+        "ip_address": "10.121.128.5",
+        "is_installed": true,
+        "riskScore": 26234.0
+    },
+    {
+        "server_name": "vicprdvcntnfs02",
+        "ip_address": "10.121.1.169",
+        "is_installed": true,
+        "riskScore": 124010.0
+    },
+    {
+        "server_name": "VIN-0043",
+        "ip_address": "10.121.128.6",
+        "is_installed": true,
+        "riskScore": 215988.0
+    },
+    {
+        "server_name": "VINPRDVEEAAPP01",
+        "ip_address": "10.123.140.13",
+        "is_installed": false,
+        "riskScore": 3635.0
+    },
+    {
+        "server_name": "VIN-0030",
+        "ip_address": "10.121.128.13",
+        "is_installed": true,
+        "riskScore": 227056.0
+    },
+    {
+        "server_name": "vicppddocwfbe02",
+        "ip_address": "10.121.1.86",
+        "is_installed": true,
+        "riskScore": 2625.0
+    },
+    {
+        "server_name": "vicppdmatifbe01",
+        "ip_address": "10.121.0.130",
+        "is_installed": true,
+        "riskScore": 21662.0
+    },
+    {
+        "server_name": "vicprdtoscapp01",
+        "ip_address": "10.121.0.178",
+        "is_installed": true,
+        "riskScore": 4681.0
+    },
+    {
+        "server_name": "vicrecmatifbe01",
+        "ip_address": "10.121.0.189",
+        "is_installed": true,
+        "riskScore": 22157.0
+    },
+    {
+        "server_name": "vicppdlippfbe01",
+        "ip_address": "10.121.0.108",
+        "is_installed": true,
+        "riskScore": 15148.0
+    },
+    {
+        "server_name": "vicprdlippfbe16",
+        "ip_address": "10.121.0.177",
+        "is_installed": true,
+        "riskScore": 15148.0
+    },
+    {
+        "server_name": "vicprdlippfbe12",
+        "ip_address": "10.121.0.43",
+        "is_installed": true,
+        "riskScore": 15643.0
+    },
+    {
+        "server_name": "vicprdmsqlapp01",
+        "ip_address": "10.121.0.174",
+        "is_installed": true,
+        "riskScore": 5235.0
+    },
+    {
+        "server_name": "vicprdlippfbe10",
+        "ip_address": "10.121.0.149",
+        "is_installed": true,
+        "riskScore": 15148.0
+    },
+    {
+        "server_name": "vicprdlippfbe13",
+        "ip_address": "10.121.0.168",
+        "is_installed": true,
+        "riskScore": 15148.0
+    },
+    {
+        "server_name": "vicprdlippfbe15",
+        "ip_address": "10.121.0.171",
+        "is_installed": true,
+        "riskScore": 15148.0
+    },
+    {
+        "server_name": "vicprdlippfbe09",
+        "ip_address": "10.121.0.105",
+        "is_installed": true,
+        "riskScore": 15148.0
+    },
+    {
+        "server_name": "vicprdlippfbe11",
+        "ip_address": "10.121.0.150",
+        "is_installed": true,
+        "riskScore": 15148.0
+    },
+    {
+        "server_name": "VICPPDCERTFBE01",
+        "ip_address": "10.121.0.13",
+        "is_installed": false,
+        "riskScore": 5177.0
+    },
+    {
+        "server_name": "GRPPPDADDSWDC01",
+        "ip_address": "10.121.0.72",
+        "is_installed": true,
+        "riskScore": 5393.0
+    },
+    {
+        "server_name": "vicppdaddswdc01",
+        "ip_address": "10.121.0.117",
+        "is_installed": true,
+        "riskScore": 92645.0
+    },
+    {
+        "server_name": "vicppdcertwkg01",
+        "ip_address": "10.121.1.63",
+        "is_installed": true,
+        "riskScore": 1176289.0
+    },
+    {
+        "server_name": "vicppdcertstd01",
+        "ip_address": "10.121.1.62",
+        "is_installed": false,
+        "riskScore": 904.0
+    },
+    {
+        "server_name": "vicuatcicdadm02",
+        "ip_address": "10.121.1.192",
+        "is_installed": true,
+        "riskScore": 12830.0
+    },
+    {
+        "server_name": "vicpocinfrfbe01",
+        "ip_address": "10.121.1.204",
+        "is_installed": true,
+        "riskScore": 14617.0
+    },
+    {
+        "server_name": "EXTPPDADDSWDC01",
+        "ip_address": "10.121.0.134",
+        "is_installed": true,
+        "riskScore": 5781.0
+    },
+    {
+        "server_name": "VICPPDAZACAPP01",
+        "ip_address": "10.121.0.61",
+        "is_installed": true,
+        "riskScore": 6016.0
+    },
+    {
+        "server_name": "vicppdcertent01",
+        "ip_address": "10.121.0.41",
+        "is_installed": true,
+        "riskScore": 6945.0
+    },
+    {
+        "server_name": "vicppdaddswdc02",
+        "ip_address": "10.121.0.120",
+        "is_installed": true,
+        "riskScore": 8344.0
+    },
+    {
+        "server_name": "GRPPPDMULTADM01",
+        "ip_address": "10.121.0.89",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "vicprdmultadm01",
+        "ip_address": "10.121.0.175",
+        "is_installed": true,
+        "riskScore": 168111.0
+    },
+    {
+        "server_name": "vicuatcicdadm03",
+        "ip_address": "10.121.0.136",
+        "is_installed": true,
+        "riskScore": 149775.0
+    },
+    {
+        "server_name": "vicprdlippfbe04",
+        "ip_address": "10.121.0.172",
+        "is_installed": true,
+        "riskScore": 15148.0
+    },
+    {
+        "server_name": "vicprdlippfbe08",
+        "ip_address": "10.121.0.176",
+        "is_installed": true,
+        "riskScore": 15148.0
+    },
+    {
+        "server_name": "vicprddmbfapp01",
+        "ip_address": "10.121.1.74",
+        "is_installed": true,
+        "riskScore": 12830.0
+    },
+    {
+        "server_name": "victstdmattrt01",
+        "ip_address": "10.121.0.98",
+        "is_installed": true,
+        "riskScore": 3280.0
+    },
+    {
+        "server_name": "vicppdradiapp02",
+        "ip_address": "10.121.0.146",
+        "is_installed": true,
+        "riskScore": 291788.0
+    },
+    {
+        "server_name": "vicppdradiapp01",
+        "ip_address": "10.121.0.145",
+        "is_installed": true,
+        "riskScore": 291788.0
+    },
+    {
+        "server_name": "vicppdipamfbe01",
+        "ip_address": "10.121.1.160",
+        "is_installed": true,
+        "riskScore": 290154.0
+    },
+    {
+        "server_name": "vicuatcicdadm01",
+        "ip_address": "10.121.1.156",
+        "is_installed": true,
+        "riskScore": 154683.0
+    },
+    {
+        "server_name": "victstadmnlog01",
+        "ip_address": "10.121.0.39",
+        "is_installed": true,
+        "riskScore": 54901.0
+    },
+    {
+        "server_name": "vicprdmultadm02",
+        "ip_address": "10.121.1.77",
+        "is_installed": true,
+        "riskScore": 187926.0
+    },
+    {
+        "server_name": "vicppdinfrapp01",
+        "ip_address": "10.121.1.27",
+        "is_installed": true,
+        "riskScore": 62431.0
+    },
+    {
+        "server_name": "vicppdwapitrt01",
+        "ip_address": "10.121.1.207",
+        "is_installed": true,
+        "riskScore": 131174.0
+    },
+    {
+        "server_name": "victstwapitrt01",
+        "ip_address": "10.121.1.206",
+        "is_installed": true,
+        "riskScore": 133684.0
+    },
+    {
+        "server_name": "vicppdmovcfbe01",
+        "ip_address": "10.121.0.190",
+        "is_installed": true,
+        "riskScore": 3046.0
+    },
+    {
+        "server_name": "vicdevwapitrt01",
+        "ip_address": "10.121.1.205",
+        "is_installed": true,
+        "riskScore": 131174.0
+    },
+    {
+        "server_name": "vicprdmovcfbe01",
+        "ip_address": "10.121.0.188",
+        "is_installed": true,
+        "riskScore": 3046.0
+    },
+    {
+        "server_name": "vicprdadmtfbe01",
+        "ip_address": "10.121.1.61",
+        "is_installed": true,
+        "riskScore": 4380.0
+    },
+    {
+        "server_name": "vicprdwapitrt02",
+        "ip_address": "10.121.1.221",
+        "is_installed": true,
+        "riskScore": 162488.0
+    },
+    {
+        "server_name": "VICPPDMEPPPRX01",
+        "ip_address": "10.121.4.42",
+        "is_installed": true,
+        "riskScore": 4660.0
+    },
+    {
+        "server_name": "vicrecmhanfbe02",
+        "ip_address": "10.121.1.234",
+        "is_installed": true,
+        "riskScore": 37235.0
+    },
+    {
+        "server_name": "VICPPDMEPPPRX02",
+        "ip_address": "10.121.4.43",
+        "is_installed": true,
+        "riskScore": 4660.0
+    },
+    {
+        "server_name": "vicdevmsbifbe02",
+        "ip_address": "10.121.0.184",
+        "is_installed": true,
+        "riskScore": 10704.0
+    },
+    {
+        "server_name": "vicprdmsbifbe01",
+        "ip_address": "10.121.0.186",
+        "is_installed": true,
+        "riskScore": 10035.0
+    },
+    {
+        "server_name": "vicppdmsbifbe01",
+        "ip_address": "10.121.0.185",
+        "is_installed": true,
+        "riskScore": 10704.0
+    },
+    {
+        "server_name": "vicprdpshlapp01",
+        "ip_address": "10.120.200.39",
+        "is_installed": true,
+        "riskScore": 11902.0
+    },
+    {
+        "server_name": "vicprdsicofil01",
+        "ip_address": "10.120.200.30",
+        "is_installed": true,
+        "riskScore": 126614.0
+    },
+    {
+        "server_name": "vicprdfimtapp02",
+        "ip_address": "10.120.200.9",
+        "is_installed": true,
+        "riskScore": 14075.0
+    },
+    {
+        "server_name": "vicprdsiemgtw03",
+        "ip_address": "10.120.200.10",
+        "is_installed": true,
+        "riskScore": 15275.0
+    },
+    {
+        "server_name": "vicppdwapitrt02",
+        "ip_address": "10.121.1.208",
+        "is_installed": true,
+        "riskScore": 131174.0
+    },
+    {
+        "server_name": "vicprdwapitrt01",
+        "ip_address": "10.121.1.220",
+        "is_installed": true,
+        "riskScore": 162488.0
+    },
+    {
+        "server_name": "vicppdmsqlapp01",
+        "ip_address": "10.121.5.148",
+        "is_installed": true,
+        "riskScore": 13586.0
+    },
+    {
+        "server_name": "VINCIC-APPLI-17",
+        "ip_address": "192.168.254.1",
+        "is_installed": false,
+        "riskScore": 48497.0
+    },
+    {
+        "server_name": "vicprdexchfbe03",
+        "ip_address": "10.121.32.96",
+        "is_installed": true,
+        "riskScore": 11429.0
+    },
+    {
+        "server_name": "vicprdexchfbe04",
+        "ip_address": "10.121.32.168",
+        "is_installed": true,
+        "riskScore": 10893.0
+    },
+    {
+        "server_name": "vicprduniftrt02",
+        "ip_address": "10.121.1.89",
+        "is_installed": true,
+        "riskScore": 24160.0
+    },
+    {
+        "server_name": "VICPRDELCTFBE01",
+        "ip_address": "10.121.0.163",
+        "is_installed": true,
+        "riskScore": 3555.0
+    },
+    {
+        "server_name": "vicprdmsqlapp02",
+        "ip_address": "10.121.1.98",
+        "is_installed": true,
+        "riskScore": 13586.0
+    },
+    {
+        "server_name": "vicprdpshlfbe01",
+        "ip_address": "10.121.0.22",
+        "is_installed": true,
+        "riskScore": 3046.0
+    },
+    {
+        "server_name": "vicprduniftrt03",
+        "ip_address": "10.121.1.163",
+        "is_installed": true,
+        "riskScore": 34111.0
+    },
+    {
+        "server_name": "VICPPDELCTFBE01",
+        "ip_address": "10.121.0.164",
+        "is_installed": true,
+        "riskScore": 3555.0
+    },
+    {
+        "server_name": "vicprdsccmadm01",
+        "ip_address": "10.121.1.72",
+        "is_installed": true,
+        "riskScore": 17840.0
+    },
+    {
+        "server_name": "VGPPRDCADM02",
+        "ip_address": "10.123.124.5",
+        "is_installed": true,
+        "riskScore": 336135.0
+    },
+    {
+        "server_name": "vicprdhapyfbe01",
+        "ip_address": "10.121.0.101",
+        "is_installed": true,
+        "riskScore": 129419.0
+    },
+    {
+        "server_name": "vicprdsccmdps01",
+        "ip_address": "10.121.1.19",
+        "is_installed": true,
+        "riskScore": 6892.0
+    },
+    {
+        "server_name": "vicprdglpifbe02",
+        "ip_address": "10.121.1.194",
+        "is_installed": true,
+        "riskScore": 217984.0
+    },
+    {
+        "server_name": "vicprdcicdadm02",
+        "ip_address": "10.121.0.48",
+        "is_installed": true,
+        "riskScore": 373028.0
+    },
+    {
+        "server_name": "vicprdadmnfbe01",
+        "ip_address": "10.121.1.31",
+        "is_installed": true,
+        "riskScore": 311371.0
+    },
+    {
+        "server_name": "vicprdinfrfbe02",
+        "ip_address": "10.121.1.28",
+        "is_installed": true,
+        "riskScore": 225068.0
+    },
+    {
+        "server_name": "vicrecdprgfbe01",
+        "ip_address": "10.126.130.3",
+        "is_installed": true,
+        "riskScore": 12830.0
+    },
+    {
+        "server_name": "vicprdcicdadm01",
+        "ip_address": "10.121.1.155",
+        "is_installed": true,
+        "riskScore": 126694.0
+    },
+    {
+        "server_name": "victstmav2ssb01",
+        "ip_address": "10.121.1.188",
+        "is_installed": true,
+        "riskScore": 6523.0
+    },
+    {
+        "server_name": "vicformav2rds02",
+        "ip_address": "10.121.1.82",
+        "is_installed": true,
+        "riskScore": 416172.0
+    },
+    {
+        "server_name": "vicformav2rdw02",
+        "ip_address": "10.121.2.1",
+        "is_installed": true,
+        "riskScore": 4929.0
+    },
+    {
+        "server_name": "vicprdradiapp02",
+        "ip_address": "10.121.0.109",
+        "is_installed": true,
+        "riskScore": 291788.0
+    },
+    {
+        "server_name": "vicprdipamfbe01",
+        "ip_address": "10.121.0.238",
+        "is_installed": true,
+        "riskScore": 310663.0
+    },
+    {
+        "server_name": "vicppdsc12edt02",
+        "ip_address": "10.121.0.197",
+        "is_installed": true,
+        "riskScore": 2290.0
+    },
+    {
+        "server_name": "vicrecsc12edt01",
+        "ip_address": "10.121.0.38",
+        "is_installed": true,
+        "riskScore": 2290.0
+    },
+    {
+        "server_name": "vicppdsc12mdb04",
+        "ip_address": "10.121.0.155",
+        "is_installed": true,
+        "riskScore": 314271.0
+    },
+    {
+        "server_name": "vicppdmav2rds01",
+        "ip_address": "10.121.1.6",
+        "is_installed": true,
+        "riskScore": 485185.0
+    },
+    {
+        "server_name": "vicdevmav2rds01",
+        "ip_address": "10.121.0.216",
+        "is_installed": true,
+        "riskScore": 348259.0
+    },
+    {
+        "server_name": "vicprdcicdadm03",
+        "ip_address": "10.121.0.147",
+        "is_installed": true,
+        "riskScore": 207062.0
+    },
+    {
+        "server_name": "vicprdradiapp01",
+        "ip_address": "10.121.0.110",
+        "is_installed": true,
+        "riskScore": 291788.0
+    },
+    {
+        "server_name": "vicppdsc12mdb06",
+        "ip_address": "10.121.0.166",
+        "is_installed": true,
+        "riskScore": 314271.0
+    },
+    {
+        "server_name": "vichomsc12edt01",
+        "ip_address": "10.121.1.112",
+        "is_installed": true,
+        "riskScore": 13151.0
+    },
+    {
+        "server_name": "victstmav2rds01",
+        "ip_address": "10.121.1.186",
+        "is_installed": true,
+        "riskScore": 218741.0
+    },
+    {
+        "server_name": "vicppdsc12trt04",
+        "ip_address": "10.121.0.27",
+        "is_installed": true,
+        "riskScore": 371747.0
+    },
+    {
+        "server_name": "vicppdsc12edt01",
+        "ip_address": "10.121.0.64",
+        "is_installed": true,
+        "riskScore": 125540.0
+    },
+    {
+        "server_name": "vichomsc12edt02",
+        "ip_address": "10.121.0.87",
+        "is_installed": true,
+        "riskScore": 2611.0
+    },
+    {
+        "server_name": "vichomsc12trt03",
+        "ip_address": "10.121.0.157",
+        "is_installed": true,
+        "riskScore": 102181.0
+    },
+    {
+        "server_name": "vichomsc12syr03",
+        "ip_address": "10.121.0.214",
+        "is_installed": true,
+        "riskScore": 42013.0
+    },
+    {
+        "server_name": "vicdevsc12fbe02",
+        "ip_address": "10.121.1.137",
+        "is_installed": true,
+        "riskScore": 315016.0
+    },
+    {
+        "server_name": "vicppdsc12mdb05",
+        "ip_address": "10.121.0.159",
+        "is_installed": true,
+        "riskScore": 314271.0
+    },
+    {
+        "server_name": "vicppdsc12trt03",
+        "ip_address": "10.121.0.151",
+        "is_installed": true,
+        "riskScore": 371747.0
+    },
+    {
+        "server_name": "vicrecsc12fbe02",
+        "ip_address": "10.121.0.31",
+        "is_installed": true,
+        "riskScore": 312270.0
+    },
+    {
+        "server_name": "vichomsc12trt04",
+        "ip_address": "10.121.0.156",
+        "is_installed": true,
+        "riskScore": 102181.0
+    },
+    {
+        "server_name": "vichomsc12mdb06",
+        "ip_address": "10.121.0.153",
+        "is_installed": true,
+        "riskScore": 44705.0
+    },
+    {
+        "server_name": "vicppdmav2rds02",
+        "ip_address": "10.121.1.7",
+        "is_installed": true,
+        "riskScore": 485185.0
+    },
+    {
+        "server_name": "vicppdsc12app01",
+        "ip_address": "10.121.1.37",
+        "is_installed": true,
+        "riskScore": 190975.0
+    },
+    {
+        "server_name": "vicdevsc12edt01",
+        "ip_address": "10.121.0.75",
+        "is_installed": true,
+        "riskScore": 2611.0
+    },
+    {
+        "server_name": "vicppdsc12syr03",
+        "ip_address": "10.121.0.133",
+        "is_installed": true,
+        "riskScore": 311579.0
+    },
+    {
+        "server_name": "vicppdmav2rdw02",
+        "ip_address": "10.121.0.224",
+        "is_installed": true,
+        "riskScore": 6155.0
+    },
+    {
+        "server_name": "vicdevsc12rds01",
+        "ip_address": "10.121.0.248",
+        "is_installed": true,
+        "riskScore": 110619.0
+    },
+    {
+        "server_name": "vichomsc12syr01",
+        "ip_address": "10.121.0.60",
+        "is_installed": true,
+        "riskScore": 42013.0
+    },
+    {
+        "server_name": "vicdevmav2rds02",
+        "ip_address": "10.121.0.35",
+        "is_installed": true,
+        "riskScore": 638637.0
+    },
+    {
+        "server_name": "vicppdmav2rdw01",
+        "ip_address": "10.121.1.12",
+        "is_installed": true,
+        "riskScore": 6155.0
+    },
+    {
+        "server_name": "vicppdsc12syr04",
+        "ip_address": "10.121.0.129",
+        "is_installed": true,
+        "riskScore": 311579.0
+    },
+    {
+        "server_name": "vicppdmav2scp01",
+        "ip_address": "10.121.1.43",
+        "is_installed": true,
+        "riskScore": 31828.0
+    },
+    {
+        "server_name": "vicprdzabirds01",
+        "ip_address": "10.123.8.31",
+        "is_installed": true,
+        "riskScore": 50473.0
+    },
+    {
+        "server_name": "vichomsc12app01",
+        "ip_address": "10.121.1.51",
+        "is_installed": true,
+        "riskScore": 6120.0
+    },
+    {
+        "server_name": "victstmav2rds02",
+        "ip_address": "10.121.1.187",
+        "is_installed": true,
+        "riskScore": 238161.0
+    },
+    {
+        "server_name": "vicppdmav2fil01",
+        "ip_address": "10.121.1.11",
+        "is_installed": true,
+        "riskScore": 13265.0
+    },
+    {
+        "server_name": "vicprdsc12edt03",
+        "ip_address": "10.121.1.129",
+        "is_installed": true,
+        "riskScore": 136080.0
+    },
+    {
+        "server_name": "vicformav2rds01",
+        "ip_address": "10.121.1.87",
+        "is_installed": true,
+        "riskScore": 488662.0
+    },
+    {
+        "server_name": "vicprdmav2lic01",
+        "ip_address": "10.121.1.76",
+        "is_installed": true,
+        "riskScore": 13586.0
+    },
+    {
+        "server_name": "vicprdmav2rds01",
+        "ip_address": "10.121.0.73",
+        "is_installed": true,
+        "riskScore": 485185.0
+    },
+    {
+        "server_name": "vicprdmav2rdw01",
+        "ip_address": "10.121.1.91",
+        "is_installed": true,
+        "riskScore": 16695.0
+    },
+    {
+        "server_name": "vicprdmav2rds12",
+        "ip_address": "10.121.1.97",
+        "is_installed": true,
+        "riskScore": 484683.0
+    },
+    {
+        "server_name": "vicprdsc12adm01",
+        "ip_address": "10.121.0.235",
+        "is_installed": true,
+        "riskScore": 6948.0
+    },
+    {
+        "server_name": "vicprdmav2rds03",
+        "ip_address": "10.121.1.133",
+        "is_installed": true,
+        "riskScore": 485185.0
+    },
+    {
+        "server_name": "vicprdsc12syr09",
+        "ip_address": "10.121.0.97",
+        "is_installed": true,
+        "riskScore": 311579.0
+    },
+    {
+        "server_name": "vichomsc12mdb04",
+        "ip_address": "10.121.0.21",
+        "is_installed": true,
+        "riskScore": 44705.0
+    },
+    {
+        "server_name": "vicprdmav2rds05",
+        "ip_address": "10.121.1.94",
+        "is_installed": true,
+        "riskScore": 485185.0
+    },
+    {
+        "server_name": "vicprdmav2rds06",
+        "ip_address": "10.121.1.95",
+        "is_installed": true,
+        "riskScore": 485185.0
+    },
+    {
+        "server_name": "vicprdsc12mdb05",
+        "ip_address": "10.121.0.181",
+        "is_installed": true,
+        "riskScore": 314271.0
+    },
+    {
+        "server_name": "vicprdmav2fil01",
+        "ip_address": "10.121.1.103",
+        "is_installed": true,
+        "riskScore": 13265.0
+    },
+    {
+        "server_name": "vicprdmav2rds07",
+        "ip_address": "10.121.1.96",
+        "is_installed": true,
+        "riskScore": 485185.0
+    },
+    {
+        "server_name": "vicprdsc12edt01",
+        "ip_address": "10.121.1.128",
+        "is_installed": true,
+        "riskScore": 136080.0
+    },
+    {
+        "server_name": "vicprdsc12syr08",
+        "ip_address": "10.121.0.85",
+        "is_installed": true,
+        "riskScore": 311579.0
+    },
+    {
+        "server_name": "vicprdzabifbe01",
+        "ip_address": "10.123.8.30",
+        "is_installed": true,
+        "riskScore": 252379.0
+    },
+    {
+        "server_name": "vicprdsc12edt02",
+        "ip_address": "10.121.1.130",
+        "is_installed": true,
+        "riskScore": 136080.0
+    },
+    {
+        "server_name": "vicprdsc12trt05",
+        "ip_address": "10.121.0.5",
+        "is_installed": true,
+        "riskScore": 371747.0
+    },
+    {
+        "server_name": "vicprdmav2rds11",
+        "ip_address": "10.121.1.99",
+        "is_installed": true,
+        "riskScore": 485185.0
+    },
+    {
+        "server_name": "vicprdmav2rds04",
+        "ip_address": "10.121.1.93",
+        "is_installed": true,
+        "riskScore": 485185.0
+    },
+    {
+        "server_name": "vicprdmav2app03",
+        "ip_address": "10.121.0.88",
+        "is_installed": true,
+        "riskScore": 4914.0
+    },
+    {
+        "server_name": "vicprdsc12trt08",
+        "ip_address": "10.121.0.86",
+        "is_installed": true,
+        "riskScore": 371747.0
+    },
+    {
+        "server_name": "vicprdmav2rds08",
+        "ip_address": "10.121.1.92",
+        "is_installed": true,
+        "riskScore": 485185.0
+    },
+    {
+        "server_name": "vicprdsc12mdb06",
+        "ip_address": "10.121.0.179",
+        "is_installed": true,
+        "riskScore": 314271.0
+    },
+    {
+        "server_name": "vicprdsc12syr07",
+        "ip_address": "10.121.0.94",
+        "is_installed": true,
+        "riskScore": 311579.0
+    },
+    {
+        "server_name": "vicprdmav2rds09",
+        "ip_address": "10.121.1.101",
+        "is_installed": true,
+        "riskScore": 496200.0
+    },
+    {
+        "server_name": "vicprdmav2rdw02",
+        "ip_address": "10.121.1.102",
+        "is_installed": true,
+        "riskScore": 16695.0
+    },
+    {
+        "server_name": "vicprdmav2rds02",
+        "ip_address": "10.121.1.88",
+        "is_installed": true,
+        "riskScore": 485185.0
+    },
+    {
+        "server_name": "vicprdmav2rds10",
+        "ip_address": "10.121.1.100",
+        "is_installed": true,
+        "riskScore": 485185.0
+    },
+    {
+        "server_name": "victstsc12app02",
+        "ip_address": "10.121.0.63",
+        "is_installed": true,
+        "riskScore": 385158.0
+    },
+    {
+        "server_name": "vicprdmav2ssb01",
+        "ip_address": "10.121.1.90",
+        "is_installed": true,
+        "riskScore": 13265.0
+    },
+    {
+        "server_name": "vicprdsc12syr10",
+        "ip_address": "10.121.0.95",
+        "is_installed": true,
+        "riskScore": 311579.0
+    },
+    {
+        "server_name": "vicprdsc12syr11",
+        "ip_address": "10.121.0.96",
+        "is_installed": true,
+        "riskScore": 311579.0
+    },
+    {
+        "server_name": "vicprdsc12arc01",
+        "ip_address": "10.121.1.135",
+        "is_installed": true,
+        "riskScore": 194164.0
+    },
+    {
+        "server_name": "vicprdsc12trt07",
+        "ip_address": "10.121.0.11",
+        "is_installed": true,
+        "riskScore": 371747.0
+    },
+    {
+        "server_name": "vicprdsc12syr12",
+        "ip_address": "10.121.0.37",
+        "is_installed": true,
+        "riskScore": 311579.0
+    },
+    {
+        "server_name": "victstsicoapp01",
+        "ip_address": "10.121.0.247",
+        "is_installed": true,
+        "riskScore": 13347.0
+    },
+    {
+        "server_name": "vicrecmav2rds01",
+        "ip_address": "10.121.1.2",
+        "is_installed": true,
+        "riskScore": 216136.0
+    },
+    {
+        "server_name": "vicprdsc12mdb04",
+        "ip_address": "10.121.0.180",
+        "is_installed": true,
+        "riskScore": 314271.0
+    },
+    {
+        "server_name": "vicprdsccmfrt01",
+        "ip_address": "10.121.0.196",
+        "is_installed": true,
+        "riskScore": 5296.0
+    },
+    {
+        "server_name": "vicprdsc12app01",
+        "ip_address": "10.121.1.126",
+        "is_installed": true,
+        "riskScore": 191410.0
+    },
+    {
+        "server_name": "vicppdmav2ssb01",
+        "ip_address": "10.121.1.8",
+        "is_installed": true,
+        "riskScore": 13265.0
+    },
+    {
+        "server_name": "vicprdsccmpri01",
+        "ip_address": "10.121.1.15",
+        "is_installed": true,
+        "riskScore": 6878.0
+    },
+    {
+        "server_name": "vicprdsccmpri02",
+        "ip_address": "10.121.1.16",
+        "is_installed": true,
+        "riskScore": 17418.0
+    },
+    {
+        "server_name": "vicprdsc12fbe01",
+        "ip_address": "10.121.0.148",
+        "is_installed": true,
+        "riskScore": 310834.0
+    },
+    {
+        "server_name": "vicprdsccmjob01",
+        "ip_address": "10.121.1.68",
+        "is_installed": true,
+        "riskScore": 14476.0
+    },
+    {
+        "server_name": "vicformav2ssb01",
+        "ip_address": "10.121.1.84",
+        "is_installed": true,
+        "riskScore": 4253.0
+    },
+    {
+        "server_name": "vicprdsccmfbe01",
+        "ip_address": "10.121.1.17",
+        "is_installed": true,
+        "riskScore": 3555.0
+    },
+    {
+        "server_name": "vicprdsc12trt06",
+        "ip_address": "10.121.0.57",
+        "is_installed": true,
+        "riskScore": 371747.0
+    },
+    {
+        "server_name": "VINCIC-APPLI-71",
+        "ip_address": "10.121.16.51",
+        "is_installed": true,
+        "riskScore": 177332.0
+    },
+    {
+        "server_name": "vicprdsccmsql01",
+        "ip_address": "10.121.1.18",
+        "is_installed": true,
+        "riskScore": 13600.0
+    },
+    {
+        "server_name": "vicprdsccmdps02",
+        "ip_address": "10.121.1.20",
+        "is_installed": true,
+        "riskScore": 6878.0
+    },
+    {
+        "server_name": "vicprdsccmfil01",
+        "ip_address": "10.121.1.26",
+        "is_installed": true,
+        "riskScore": 14586.0
+    },
+    {
+        "server_name": "vicppdplecfrt04",
+        "ip_address": "10.121.1.214",
+        "is_installed": true,
+        "riskScore": 136143.0
+    },
+    {
+        "server_name": "victstdicafrt01",
+        "ip_address": "10.121.0.74",
+        "is_installed": true,
+        "riskScore": 7319.0
+    },
+    {
+        "server_name": "vicdevplgptrt01",
+        "ip_address": "10.121.0.32",
+        "is_installed": true,
+        "riskScore": 152014.0
+    },
+    {
+        "server_name": "vicppdplgpfil01",
+        "ip_address": "10.121.0.23",
+        "is_installed": true,
+        "riskScore": 117842.0
+    },
+    {
+        "server_name": "vicppdplgpfrt01",
+        "ip_address": "10.121.0.194",
+        "is_installed": true,
+        "riskScore": 136143.0
+    },
+    {
+        "server_name": "vicppdplecfil02",
+        "ip_address": "10.121.0.249",
+        "is_installed": true,
+        "riskScore": 117842.0
+    },
+    {
+        "server_name": "vicprdplecadm01",
+        "ip_address": "10.121.0.46",
+        "is_installed": true,
+        "riskScore": 78782.0
+    },
+    {
+        "server_name": "vicppdplecfrt03",
+        "ip_address": "10.121.1.213",
+        "is_installed": true,
+        "riskScore": 136143.0
+    },
+    {
+        "server_name": "vicprdplgpfrt01",
+        "ip_address": "10.121.1.222",
+        "is_installed": true,
+        "riskScore": 453484.0
+    },
+    {
+        "server_name": "vicdevplecfrt02",
+        "ip_address": "10.121.1.202",
+        "is_installed": true,
+        "riskScore": 136143.0
+    },
+    {
+        "server_name": "vicdevplgpfrt01",
+        "ip_address": "10.121.1.162",
+        "is_installed": true,
+        "riskScore": 166140.0
+    },
+    {
+        "server_name": "vicprdplgptrt01",
+        "ip_address": "10.121.1.224",
+        "is_installed": true,
+        "riskScore": 429870.0
+    },
+    {
+        "server_name": "vicprdplecfrt04",
+        "ip_address": "10.121.1.227",
+        "is_installed": true,
+        "riskScore": 453484.0
+    },
+    {
+        "server_name": "vicprdplgpadm01",
+        "ip_address": "10.121.1.203",
+        "is_installed": true,
+        "riskScore": 198684.0
+    },
+    {
+        "server_name": "vicprdplecfrt03",
+        "ip_address": "10.121.1.226",
+        "is_installed": true,
+        "riskScore": 453484.0
+    },
+    {
+        "server_name": "vicdevplectrt02",
+        "ip_address": "10.121.0.191",
+        "is_installed": true,
+        "riskScore": 121843.0
+    },
+    {
+        "server_name": "vicppdplectrt02",
+        "ip_address": "10.121.1.215",
+        "is_installed": true,
+        "riskScore": 119006.0
+    },
+    {
+        "server_name": "vicprdplectrt02",
+        "ip_address": "10.121.1.228",
+        "is_installed": true,
+        "riskScore": 429950.0
+    },
+    {
+        "server_name": "vicppdplgptrt01",
+        "ip_address": "10.121.1.212",
+        "is_installed": true,
+        "riskScore": 118511.0
+    },
+    {
+        "server_name": "VINCIC-APPLI-70",
+        "ip_address": "10.121.0.51",
+        "is_installed": true,
+        "riskScore": 480189.0
+    },
+    {
+        "server_name": "VICPRDWSUSFBE03",
+        "ip_address": "10.126.1.2",
+        "is_installed": true,
+        "riskScore": 2799.0
+    },
+    {
+        "server_name": "vicprdplgpfrt02",
+        "ip_address": "10.121.1.223",
+        "is_installed": true,
+        "riskScore": 453484.0
+    },
+    {
+        "server_name": "vicprdplecfil02",
+        "ip_address": "10.121.1.229",
+        "is_installed": true,
+        "riskScore": 409489.0
+    },
+    {
+        "server_name": "vicprdshvccos03",
+        "ip_address": "10.123.8.52",
+        "is_installed": true,
+        "riskScore": 19970.0
+    },
+    {
+        "server_name": "vicprdplgpfil01",
+        "ip_address": "10.121.1.225",
+        "is_installed": true,
+        "riskScore": 409489.0
+    },
+    {
+        "server_name": "vicppdvcntmdb03",
+        "ip_address": "10.123.12.18",
+        "is_installed": true,
+        "riskScore": 128862.0
+    },
+    {
+        "server_name": "VICPPDADFSWAP01",
+        "ip_address": "10.123.8.44",
+        "is_installed": true,
+        "riskScore": 1768.0
+    },
+    {
+        "server_name": "VICPRDINFRDNS02",
+        "ip_address": "10.253.62.15",
+        "is_installed": true,
+        "riskScore": 366573.0
+    },
+    {
+        "server_name": "vicprdvcntmdb02",
+        "ip_address": "10.123.12.21",
+        "is_installed": true,
+        "riskScore": 128367.0
+    },
+    {
+        "server_name": "vicppdvcntmdb02",
+        "ip_address": "10.123.12.17",
+        "is_installed": true,
+        "riskScore": 128862.0
+    },
+    {
+        "server_name": "vicppdshvccos03",
+        "ip_address": "10.123.8.53",
+        "is_installed": true,
+        "riskScore": 15052.0
+    },
+    {
+        "server_name": "vicppdvcntgtw01",
+        "ip_address": "10.123.8.15",
+        "is_installed": true,
+        "riskScore": 130089.0
+    },
+    {
+        "server_name": "vicppdvcntdsh01",
+        "ip_address": "10.123.8.14",
+        "is_installed": true,
+        "riskScore": 130089.0
+    },
+    {
+        "server_name": "vicppdvcntgtw02",
+        "ip_address": "10.123.8.16",
+        "is_installed": true,
+        "riskScore": 130089.0
+    },
+    {
+        "server_name": "vicprdvcntmdb01",
+        "ip_address": "10.123.12.20",
+        "is_installed": true,
+        "riskScore": 128367.0
+    },
+    {
+        "server_name": "vicppdvcntmdb01",
+        "ip_address": "10.123.12.19",
+        "is_installed": true,
+        "riskScore": 128862.0
+    },
+    {
+        "server_name": "vicprduniftrt01",
+        "ip_address": "10.123.8.45",
+        "is_installed": true,
+        "riskScore": 35825.0
+    },
+    {
+        "server_name": "vicprdsiemgtw04",
+        "ip_address": "10.123.8.48",
+        "is_installed": true,
+        "riskScore": 12375.0
+    },
+    {
+        "server_name": "vicprddynafbe01",
+        "ip_address": "10.123.8.32",
+        "is_installed": true,
+        "riskScore": 289677.0
+    },
+    {
+        "server_name": "vicprdsiemgtw01",
+        "ip_address": "10.123.8.46",
+        "is_installed": true,
+        "riskScore": 333823.0
+    },
+    {
+        "server_name": "vicprdvcntdsh01",
+        "ip_address": "10.123.8.19",
+        "is_installed": true,
+        "riskScore": 129594.0
+    },
+    {
+        "server_name": "vicprdmultadm04",
+        "ip_address": "10.126.1.3",
+        "is_installed": true,
+        "riskScore": 295945.0
+    },
+    {
+        "server_name": "VICPRDWSUSDMZ02",
+        "ip_address": "10.126.40.2",
+        "is_installed": true,
+        "riskScore": 11113.0
+    },
+    {
+        "server_name": "vicprdvcntgtw02",
+        "ip_address": "10.123.8.17",
+        "is_installed": true,
+        "riskScore": 130096.0
+    },
+    {
+        "server_name": "vicppddynafbe02",
+        "ip_address": "10.126.100.2",
+        "is_installed": true,
+        "riskScore": 48479.0
+    },
+    {
+        "server_name": "vicppdptaffrt03",
+        "ip_address": "10.123.0.29",
+        "is_installed": true,
+        "riskScore": 15804.0
+    },
+    {
+        "server_name": "vicpocdmrctrt01",
+        "ip_address": "10.126.130.2",
+        "is_installed": true,
+        "riskScore": 59387.0
+    },
+    {
+        "server_name": "VICPPDPTAFFRT02",
+        "ip_address": "10.123.0.11",
+        "is_installed": true,
+        "riskScore": 12308.0
+    },
+    {
+        "server_name": "vicprdexchgtw03",
+        "ip_address": "10.126.40.4",
+        "is_installed": true,
+        "riskScore": 42862.0
+    },
+    {
+        "server_name": "vicppdwcomfbe05",
+        "ip_address": "10.123.0.2",
+        "is_installed": true,
+        "riskScore": 25695.0
+    },
+    {
+        "server_name": "vicprddynafbe02",
+        "ip_address": "10.126.40.3",
+        "is_installed": true,
+        "riskScore": 48479.0
+    },
+    {
+        "server_name": "vicppddicafrt01",
+        "ip_address": "10.123.0.34",
+        "is_installed": true,
+        "riskScore": 17083.0
+    },
+    {
+        "server_name": "vicppdwcomfbe06",
+        "ip_address": "10.123.0.7",
+        "is_installed": true,
+        "riskScore": 24950.0
+    },
+    {
+        "server_name": "VICDEVADFSWAP01",
+        "ip_address": "10.123.0.6",
+        "is_installed": true,
+        "riskScore": 6041.0
+    },
+    {
+        "server_name": "vicprdsiemgtw02",
+        "ip_address": "10.123.8.47",
+        "is_installed": true,
+        "riskScore": 333823.0
+    },
+    {
+        "server_name": "vicrecdmatfbe02",
+        "ip_address": "10.126.130.5",
+        "is_installed": true,
+        "riskScore": 9462.0
+    },
+    {
+        "server_name": "VICPPDPTAFFRT01",
+        "ip_address": "10.123.0.10",
+        "is_installed": true,
+        "riskScore": 17973.0
+    },
+    {
+        "server_name": "vicuatdynafbe01",
+        "ip_address": "10.126.160.2",
+        "is_installed": true,
+        "riskScore": 48311.0
+    },
+    {
+        "server_name": "vicppdedapfbe01",
+        "ip_address": "10.123.0.54",
+        "is_installed": true,
+        "riskScore": 151654.0
+    },
+    {
+        "server_name": "VICPPDADFSWAP04",
+        "ip_address": "10.123.0.13",
+        "is_installed": true,
+        "riskScore": 4439.0
+    },
+    {
+        "server_name": "VICPPDMIISFRT01",
+        "ip_address": "10.123.0.4",
+        "is_installed": true,
+        "riskScore": 14007.0
+    },
+    {
+        "server_name": "VICPPDADFSWAP03",
+        "ip_address": "10.123.0.12",
+        "is_installed": true,
+        "riskScore": 6543.0
+    },
+    {
+        "server_name": "vicppddicafrt02",
+        "ip_address": "10.123.0.33",
+        "is_installed": true,
+        "riskScore": 17083.0
+    },
+    {
+        "server_name": "vicprdptaffrt03",
+        "ip_address": "10.123.0.30",
+        "is_installed": true,
+        "riskScore": 15295.0
+    },
+    {
+        "server_name": "vicprddicafrt02",
+        "ip_address": "10.123.0.36",
+        "is_installed": true,
+        "riskScore": 17083.0
+    },
+    {
+        "server_name": "VICPRDPTAFFRT02",
+        "ip_address": "10.123.0.20",
+        "is_installed": true,
+        "riskScore": 15295.0
+    },
+    {
+        "server_name": "vicprdmiisfrt01",
+        "ip_address": "10.123.0.22",
+        "is_installed": true,
+        "riskScore": 27937.0
+    },
+    {
+        "server_name": "vicprddocwfbe03",
+        "ip_address": "10.123.0.5",
+        "is_installed": true,
+        "riskScore": 163044.0
+    },
+    {
+        "server_name": "vicppddocwfbe03",
+        "ip_address": "10.123.0.53",
+        "is_installed": true,
+        "riskScore": 131631.0
+    },
+    {
+        "server_name": "VICPRDADFSWAP04",
+        "ip_address": "10.123.0.15",
+        "is_installed": true,
+        "riskScore": 2270.0
+    },
+    {
+        "server_name": "vicprddicafrt01",
+        "ip_address": "10.123.0.35",
+        "is_installed": true,
+        "riskScore": 17083.0
+    },
+    {
+        "server_name": "vicpocdprgfbe01",
+        "ip_address": "10.123.0.49",
+        "is_installed": true,
+        "riskScore": 25751.0
+    },
+    {
+        "server_name": "VICPRDPTAFFRT01",
+        "ip_address": "10.123.0.19",
+        "is_installed": true,
+        "riskScore": 15295.0
+    },
+    {
+        "server_name": "vicprdshvcfrt02",
+        "ip_address": "10.123.0.9",
+        "is_installed": true,
+        "riskScore": 138115.0
+    },
+    {
+        "server_name": "vicprdedapfbe01",
+        "ip_address": "10.123.0.55",
+        "is_installed": true,
+        "riskScore": 151199.0
+    },
+    {
+        "server_name": "vicreccsgpsql01",
+        "ip_address": "10.126.130.6",
+        "is_installed": true,
+        "riskScore": 297180.0
+    },
+    {
+        "server_name": "vicprdmatifbe02",
+        "ip_address": "10.126.1.4",
+        "is_installed": true,
+        "riskScore": 22139.0
+    },
+    {
+        "server_name": "vicprddocwfbe02",
+        "ip_address": "10.123.0.51",
+        "is_installed": true,
+        "riskScore": 252626.0
+    },
+    {
+        "server_name": "VICPRDADFSWAP03",
+        "ip_address": "10.123.0.14",
+        "is_installed": true,
+        "riskScore": 4439.0
+    },
+    {
+        "server_name": "vicprdwcomfbe06",
+        "ip_address": "10.123.0.48",
+        "is_installed": true,
+        "riskScore": 315895.0
+    },
+    {
+        "server_name": "vicprdmatifbe01",
+        "ip_address": "10.126.1.5",
+        "is_installed": true,
+        "riskScore": 22139.0
+    },
+    {
+        "server_name": "VCFHOMSMTPAPP02",
+        "ip_address": "10.102.161.26",
+        "is_installed": true,
+        "riskScore": 274537.0
+    },
+    {
+        "server_name": "victstadmnfbe01",
+        "ip_address": "10.126.130.142",
+        "is_installed": true,
+        "riskScore": 55189.0
+    },
+    {
+        "server_name": "VICPRDMSBISQL02",
+        "ip_address": "10.126.1.8",
+        "is_installed": true,
+        "riskScore": 5570.0
+    },
+    {
+        "server_name": "vicppdhermfbe02",
+        "ip_address": "10.126.70.2",
+        "is_installed": true,
+        "riskScore": 177007.0
+    },
+    {
+        "server_name": "vicprdmsbigtw02",
+        "ip_address": "10.126.1.9",
+        "is_installed": true,
+        "riskScore": 2959.0
+    },
+    {
+        "server_name": "FRHQDC001",
+        "ip_address": "10.126.130.8",
+        "is_installed": false,
+        "riskScore": 690.0
+    },
+    {
+        "server_name": "GLRESITDC001",
+        "ip_address": "10.126.130.7",
+        "is_installed": false,
+        "riskScore": 690.0
+    },
+    {
+        "server_name": "vicprdmatifbe03",
+        "ip_address": "10.126.1.6",
+        "is_installed": true,
+        "riskScore": 22139.0
+    },
+    {
+        "server_name": "vicprdwcomfbe01",
+        "ip_address": "10.123.0.47",
+        "is_installed": true,
+        "riskScore": 318419.0
+    },
+    {
+        "server_name": "vicdevmsbisql03",
+        "ip_address": "10.126.130.11",
+        "is_installed": true,
+        "riskScore": 2625.0
+    },
+    {
+        "server_name": "vicprdradiapp03",
+        "ip_address": "10.126.1.12",
+        "is_installed": true,
+        "riskScore": 12830.0
+    },
+    {
+        "server_name": "vicppdmsbigtw02",
+        "ip_address": "10.126.70.4",
+        "is_installed": true,
+        "riskScore": 2959.0
+    },
+    {
+        "server_name": "vicprdlippfbe17",
+        "ip_address": "10.126.1.11",
+        "is_installed": true,
+        "riskScore": 14880.0
+    },
+    {
+        "server_name": "VCFHOMMUTUFRT01",
+        "ip_address": "10.102.160.97",
+        "is_installed": true,
+        "riskScore": 3588.0
+    },
+    {
+        "server_name": "vicppdmsbisql02",
+        "ip_address": "10.126.70.3",
+        "is_installed": true,
+        "riskScore": 2625.0
+    },
+    {
+        "server_name": "vicprdradiapp04",
+        "ip_address": "10.126.1.13",
+        "is_installed": true,
+        "riskScore": 12830.0
+    },
+    {
+        "server_name": "vicppdlippfbe02",
+        "ip_address": "10.126.70.6",
+        "is_installed": true,
+        "riskScore": 14880.0
+    },
+    {
+        "server_name": "vicprdzabifbe03",
+        "ip_address": "10.126.40.5",
+        "is_installed": true,
+        "riskScore": 40722.0
+    },
+    {
+        "server_name": "VICPRDOCRATRT12",
+        "ip_address": "10.126.1.10",
+        "is_installed": true,
+        "riskScore": 13151.0
+    },
+    {
+        "server_name": "vicrecmatifbe04",
+        "ip_address": "10.126.130.15",
+        "is_installed": true,
+        "riskScore": 23579.0
+    },
+    {
+        "server_name": "vicppddprgfbe01",
+        "ip_address": "10.126.100.3",
+        "is_installed": true,
+        "riskScore": 288523.0
+    },
+    {
+        "server_name": "vicrecmatifbe02",
+        "ip_address": "10.126.130.13",
+        "is_installed": true,
+        "riskScore": 23579.0
+    },
+    {
+        "server_name": "VICPRDOCRATRT11",
+        "ip_address": "10.126.1.7",
+        "is_installed": true,
+        "riskScore": 13151.0
+    },
+    {
+        "server_name": "vicrecmatifbe03",
+        "ip_address": "10.126.130.14",
+        "is_installed": true,
+        "riskScore": 23579.0
+    },
+    {
+        "server_name": "vicrecmhansql01",
+        "ip_address": "10.126.130.12",
+        "is_installed": true,
+        "riskScore": 145691.0
+    },
+    {
+        "server_name": "vicuatlippfbe03",
+        "ip_address": "10.126.130.18",
+        "is_installed": true,
+        "riskScore": 16320.0
+    },
+    {
+        "server_name": "vicuatlippfbe01",
+        "ip_address": "10.126.130.16",
+        "is_installed": true,
+        "riskScore": 16320.0
+    },
+    {
+        "server_name": "vicrecdprgfbe02",
+        "ip_address": "10.126.160.4",
+        "is_installed": true,
+        "riskScore": 303616.0
+    },
+    {
+        "server_name": "vicuatlippfbe02",
+        "ip_address": "10.126.130.17",
+        "is_installed": true,
+        "riskScore": 13916.0
+    },
+    {
+        "server_name": "vicprdzabifbe04",
+        "ip_address": "10.126.40.6",
+        "is_installed": true,
+        "riskScore": 40032.0
+    },
+    {
+        "server_name": "vicprdcsgpsql01",
+        "ip_address": "10.126.1.14",
+        "is_installed": true,
+        "riskScore": 296876.0
+    },
+    {
+        "server_name": "vicprdcsgpsql02",
+        "ip_address": "10.126.1.15",
+        "is_installed": true,
+        "riskScore": 296508.0
+    },
+    {
+        "server_name": "VICPRDSPPTRDS01",
+        "ip_address": "10.126.1.23",
+        "is_installed": true,
+        "riskScore": 24417.0
+    },
+    {
+        "server_name": "vicprdinfrpry02",
+        "ip_address": "10.126.40.8",
+        "is_installed": true,
+        "riskScore": 209586.0
+    },
+    {
+        "server_name": "vicprdinfrpry01",
+        "ip_address": "10.126.40.7",
+        "is_installed": true,
+        "riskScore": 209586.0
+    },
+    {
+        "server_name": "vicprdcsgpsql03",
+        "ip_address": "10.126.1.16",
+        "is_installed": true,
+        "riskScore": 296508.0
+    },
+    {
+        "server_name": "vicprdcsgpsql05",
+        "ip_address": "10.126.1.18",
+        "is_installed": true,
+        "riskScore": 296508.0
+    },
+    {
+        "server_name": "vicprdspptssb01",
+        "ip_address": "10.126.1.21",
+        "is_installed": true,
+        "riskScore": 15275.0
+    },
+    {
+        "server_name": "vicprdcsgpsql04",
+        "ip_address": "10.126.1.17",
+        "is_installed": true,
+        "riskScore": 296508.0
+    },
+    {
+        "server_name": "vicprdinfrpry04",
+        "ip_address": "10.126.40.10",
+        "is_installed": true,
+        "riskScore": 209084.0
+    },
+    {
+        "server_name": "vicprdspptfil01",
+        "ip_address": "10.126.1.22",
+        "is_installed": true,
+        "riskScore": 12830.0
+    },
+    {
+        "server_name": "VICPRDSPPTRDS02",
+        "ip_address": "10.126.1.24",
+        "is_installed": true,
+        "riskScore": 30926.0
+    },
+    {
+        "server_name": "vicppddocwfbe04",
+        "ip_address": "10.126.100.4",
+        "is_installed": true,
+        "riskScore": 58203.0
+    },
+    {
+        "server_name": "VCFHOMMULTSQL14",
+        "ip_address": "10.102.161.15",
+        "is_installed": true,
+        "riskScore": 7173.0
+    },
+    {
+        "server_name": "vicprdexchgtw04",
+        "ip_address": "10.126.1.19",
+        "is_installed": true,
+        "riskScore": 44234.0
+    },
+    {
+        "server_name": "VCFPRDBPRMBOT03",
+        "ip_address": "10.102.150.16",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "vicprdinfrpry03",
+        "ip_address": "10.126.40.9",
+        "is_installed": true,
+        "riskScore": 209084.0
+    },
+    {
+        "server_name": "VM-NC0-20",
+        "ip_address": "10.121.128.141",
+        "is_installed": true,
+        "riskScore": 119309.0
+    },
+    {
+        "server_name": "vm-nc0-11",
+        "ip_address": "10.121.128.147",
+        "is_installed": true,
+        "riskScore": 279849.0
+    },
+    {
+        "server_name": "vm-nc0-13",
+        "ip_address": "10.121.128.140",
+        "is_installed": true,
+        "riskScore": 1014711.0
+    },
+    {
+        "server_name": "VICPRDVREATRT01",
+        "ip_address": "10.126.1.30",
+        "is_installed": true,
+        "riskScore": 15737.0
+    },
+    {
+        "server_name": "VICDEVMSBIGTW02",
+        "ip_address": "10.126.130.24",
+        "is_installed": true,
+        "riskScore": 2959.0
+    },
+    {
+        "server_name": "vm-nc0-02",
+        "ip_address": "10.121.128.143",
+        "is_installed": true,
+        "riskScore": 103064.0
+    },
+    {
+        "server_name": "vm-nc0-17",
+        "ip_address": "10.121.128.146",
+        "is_installed": true,
+        "riskScore": 319477.0
+    },
+    {
+        "server_name": "vicprddmatfbe07",
+        "ip_address": "10.126.1.26",
+        "is_installed": true,
+        "riskScore": 9462.0
+    },
+    {
+        "server_name": "vicprddmatfbe01",
+        "ip_address": "10.126.1.25",
+        "is_installed": true,
+        "riskScore": 9462.0
+    },
+    {
+        "server_name": "vm-nc0-16",
+        "ip_address": "10.121.128.145",
+        "is_installed": true,
+        "riskScore": 25655.0
+    },
+    {
+        "server_name": "VCFDEVGWPWBI01",
+        "ip_address": "10.102.176.94",
+        "is_installed": true,
+        "riskScore": 58308.0
+    },
+    {
+        "server_name": "VCFDEVPMQYAPP01",
+        "ip_address": "10.102.175.198",
+        "is_installed": true,
+        "riskScore": 192428.0
+    },
+    {
+        "server_name": "vm-nc0-5007",
+        "ip_address": "10.121.128.150",
+        "is_installed": true,
+        "riskScore": 251473.0
+    },
+    {
+        "server_name": "VCFDEVMIISFRT13",
+        "ip_address": "10.102.175.13",
+        "is_installed": true,
+        "riskScore": 25715.0
+    },
+    {
+        "server_name": "TMANEOS06",
+        "ip_address": "10.102.175.11",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "SRVNCDDPRINT",
+        "ip_address": "10.102.221.12",
+        "is_installed": true,
+        "riskScore": 227396.0
+    },
+    {
+        "server_name": "vicuatdmatfbe01",
+        "ip_address": "10.126.130.26",
+        "is_installed": true,
+        "riskScore": 9462.0
+    },
+    {
+        "server_name": "VCFDEVMUTUIIS01",
+        "ip_address": "10.102.175.90",
+        "is_installed": true,
+        "riskScore": 7172.0
+    },
+    {
+        "server_name": "VCFDEVMIISFRT12",
+        "ip_address": "10.102.175.16",
+        "is_installed": true,
+        "riskScore": 26598.0
+    },
+    {
+        "server_name": "VCFDEVMIISFRT11",
+        "ip_address": "10.102.175.15",
+        "is_installed": true,
+        "riskScore": 26210.0
+    },
+    {
+        "server_name": "VCFDEVALDSAPP01",
+        "ip_address": "10.102.176.35",
+        "is_installed": true,
+        "riskScore": 24732.0
+    },
+    {
+        "server_name": "VCFDEVGRIMAPP01",
+        "ip_address": "10.102.175.127",
+        "is_installed": true,
+        "riskScore": 11881.0
+    },
+    {
+        "server_name": "TMANEOS05",
+        "ip_address": "10.102.175.48",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "VCFDSSRS16APP01",
+        "ip_address": "10.102.175.17",
+        "is_installed": true,
+        "riskScore": 24732.0
+    },
+    {
+        "server_name": "SRVDANAEL01",
+        "ip_address": "10.102.175.51",
+        "is_installed": true,
+        "riskScore": 7012.0
+    },
+    {
+        "server_name": "TMANEOS04",
+        "ip_address": "10.102.175.47",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "VCFDEVANRHEN11",
+        "ip_address": "10.102.176.17",
+        "is_installed": true,
+        "riskScore": 6838.0
+    },
+    {
+        "server_name": "VCFDEVMBTHAPP11",
+        "ip_address": "10.102.175.14",
+        "is_installed": true,
+        "riskScore": 25715.0
+    },
+    {
+        "server_name": "VCFDEVMULTSQL14",
+        "ip_address": "10.102.176.15",
+        "is_installed": true,
+        "riskScore": 58308.0
+    },
+    {
+        "server_name": "VCFDSIADSQL16",
+        "ip_address": "10.102.176.22",
+        "is_installed": true,
+        "riskScore": 26071.0
+    },
+    {
+        "server_name": "VCFDEVMUTUEN01",
+        "ip_address": "10.102.176.45",
+        "is_installed": true,
+        "riskScore": 26071.0
+    },
+    {
+        "server_name": "VCFDEVANRHEN01",
+        "ip_address": "10.102.176.75",
+        "is_installed": true,
+        "riskScore": 6838.0
+    },
+    {
+        "server_name": "VCFDEVARH3APP02",
+        "ip_address": "10.102.175.119",
+        "is_installed": true,
+        "riskScore": 20900.0
+    },
+    {
+        "server_name": "VCFDMSBISSAS11",
+        "ip_address": "10.102.176.20",
+        "is_installed": true,
+        "riskScore": 24732.0
+    },
+    {
+        "server_name": "VCFDMSBISQL15",
+        "ip_address": "10.102.176.21",
+        "is_installed": true,
+        "riskScore": 26071.0
+    },
+    {
+        "server_name": "VCFDEVMULTSQL12",
+        "ip_address": "10.102.176.13",
+        "is_installed": true,
+        "riskScore": 26566.0
+    },
+    {
+        "server_name": "VCFDEVMULTSQL11",
+        "ip_address": "10.102.176.12",
+        "is_installed": true,
+        "riskScore": 29979.0
+    },
+    {
+        "server_name": "VCFDEVSCCMTST11",
+        "ip_address": "10.102.175.19",
+        "is_installed": true,
+        "riskScore": 25715.0
+    },
+    {
+        "server_name": "vm-nc0-5003",
+        "ip_address": "10.121.128.151",
+        "is_installed": true,
+        "riskScore": 1008070.0
+    },
+    {
+        "server_name": "VIN-0054",
+        "ip_address": "10.121.128.3",
+        "is_installed": true,
+        "riskScore": 154349.0
+    },
+    {
+        "server_name": "VCFLABMSBISQL1",
+        "ip_address": "10.102.176.16",
+        "is_installed": true,
+        "riskScore": 74410.0
+    },
+    {
+        "server_name": "vicprdlippfbe18",
+        "ip_address": "10.126.1.39",
+        "is_installed": true,
+        "riskScore": 14880.0
+    },
+    {
+        "server_name": "vm-nc0-10",
+        "ip_address": "10.121.128.152",
+        "is_installed": false,
+        "riskScore": 5199.0
+    },
+    {
+        "server_name": "vicppdredmfbe02",
+        "ip_address": "10.126.70.5",
+        "is_installed": true,
+        "riskScore": 89843.0
+    },
+    {
+        "server_name": "vicprdinfrfbe03",
+        "ip_address": "10.126.1.32",
+        "is_installed": true,
+        "riskScore": 218659.0
+    },
+    {
+        "server_name": "VCFHOMSAV01",
+        "ip_address": "10.102.160.77",
+        "is_installed": true,
+        "riskScore": 25305.0
+    },
+    {
+        "server_name": "VCFHOMMUTUBCK01",
+        "ip_address": "10.102.161.83",
+        "is_installed": true,
+        "riskScore": 2457.0
+    },
+    {
+        "server_name": "VCFHOMMUTUAPI01",
+        "ip_address": "10.102.164.45",
+        "is_installed": true,
+        "riskScore": 3969.0
+    },
+    {
+        "server_name": "VCFHOMGRIMAPP02",
+        "ip_address": "10.102.160.176",
+        "is_installed": true,
+        "riskScore": 39469.0
+    },
+    {
+        "server_name": "VCFHOMGWPWBI01",
+        "ip_address": "10.102.161.73",
+        "is_installed": true,
+        "riskScore": 58308.0
+    },
+    {
+        "server_name": "VCFHOMMUTUBCK11",
+        "ip_address": "10.102.161.153",
+        "is_installed": true,
+        "riskScore": 5399.0
+    },
+    {
+        "server_name": "VCFHOMMUTUBCK21",
+        "ip_address": "10.102.161.154",
+        "is_installed": true,
+        "riskScore": 74376.0
+    },
+    {
+        "server_name": "VCFHOMMUTUAPI11",
+        "ip_address": "10.102.164.14",
+        "is_installed": true,
+        "riskScore": 25458.0
+    },
+    {
+        "server_name": "VCFHOMALDSAPP01",
+        "ip_address": "10.102.161.8",
+        "is_installed": true,
+        "riskScore": 24297.0
+    },
+    {
+        "server_name": "VCFHOMMUTUFRT21",
+        "ip_address": "10.102.160.19",
+        "is_installed": true,
+        "riskScore": 25003.0
+    },
+    {
+        "server_name": "VCFDEVWEFLOG11",
+        "ip_address": "10.102.176.11",
+        "is_installed": true,
+        "riskScore": 25715.0
+    },
+    {
+        "server_name": "VCFHOMMUTUFRT11",
+        "ip_address": "10.102.160.201",
+        "is_installed": true,
+        "riskScore": 5894.0
+    },
+    {
+        "server_name": "VCFHOMVTHEFTP01",
+        "ip_address": "10.102.80.65",
+        "is_installed": true,
+        "riskScore": 92503.0
+    },
+    {
+        "server_name": "VCFPRDSMTPAPP11",
+        "ip_address": "10.102.151.42",
+        "is_installed": true,
+        "riskScore": 307806.0
+    },
+    {
+        "server_name": "VCFHOMPOTIAPP11",
+        "ip_address": "10.102.160.14",
+        "is_installed": true,
+        "riskScore": 25003.0
+    },
+    {
+        "server_name": "VCFHOMMBTHAPP11",
+        "ip_address": "10.102.161.16",
+        "is_installed": true,
+        "riskScore": 25715.0
+    },
+    {
+        "server_name": "VCFHOMMUTUFRT31",
+        "ip_address": "10.102.160.11",
+        "is_installed": true,
+        "riskScore": 24508.0
+    },
+    {
+        "server_name": "VCFHOMVDOCAPP01",
+        "ip_address": "10.102.160.16",
+        "is_installed": true,
+        "riskScore": 143821.0
+    },
+    {
+        "server_name": "VCFHOMMUTUREF01",
+        "ip_address": "10.102.160.15",
+        "is_installed": true,
+        "riskScore": 38329.0
+    },
+    {
+        "server_name": "VCFPRDSMTPAPP12",
+        "ip_address": "10.102.151.43",
+        "is_installed": true,
+        "riskScore": 308978.0
+    },
+    {
+        "server_name": "VCFHOMPMQYAPP01",
+        "ip_address": "10.102.160.48",
+        "is_installed": true,
+        "riskScore": 192428.0
+    },
+    {
+        "server_name": "VCFDEVALDSAPP02",
+        "ip_address": "10.102.176.108",
+        "is_installed": true,
+        "riskScore": 24297.0
+    },
+    {
+        "server_name": "VCFHSSRS16APP01",
+        "ip_address": "10.102.160.13",
+        "is_installed": true,
+        "riskScore": 24732.0
+    },
+    {
+        "server_name": "VCFHOMANRHEN01",
+        "ip_address": "10.102.161.132",
+        "is_installed": true,
+        "riskScore": 6838.0
+    },
+    {
+        "server_name": "VCFHSIADSQL16",
+        "ip_address": "10.102.161.20",
+        "is_installed": true,
+        "riskScore": 23299.0
+    },
+    {
+        "server_name": "VCFHOMITCHAPP11",
+        "ip_address": "10.102.160.20",
+        "is_installed": true,
+        "riskScore": 27107.0
+    },
+    {
+        "server_name": "VCFHMSBISQL15",
+        "ip_address": "10.102.161.19",
+        "is_installed": true,
+        "riskScore": 26071.0
+    },
+    {
+        "server_name": "VCFHOMARH3APP01",
+        "ip_address": "10.102.160.120",
+        "is_installed": true,
+        "riskScore": 7012.0
+    },
+    {
+        "server_name": "VCFHOMITOP02",
+        "ip_address": "10.102.161.39",
+        "is_installed": true,
+        "riskScore": 25934.0
+    },
+    {
+        "server_name": "SRVHANAEL01",
+        "ip_address": "10.102.160.181",
+        "is_installed": true,
+        "riskScore": 6503.0
+    },
+    {
+        "server_name": "VCFHMSBISSAS11",
+        "ip_address": "10.102.161.18",
+        "is_installed": true,
+        "riskScore": 24732.0
+    },
+    {
+        "server_name": "VCFHOMVFACSVC01",
+        "ip_address": "10.102.164.12",
+        "is_installed": true,
+        "riskScore": 24732.0
+    },
+    {
+        "server_name": "VCFHOMMULTSQL13",
+        "ip_address": "10.102.161.14",
+        "is_installed": true,
+        "riskScore": 26071.0
+    },
+    {
+        "server_name": "VCFDEVMULTSQL52",
+        "ip_address": "10.102.176.124",
+        "is_installed": true,
+        "riskScore": 29979.0
+    },
+    {
+        "server_name": "VCFHOMMULTSQL11",
+        "ip_address": "10.102.161.12",
+        "is_installed": true,
+        "riskScore": 8564.0
+    },
+    {
+        "server_name": "VCFHOMPOTIAPP12",
+        "ip_address": "10.102.160.114",
+        "is_installed": true,
+        "riskScore": 25003.0
+    },
+    {
+        "server_name": "VCFHOMVDOCAPP02",
+        "ip_address": "10.102.160.116",
+        "is_installed": true,
+        "riskScore": 142221.0
+    },
+    {
+        "server_name": "VCFHOMMUTUREF02",
+        "ip_address": "10.102.160.115",
+        "is_installed": true,
+        "riskScore": 61698.0
+    },
+    {
+        "server_name": "VCFHOMALDSAPP02",
+        "ip_address": "10.102.161.108",
+        "is_installed": true,
+        "riskScore": 24297.0
+    },
+    {
+        "server_name": "VCFHOMMUTUBCK22",
+        "ip_address": "10.102.161.181",
+        "is_installed": true,
+        "riskScore": 2638.0
+    },
+    {
+        "server_name": "VCFHOMMUTUFRT02",
+        "ip_address": "10.102.160.197",
+        "is_installed": true,
+        "riskScore": 2457.0
+    },
+    {
+        "server_name": "VCFHOMMUTUAPI12",
+        "ip_address": "10.102.164.114",
+        "is_installed": true,
+        "riskScore": 25458.0
+    },
+    {
+        "server_name": "VCFHOMMUTUFRT32",
+        "ip_address": "10.102.160.111",
+        "is_installed": true,
+        "riskScore": 24508.0
+    },
+    {
+        "server_name": "VCFHOMMUTUFRT22",
+        "ip_address": "10.102.160.119",
+        "is_installed": true,
+        "riskScore": 25003.0
+    },
+    {
+        "server_name": "VICPRDHERMTRT01",
+        "ip_address": "10.126.1.34",
+        "is_installed": true,
+        "riskScore": 12830.0
+    },
+    {
+        "server_name": "VCFHOMMUTUBCK02",
+        "ip_address": "10.102.161.183",
+        "is_installed": true,
+        "riskScore": 2457.0
+    },
+    {
+        "server_name": "VCFHOMMUTUAPI02",
+        "ip_address": "10.102.164.145",
+        "is_installed": true,
+        "riskScore": 3969.0
+    },
+    {
+        "server_name": "VCFHOMMULTSQL54",
+        "ip_address": "10.102.161.126",
+        "is_installed": true,
+        "riskScore": 29979.0
+    },
+    {
+        "server_name": "VCFHOMMUTUBCK12",
+        "ip_address": "10.102.161.172",
+        "is_installed": true,
+        "riskScore": 5399.0
+    },
+    {
+        "server_name": "VCFHSSRS16APP02",
+        "ip_address": "10.102.160.113",
+        "is_installed": true,
+        "riskScore": 24732.0
+    },
+    {
+        "server_name": "VCFHOMMUTUFRT12",
+        "ip_address": "10.102.160.157",
+        "is_installed": true,
+        "riskScore": 5894.0
+    },
+    {
+        "server_name": "VCFPRDGINAPP01",
+        "ip_address": "10.102.220.42",
+        "is_installed": true,
+        "riskScore": 88090.0
+    },
+    {
+        "server_name": "vicprddocwfbe04",
+        "ip_address": "10.126.40.11",
+        "is_installed": true,
+        "riskScore": 15320.0
+    },
+    {
+        "server_name": "VCFDEVMULTSQL51",
+        "ip_address": "10.102.176.123",
+        "is_installed": true,
+        "riskScore": 8109.0
+    },
+    {
+        "server_name": "VCFHOMMULTSQL51",
+        "ip_address": "10.102.161.123",
+        "is_installed": true,
+        "riskScore": 8109.0
+    },
+    {
+        "server_name": "VICDEVSHVCFBE01",
+        "ip_address": "10.126.130.49",
+        "is_installed": true,
+        "riskScore": 9780.0
+    },
+    {
+        "server_name": "vicppdtoscapp01",
+        "ip_address": "10.126.70.8",
+        "is_installed": true,
+        "riskScore": 15555.0
+    },
+    {
+        "server_name": "vicrechermfbe04",
+        "ip_address": "10.126.130.51",
+        "is_installed": true,
+        "riskScore": 177007.0
+    },
+    {
+        "server_name": "VCFDEVDTSEL1",
+        "ip_address": "10.102.175.12",
+        "is_installed": true,
+        "riskScore": 17851.0
+    },
+    {
+        "server_name": "vicprdnetwdns01",
+        "ip_address": "10.125.19.51",
+        "is_installed": true,
+        "riskScore": 303857.0
+    },
+    {
+        "server_name": "VCFPRDDUMOSI01",
+        "ip_address": "10.102.210.11",
+        "is_installed": true,
+        "riskScore": 453527.0
+    },
+    {
+        "server_name": "vicprdpgasfbe11",
+        "ip_address": "10.126.1.38",
+        "is_installed": true,
+        "riskScore": 162763.0
+    },
+    {
+        "server_name": "VCFLABSOLAWAPP01",
+        "ip_address": "10.102.176.155",
+        "is_installed": true,
+        "riskScore": 25260.0
+    },
+    {
+        "server_name": "VCFPRDMULTSQL53",
+        "ip_address": "10.102.151.80",
+        "is_installed": true,
+        "riskScore": 26071.0
+    },
+    {
+        "server_name": "vicprddmatfbe09",
+        "ip_address": "10.126.1.40",
+        "is_installed": true,
+        "riskScore": 9462.0
+    },
+    {
+        "server_name": "VCFDEVMULTSQL53",
+        "ip_address": "10.102.176.80",
+        "is_installed": true,
+        "riskScore": 26071.0
+    },
+    {
+        "server_name": "VCFHOMMULTSQL53",
+        "ip_address": "10.102.161.80",
+        "is_installed": true,
+        "riskScore": 26071.0
+    },
+    {
+        "server_name": "VCFPRDBPRMAPP01",
+        "ip_address": "10.102.151.11",
+        "is_installed": true,
+        "riskScore": 25715.0
+    },
+    {
+        "server_name": "vicprddmatfbe10",
+        "ip_address": "10.126.1.41",
+        "is_installed": true,
+        "riskScore": 9462.0
+    },
+    {
+        "server_name": "VCFPRDBCKPNAS04",
+        "ip_address": "10.102.151.7",
+        "is_installed": true,
+        "riskScore": 24732.0
+    },
+    {
+        "server_name": "VCFPRDMUTUAPI01",
+        "ip_address": "10.102.154.46",
+        "is_installed": true,
+        "riskScore": 3829.0
+    },
+    {
+        "server_name": "VCFPRDMUTUBCK11",
+        "ip_address": "10.102.151.61",
+        "is_installed": true,
+        "riskScore": 24297.0
+    },
+    {
+        "server_name": "VCFPRDMUTUBCK21",
+        "ip_address": "10.102.151.68",
+        "is_installed": true,
+        "riskScore": 24297.0
+    },
+    {
+        "server_name": "VCFPRDVSCMAPP01",
+        "ip_address": "10.102.154.26",
+        "is_installed": true,
+        "riskScore": 6503.0
+    },
+    {
+        "server_name": "VCFPRDVFACSVC01",
+        "ip_address": "10.102.154.60",
+        "is_installed": true,
+        "riskScore": 933904.0
+    },
+    {
+        "server_name": "VCFPRDMUTUBCK31",
+        "ip_address": "10.102.151.69",
+        "is_installed": true,
+        "riskScore": 24297.0
+    },
+    {
+        "server_name": "VCFPRDKPDVEN01",
+        "ip_address": "10.102.151.9",
+        "is_installed": true,
+        "riskScore": 24732.0
+    },
+    {
+        "server_name": "VCFPRDITOP02",
+        "ip_address": "10.102.151.50",
+        "is_installed": true,
+        "riskScore": 22466.0
+    },
+    {
+        "server_name": "VCFPRDMUTUEN01",
+        "ip_address": "10.102.151.82",
+        "is_installed": true,
+        "riskScore": 204820.0
+    },
+    {
+        "server_name": "VCFPRDMBTHAPP11",
+        "ip_address": "10.102.151.17",
+        "is_installed": true,
+        "riskScore": 25715.0
+    },
+    {
+        "server_name": "VCFPRDGWPWBI01",
+        "ip_address": "10.102.151.81",
+        "is_installed": true,
+        "riskScore": 24732.0
+    },
+    {
+        "server_name": "VCFPRDMUTUBCK01",
+        "ip_address": "10.102.151.121",
+        "is_installed": true,
+        "riskScore": 3307.0
+    },
+    {
+        "server_name": "VCFPRDMULTAPP01",
+        "ip_address": "10.102.151.31",
+        "is_installed": true,
+        "riskScore": 7172.0
+    },
+    {
+        "server_name": "VCFPRDMUTUAPI11",
+        "ip_address": "10.102.150.24",
+        "is_installed": true,
+        "riskScore": 25458.0
+    },
+    {
+        "server_name": "VCFPRDINFRAPP05",
+        "ip_address": "10.102.151.188",
+        "is_installed": true,
+        "riskScore": 36790.0
+    },
+    {
+        "server_name": "VCFPRDSHGTAPP01",
+        "ip_address": "10.102.151.212",
+        "is_installed": true,
+        "riskScore": 665885.0
+    },
+    {
+        "server_name": "VCFPRDMUTUBCK41",
+        "ip_address": "10.102.151.71",
+        "is_installed": true,
+        "riskScore": 90114.0
+    },
+    {
+        "server_name": "VCFPRDITOP01",
+        "ip_address": "10.102.151.39",
+        "is_installed": true,
+        "riskScore": 26261.0
+    },
+    {
+        "server_name": "VCFPRDPSHLFBE03",
+        "ip_address": "10.102.151.10",
+        "is_installed": true,
+        "riskScore": 206571.0
+    },
+    {
+        "server_name": "VCFPRDMUTUREF01",
+        "ip_address": "10.102.150.19",
+        "is_installed": true,
+        "riskScore": 38329.0
+    },
+    {
+        "server_name": "VCFPRDPOTIAPP11",
+        "ip_address": "10.102.150.21",
+        "is_installed": true,
+        "riskScore": 25003.0
+    },
+    {
+        "server_name": "VCFPRDOCRAPP01",
+        "ip_address": "10.102.150.138",
+        "is_installed": true,
+        "riskScore": 21536.0
+    },
+    {
+        "server_name": "VCFPRDMUTUFRT41",
+        "ip_address": "10.102.150.17",
+        "is_installed": true,
+        "riskScore": 24508.0
+    },
+    {
+        "server_name": "VCFPRDMUTUFRT31",
+        "ip_address": "10.102.150.240",
+        "is_installed": true,
+        "riskScore": 24297.0
+    },
+    {
+        "server_name": "VCFPRDBPRMAPP03",
+        "ip_address": "10.102.151.19",
+        "is_installed": true,
+        "riskScore": 453647.0
+    },
+    {
+        "server_name": "VCFPRDMUTUFRT21",
+        "ip_address": "10.102.150.232",
+        "is_installed": true,
+        "riskScore": 24297.0
+    },
+    {
+        "server_name": "VCFPRDMUTUFRT01",
+        "ip_address": "10.102.150.150",
+        "is_installed": true,
+        "riskScore": 22031.0
+    },
+    {
+        "server_name": "VCFPRDALDSAPP01",
+        "ip_address": "10.102.151.13",
+        "is_installed": true,
+        "riskScore": 24297.0
+    },
+    {
+        "server_name": "vicprddmatfbe11",
+        "ip_address": "10.126.1.42",
+        "is_installed": true,
+        "riskScore": 9462.0
+    },
+    {
+        "server_name": "VCFPRDBPRMAPP02",
+        "ip_address": "10.102.150.28",
+        "is_installed": true,
+        "riskScore": 453647.0
+    },
+    {
+        "server_name": "TGPPRDNEVARIS01",
+        "ip_address": "10.121.112.10",
+        "is_installed": true,
+        "riskScore": 1741.0
+    },
+    {
+        "server_name": "VCFPRDMUTUFRT11",
+        "ip_address": "10.102.150.230",
+        "is_installed": true,
+        "riskScore": 24297.0
+    },
+    {
+        "server_name": "vicprddmatfbe12",
+        "ip_address": "10.126.1.43",
+        "is_installed": true,
+        "riskScore": 9462.0
+    },
+    {
+        "server_name": "VCFHCLUS01N2",
+        "ip_address": "10.109.24.36",
+        "is_installed": true,
+        "riskScore": 135828.0
+    },
+    {
+        "server_name": "VCFPRDPSHLFBE02",
+        "ip_address": "10.102.151.113",
+        "is_installed": true,
+        "riskScore": 24297.0
+    },
+    {
+        "server_name": "VCFPRDMUTUAPI02",
+        "ip_address": "10.102.154.146",
+        "is_installed": true,
+        "riskScore": 55781.0
+    },
+    {
+        "server_name": "VCFPRDINFRAPP04",
+        "ip_address": "10.102.151.111",
+        "is_installed": true,
+        "riskScore": 5399.0
+    },
+    {
+        "server_name": "VCFPRDMUTUREF02",
+        "ip_address": "10.102.150.119",
+        "is_installed": true,
+        "riskScore": 38804.0
+    },
+    {
+        "server_name": "vicprddmatfbe13",
+        "ip_address": "10.126.1.44",
+        "is_installed": true,
+        "riskScore": 9462.0
+    },
+    {
+        "server_name": "VCFPRDMUTUBCK12",
+        "ip_address": "10.102.151.151",
+        "is_installed": true,
+        "riskScore": 24297.0
+    },
+    {
+        "server_name": "VCFPRDALDSAPP02",
+        "ip_address": "10.102.151.108",
+        "is_installed": true,
+        "riskScore": 25764.0
+    },
+    {
+        "server_name": "VCFPRDMUTUBCK42",
+        "ip_address": "10.102.151.154",
+        "is_installed": true,
+        "riskScore": 90114.0
+    },
+    {
+        "server_name": "VCFPRDOCRAPP02",
+        "ip_address": "10.102.150.238",
+        "is_installed": true,
+        "riskScore": 21536.0
+    },
+    {
+        "server_name": "VCFPRDIRI2APP14",
+        "ip_address": "10.102.150.122",
+        "is_installed": true,
+        "riskScore": 22031.0
+    },
+    {
+        "server_name": "VCFPRDMUTUBCK32",
+        "ip_address": "10.102.151.153",
+        "is_installed": true,
+        "riskScore": 22964.0
+    },
+    {
+        "server_name": "VCFPRDMUTUAPI12",
+        "ip_address": "10.102.150.125",
+        "is_installed": true,
+        "riskScore": 25458.0
+    },
+    {
+        "server_name": "VCFPRDMUTUBCK22",
+        "ip_address": "10.102.151.152",
+        "is_installed": true,
+        "riskScore": 24297.0
+    },
+    {
+        "server_name": "VCFPRDMUTUFRT12",
+        "ip_address": "10.102.150.155",
+        "is_installed": true,
+        "riskScore": 24297.0
+    },
+    {
+        "server_name": "VCFPRDIRI2APP12",
+        "ip_address": "10.102.150.123",
+        "is_installed": true,
+        "riskScore": 21536.0
+    },
+    {
+        "server_name": "VCFPRDMUTUFRT52",
+        "ip_address": "10.102.150.133",
+        "is_installed": true,
+        "riskScore": 25458.0
+    },
+    {
+        "server_name": "VCFPRDVSCMWEB03",
+        "ip_address": "10.102.150.126",
+        "is_installed": true,
+        "riskScore": 7627.0
+    },
+    {
+        "server_name": "VCFPRDMUTUFRT32",
+        "ip_address": "10.102.150.174",
+        "is_installed": true,
+        "riskScore": 24297.0
+    },
+    {
+        "server_name": "VCFPRDPPACAPP02",
+        "ip_address": "10.102.150.219",
+        "is_installed": true,
+        "riskScore": 22031.0
+    },
+    {
+        "server_name": "VCFPRDDEVOPSA02",
+        "ip_address": "10.102.150.108",
+        "is_installed": true,
+        "riskScore": 43906.0
+    },
+    {
+        "server_name": "VCFPRDMUTUFRT02",
+        "ip_address": "10.102.150.250",
+        "is_installed": true,
+        "riskScore": 88022.0
+    },
+    {
+        "server_name": "VCFPRDPOTIAPP12",
+        "ip_address": "10.102.150.121",
+        "is_installed": true,
+        "riskScore": 25003.0
+    },
+    {
+        "server_name": "VCFPRDMUTUBCK02",
+        "ip_address": "10.102.151.221",
+        "is_installed": true,
+        "riskScore": 3829.0
+    },
+    {
+        "server_name": "VCFPRDMUTUFRT22",
+        "ip_address": "10.102.150.175",
+        "is_installed": true,
+        "riskScore": 24297.0
+    },
+    {
+        "server_name": "VCFPRDVDOCAPP02",
+        "ip_address": "10.102.150.130",
+        "is_installed": true,
+        "riskScore": 142221.0
+    },
+    {
+        "server_name": "VCFPRDMUTUFRT42",
+        "ip_address": "10.102.150.115",
+        "is_installed": true,
+        "riskScore": 24508.0
+    },
+    {
+        "server_name": "VCFPRDOCRAPP04",
+        "ip_address": "10.102.150.239",
+        "is_installed": true,
+        "riskScore": 21536.0
+    },
+    {
+        "server_name": "vicprddmatfbe15",
+        "ip_address": "10.126.1.51",
+        "is_installed": true,
+        "riskScore": 9462.0
+    },
+    {
+        "server_name": "vicprddmatfbe14",
+        "ip_address": "10.126.1.50",
+        "is_installed": true,
+        "riskScore": 9462.0
+    },
+    {
+        "server_name": "vicpocunicapp01",
+        "ip_address": "10.126.130.61",
+        "is_installed": true,
+        "riskScore": 45962.0
+    },
+    {
+        "server_name": "vicprdaprxfbe01",
+        "ip_address": "10.126.1.52",
+        "is_installed": true,
+        "riskScore": 2290.0
+    },
+    {
+        "server_name": "vicprddmatfbe16",
+        "ip_address": "10.126.1.53",
+        "is_installed": true,
+        "riskScore": 9462.0
+    },
+    {
+        "server_name": "SRVSCCMTS01",
+        "ip_address": "10.102.150.46",
+        "is_installed": true,
+        "riskScore": 292150.0
+    },
+    {
+        "server_name": "SRVSCCMTS03",
+        "ip_address": "10.102.150.15",
+        "is_installed": true,
+        "riskScore": 15687.0
+    },
+    {
+        "server_name": "VCFHCLUS01N1",
+        "ip_address": "10.109.24.20",
+        "is_installed": true,
+        "riskScore": 135828.0
+    },
+    {
+        "server_name": "VCFPRDBCKPNAS20",
+        "ip_address": "10.102.176.100",
+        "is_installed": true,
+        "riskScore": 58308.0
+    },
+    {
+        "server_name": "VCFPRDSCCMADM01",
+        "ip_address": "10.102.150.25",
+        "is_installed": true,
+        "riskScore": 980365.0
+    },
+    {
+        "server_name": "VCFPRDINFRAPP06",
+        "ip_address": "10.102.151.189",
+        "is_installed": true,
+        "riskScore": 17892.0
+    },
+    {
+        "server_name": "SRVSCCMAPP01",
+        "ip_address": "10.102.151.33",
+        "is_installed": true,
+        "riskScore": 26134.0
+    },
+    {
+        "server_name": "VCFPRDPPJLIC01",
+        "ip_address": "10.102.150.8",
+        "is_installed": true,
+        "riskScore": 24732.0
+    },
+    {
+        "server_name": "vicprdcrtxrly01",
+        "ip_address": "10.126.1.55",
+        "is_installed": true,
+        "riskScore": 2290.0
+    },
+    {
+        "server_name": "VCFPRDOCRAPP03",
+        "ip_address": "10.102.150.139",
+        "is_installed": true,
+        "riskScore": 21536.0
+    },
+    {
+        "server_name": "VCFPRDANSEUDO01",
+        "ip_address": "10.102.150.152",
+        "is_installed": true,
+        "riskScore": 10633.0
+    },
+    {
+        "server_name": "VCFPRDIRI2APP11",
+        "ip_address": "10.102.150.113",
+        "is_installed": true,
+        "riskScore": 21536.0
+    },
+    {
+        "server_name": "VCFPRDPPACAPP01",
+        "ip_address": "10.102.150.118",
+        "is_installed": true,
+        "riskScore": 21536.0
+    },
+    {
+        "server_name": "VCFPRDSAV01",
+        "ip_address": "10.102.150.10",
+        "is_installed": true,
+        "riskScore": 25682.0
+    },
+    {
+        "server_name": "SRVHLDIMP01",
+        "ip_address": "10.102.150.218",
+        "is_installed": true,
+        "riskScore": 24732.0
+    },
+    {
+        "server_name": "VCFPRDKPV01",
+        "ip_address": "10.102.150.116",
+        "is_installed": true,
+        "riskScore": 24732.0
+    },
+    {
+        "server_name": "VCFPRDMUTUFRT51",
+        "ip_address": "10.102.150.33",
+        "is_installed": true,
+        "riskScore": 25458.0
+    },
+    {
+        "server_name": "VCFPRDAZADMIN01",
+        "ip_address": "10.102.150.20",
+        "is_installed": true,
+        "riskScore": 36132.0
+    },
+    {
+        "server_name": "SRVANAEL01",
+        "ip_address": "10.102.150.209",
+        "is_installed": true,
+        "riskScore": 6503.0
+    },
+    {
+        "server_name": "VCFPRDVSCMWEB01",
+        "ip_address": "10.102.150.26",
+        "is_installed": true,
+        "riskScore": 7627.0
+    },
+    {
+        "server_name": "vicprddmatfbe17",
+        "ip_address": "10.126.1.54",
+        "is_installed": true,
+        "riskScore": 9462.0
+    },
+    {
+        "server_name": "VCFPRDSCCMSUP01",
+        "ip_address": "10.102.151.186",
+        "is_installed": true,
+        "riskScore": 30898.0
+    },
+    {
+        "server_name": "VCFPRDARH3APP01",
+        "ip_address": "10.102.150.120",
+        "is_installed": true,
+        "riskScore": 7012.0
+    },
+    {
+        "server_name": "VCFPRDVDOCAPP01",
+        "ip_address": "10.102.150.30",
+        "is_installed": true,
+        "riskScore": 143821.0
+    },
+    {
+        "server_name": "VCFPRDDYMAFS01",
+        "ip_address": "10.102.150.31",
+        "is_installed": true,
+        "riskScore": 25715.0
+    },
+    {
+        "server_name": "SRVSCCMTS02",
+        "ip_address": "10.102.150.38",
+        "is_installed": true,
+        "riskScore": 15687.0
+    },
+    {
+        "server_name": "SRVSCCMAPP03",
+        "ip_address": "10.102.151.197",
+        "is_installed": true,
+        "riskScore": 719971.0
+    },
+    {
+        "server_name": "VCFPRDIRI2APP13",
+        "ip_address": "10.102.150.112",
+        "is_installed": true,
+        "riskScore": 21536.0
+    },
+    {
+        "server_name": "VCFPRDDEVOPSA01",
+        "ip_address": "10.102.150.197",
+        "is_installed": true,
+        "riskScore": 43906.0
+    },
+    {
+        "server_name": "VCFPRDITCHAPP11",
+        "ip_address": "10.102.150.29",
+        "is_installed": true,
+        "riskScore": 27107.0
+    },
+    {
+        "server_name": "VCFPRDARBHKS01",
+        "ip_address": "10.102.150.173",
+        "is_installed": true,
+        "riskScore": 210557.0
+    },
+    {
+        "server_name": "VCFPRDFILEAPP01",
+        "ip_address": "10.102.150.228",
+        "is_installed": true,
+        "riskScore": 5834.0
+    },
+    {
+        "server_name": "VCFPRDSIDFDPT01",
+        "ip_address": "10.102.150.61",
+        "is_installed": true,
+        "riskScore": 306158.0
+    },
+    {
+        "server_name": "vicprdwecstrt01",
+        "ip_address": "10.126.1.59",
+        "is_installed": true,
+        "riskScore": 12830.0
+    },
+    {
+        "server_name": "VCFPRDPMQYAPP01",
+        "ip_address": "10.102.150.47",
+        "is_installed": true,
+        "riskScore": 192428.0
+    },
+    {
+        "server_name": "VCFPRDDOCOAPP02",
+        "ip_address": "10.102.150.35",
+        "is_installed": true,
+        "riskScore": 25715.0
+    },
+    {
+        "server_name": "VCFPRDBPRMBOT01",
+        "ip_address": "10.102.150.18",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "vicdevldomfbe01",
+        "ip_address": "10.126.130.64",
+        "is_installed": true,
+        "riskScore": 44000.0
+    },
+    {
+        "server_name": "vicppdwecstrt01",
+        "ip_address": "10.126.100.5",
+        "is_installed": true,
+        "riskScore": 63939.0
+    },
+    {
+        "server_name": "vicprdsumafbe03",
+        "ip_address": "10.126.1.57",
+        "is_installed": true,
+        "riskScore": 305310.0
+    },
+    {
+        "server_name": "VCFPRDADSKAPP11",
+        "ip_address": "10.102.150.34",
+        "is_installed": true,
+        "riskScore": 25715.0
+    },
+    {
+        "server_name": "VCFDEVMUTUIIS02",
+        "ip_address": "10.102.175.20",
+        "is_installed": true,
+        "riskScore": 454651.0
+    },
+    {
+        "server_name": "vicprdldomfbe07",
+        "ip_address": "10.126.1.60",
+        "is_installed": true,
+        "riskScore": 294093.0
+    },
+    {
+        "server_name": "VCFREFRHYIMP01",
+        "ip_address": "10.102.218.11",
+        "is_installed": true,
+        "riskScore": 3390.0
+    },
+    {
+        "server_name": "VCFREFRHYTS01",
+        "ip_address": "10.102.218.10",
+        "is_installed": true,
+        "riskScore": 5030.0
+    },
+    {
+        "server_name": "VCFPRDMUTUADM04",
+        "ip_address": "10.102.181.153",
+        "is_installed": true,
+        "riskScore": 25715.0
+    },
+    {
+        "server_name": "vicprddmatfbe18",
+        "ip_address": "10.126.1.58",
+        "is_installed": true,
+        "riskScore": 9462.0
+    },
+    {
+        "server_name": "vicprdredmfbe02",
+        "ip_address": "10.126.1.66",
+        "is_installed": true,
+        "riskScore": 219523.0
+    },
+    {
+        "server_name": "VCFPRDVSCMWEB02",
+        "ip_address": "10.102.150.27",
+        "is_installed": true,
+        "riskScore": 91459.0
+    },
+    {
+        "server_name": "SRVOCTRLACCES",
+        "ip_address": "10.102.97.13",
+        "is_installed": true,
+        "riskScore": 5379.0
+    },
+    {
+        "server_name": "VCFPRDPPJLIC02",
+        "ip_address": "10.102.150.9",
+        "is_installed": true,
+        "riskScore": 24732.0
+    },
+    {
+        "server_name": "SRVOAPP01",
+        "ip_address": "10.102.98.11",
+        "is_installed": true,
+        "riskScore": 388476.0
+    },
+    {
+        "server_name": "VCFPRDMUTUADM01",
+        "ip_address": "10.102.181.51",
+        "is_installed": true,
+        "riskScore": 474574.0
+    },
+    {
+        "server_name": "VCFPRDMUTUADM03",
+        "ip_address": "10.102.181.12",
+        "is_installed": true,
+        "riskScore": 25889.0
+    },
+    {
+        "server_name": "VCFPRDSQMRAPP01",
+        "ip_address": "10.102.150.170",
+        "is_installed": true,
+        "riskScore": 5834.0
+    },
+    {
+        "server_name": "SRVODDPRINT01",
+        "ip_address": "10.102.97.10",
+        "is_installed": true,
+        "riskScore": 5888.0
+    },
+    {
+        "server_name": "VCFPRDHABLIC01",
+        "ip_address": "10.102.208.10",
+        "is_installed": true,
+        "riskScore": 332937.0
+    },
+    {
+        "server_name": "VCFPCLUS02N2",
+        "ip_address": "10.109.22.159",
+        "is_installed": true,
+        "riskScore": 29524.0
+    },
+    {
+        "server_name": "vicppdadmtfbe01",
+        "ip_address": "10.126.70.9",
+        "is_installed": true,
+        "riskScore": 49655.0
+    },
+    {
+        "server_name": "D01PPDADDSWDC01",
+        "ip_address": "10.126.100.6",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "VCFPRDRSOADM01",
+        "ip_address": "10.102.181.200",
+        "is_installed": true,
+        "riskScore": 42445.0
+    },
+    {
+        "server_name": "VCFPRDGRIMAPP01",
+        "ip_address": "10.102.170.23",
+        "is_installed": true,
+        "riskScore": 59384.0
+    },
+    {
+        "server_name": "VCFPCLUS01N2",
+        "ip_address": "10.109.22.9",
+        "is_installed": true,
+        "riskScore": 29979.0
+    },
+    {
+        "server_name": "HLDPPDADDSWDC01",
+        "ip_address": "10.126.100.9",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "SOSPPDADDSWDC01",
+        "ip_address": "10.126.100.8",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "SOFPPDADDSWDC01",
+        "ip_address": "10.126.100.10",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "VCFPPDADDSWDC01",
+        "ip_address": "10.126.100.12",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "VGPPPDADDSWDC01",
+        "ip_address": "10.126.100.11",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "VDTPPDADDSWDC01",
+        "ip_address": "10.126.100.7",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "VCFPRDBPRMBOT04",
+        "ip_address": "10.102.150.42",
+        "is_installed": true,
+        "riskScore": 4180.0
+    },
+    {
+        "server_name": "vicprdldomfbe08",
+        "ip_address": "10.126.1.69",
+        "is_installed": true,
+        "riskScore": 295365.0
+    },
+    {
+        "server_name": "VCFPRDMUTUDMZ02",
+        "ip_address": "10.102.71.132",
+        "is_installed": true,
+        "riskScore": 55092.0
+    },
+    {
+        "server_name": "VCFPSSRS16APP01",
+        "ip_address": "10.102.150.14",
+        "is_installed": true,
+        "riskScore": 24732.0
+    },
+    {
+        "server_name": "VCFHOMMUTUDMZ02",
+        "ip_address": "10.102.71.131",
+        "is_installed": true,
+        "riskScore": 55092.0
+    },
+    {
+        "server_name": "vicprddmatfbe21",
+        "ip_address": "10.126.1.70",
+        "is_installed": true,
+        "riskScore": 9462.0
+    },
+    {
+        "server_name": "VCFPRDMUTUDMZ01",
+        "ip_address": "10.102.71.32",
+        "is_installed": true,
+        "riskScore": 55982.0
+    },
+    {
+        "server_name": "VCFPRDADSKAPP12",
+        "ip_address": "10.102.150.36",
+        "is_installed": true,
+        "riskScore": 25715.0
+    },
+    {
+        "server_name": "VCFPSIADSQL16",
+        "ip_address": "10.102.151.16",
+        "is_installed": true,
+        "riskScore": 26071.0
+    },
+    {
+        "server_name": "vicprddmatfbe20",
+        "ip_address": "10.126.1.68",
+        "is_installed": true,
+        "riskScore": 9462.0
+    },
+    {
+        "server_name": "vicprddmatfbe19",
+        "ip_address": "10.126.1.67",
+        "is_installed": true,
+        "riskScore": 9462.0
+    },
+    {
+        "server_name": "VCFHOMMUTUDMZ01",
+        "ip_address": "10.102.71.31",
+        "is_installed": true,
+        "riskScore": 55982.0
+    },
+    {
+        "server_name": "vicprdinfrdns01",
+        "ip_address": "10.250.62.13",
+        "is_installed": true,
+        "riskScore": 357296.0
+    },
+    {
+        "server_name": "VCFDMZMONEXT01",
+        "ip_address": "10.102.70.45",
+        "is_installed": true,
+        "riskScore": 199937.0
+    },
+    {
+        "server_name": "VCFPMSBISSAS11",
+        "ip_address": "10.102.151.14",
+        "is_installed": true,
+        "riskScore": 24732.0
+    },
+    {
+        "server_name": "VCFPMSBISQL15",
+        "ip_address": "10.102.151.15",
+        "is_installed": true,
+        "riskScore": 26566.0
+    },
+    {
+        "server_name": "VCFPRDVTHEFTP01",
+        "ip_address": "10.102.151.8",
+        "is_installed": true,
+        "riskScore": 25736.0
+    },
+    {
+        "server_name": "VCFPCLUS03N2",
+        "ip_address": "10.109.22.44",
+        "is_installed": true,
+        "riskScore": 26071.0
+    },
+    {
+        "server_name": "VCFPRDMUTUADM02",
+        "ip_address": "10.102.181.151",
+        "is_installed": true,
+        "riskScore": 260077.0
+    },
+    {
+        "server_name": "vicprdinfrapp03",
+        "ip_address": "10.120.20.53",
+        "is_installed": true,
+        "riskScore": 2880.0
+    },
+    {
+        "server_name": "VCFPCLUS05N2",
+        "ip_address": "10.109.22.55",
+        "is_installed": true,
+        "riskScore": 30434.0
+    },
+    {
+        "server_name": "vicprdinfrapp04",
+        "ip_address": "10.120.20.58",
+        "is_installed": true,
+        "riskScore": 3389.0
+    },
+    {
+        "server_name": "vicdevtoscapp01",
+        "ip_address": "10.126.130.69",
+        "is_installed": true,
+        "riskScore": 12830.0
+    },
+    {
+        "server_name": "vicprdpgasfbe13",
+        "ip_address": "10.126.1.71",
+        "is_installed": true,
+        "riskScore": 162763.0
+    },
+    {
+        "server_name": "VCFPRDOFRLIC01",
+        "ip_address": "10.102.207.42",
+        "is_installed": true,
+        "riskScore": 168051.0
+    },
+    {
+        "server_name": "VCFREFRHYAPP01",
+        "ip_address": "10.102.218.12",
+        "is_installed": true,
+        "riskScore": 23224.0
+    },
+    {
+        "server_name": "SRVHLDBCKSQL01",
+        "ip_address": "10.102.154.14",
+        "is_installed": true,
+        "riskScore": 58308.0
+    },
+    {
+        "server_name": "VCFPCLUS06N2",
+        "ip_address": "10.109.22.26",
+        "is_installed": true,
+        "riskScore": 29979.0
+    },
+    {
+        "server_name": "VCFPRDADMISQl01",
+        "ip_address": "10.102.181.62",
+        "is_installed": true,
+        "riskScore": 35095.0
+    },
+    {
+        "server_name": "VCFPCLUS02N1",
+        "ip_address": "10.109.22.48",
+        "is_installed": true,
+        "riskScore": 66741.0
+    },
+    {
+        "server_name": "VCFPANCLUS01N02",
+        "ip_address": "10.109.25.78",
+        "is_installed": true,
+        "riskScore": 26111.0
+    },
+    {
+        "server_name": "VCFPCLUS01N1",
+        "ip_address": "10.109.22.12",
+        "is_installed": true,
+        "riskScore": 66674.0
+    },
+    {
+        "server_name": "VCFPSSRS16APP02",
+        "ip_address": "10.102.150.114",
+        "is_installed": true,
+        "riskScore": 24732.0
+    },
+    {
+        "server_name": "vicprdmhanfbe01",
+        "ip_address": "10.126.1.74",
+        "is_installed": true,
+        "riskScore": 68781.0
+    },
+    {
+        "server_name": "VCFHOMVDOCFS11",
+        "ip_address": "10.102.161.17",
+        "is_installed": true,
+        "riskScore": 25715.0
+    },
+    {
+        "server_name": "VCFPRDBPRMBOT02",
+        "ip_address": "10.102.150.39",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "VCFPRDVDOCFS11",
+        "ip_address": "10.102.151.12",
+        "is_installed": true,
+        "riskScore": 25715.0
+    },
+    {
+        "server_name": "vicprdlvudfbe02",
+        "ip_address": "10.126.1.72",
+        "is_installed": true,
+        "riskScore": 297533.0
+    },
+    {
+        "server_name": "VCFPCLUS07N2",
+        "ip_address": "10.109.22.65",
+        "is_installed": true,
+        "riskScore": 29979.0
+    },
+    {
+        "server_name": "vicprdadmnnfs01",
+        "ip_address": "10.126.1.73",
+        "is_installed": true,
+        "riskScore": 262267.0
+    },
+    {
+        "server_name": "VCFPRDKIWIAPP01",
+        "ip_address": "10.102.181.230",
+        "is_installed": true,
+        "riskScore": 25260.0
+    },
+    {
+        "server_name": "VCFPRDARBHEN01",
+        "ip_address": "10.102.151.125",
+        "is_installed": true,
+        "riskScore": 7173.0
+    },
+    {
+        "server_name": "VCFBATBNEAPP01",
+        "ip_address": "10.102.212.11",
+        "is_installed": true,
+        "riskScore": 13839.0
+    },
+    {
+        "server_name": "VCFPCLUS03N1",
+        "ip_address": "10.109.22.43",
+        "is_installed": true,
+        "riskScore": 60169.0
+    },
+    {
+        "server_name": "VCFPRDBCKPNAS21",
+        "ip_address": "10.102.161.100",
+        "is_installed": true,
+        "riskScore": 58308.0
+    },
+    {
+        "server_name": "vicdevsc12app06",
+        "ip_address": "10.126.130.76",
+        "is_installed": true,
+        "riskScore": 331872.0
+    },
+    {
+        "server_name": "vicuatadmtfbe01",
+        "ip_address": "10.126.130.77",
+        "is_installed": true,
+        "riskScore": 12830.0
+    },
+    {
+        "server_name": "vicdevsc12app05",
+        "ip_address": "10.126.130.75",
+        "is_installed": true,
+        "riskScore": 334399.0
+    },
+    {
+        "server_name": "VCFPCLUS05N1",
+        "ip_address": "10.109.22.46",
+        "is_installed": true,
+        "riskScore": 30434.0
+    },
+    {
+        "server_name": "VCFPRDSIDTAPP11",
+        "ip_address": "10.207.101.11",
+        "is_installed": true,
+        "riskScore": 4354.0
+    },
+    {
+        "server_name": "vicprdr7asapp01",
+        "ip_address": "10.126.1.77",
+        "is_installed": true,
+        "riskScore": 4914.0
+    },
+    {
+        "server_name": "vicdevsc12app04",
+        "ip_address": "10.126.130.73",
+        "is_installed": true,
+        "riskScore": 331872.0
+    },
+    {
+        "server_name": "vicprdhermfbe05",
+        "ip_address": "10.126.1.76",
+        "is_installed": true,
+        "riskScore": 166326.0
+    },
+    {
+        "server_name": "VCFPRDSIDTAPP12",
+        "ip_address": "10.207.101.12",
+        "is_installed": true,
+        "riskScore": 5237.0
+    },
+    {
+        "server_name": "vicpocvcntfbe01",
+        "ip_address": "10.126.130.74",
+        "is_installed": true,
+        "riskScore": 62694.0
+    },
+    {
+        "server_name": "VCFPRDSIDTAPP13",
+        "ip_address": "10.207.101.13",
+        "is_installed": true,
+        "riskScore": 4354.0
+    },
+    {
+        "server_name": "VCFPRDSIDTAPI11",
+        "ip_address": "10.207.101.15",
+        "is_installed": true,
+        "riskScore": 4354.0
+    },
+    {
+        "server_name": "VCFPRDSIDTBTH11",
+        "ip_address": "10.207.101.14",
+        "is_installed": true,
+        "riskScore": 3845.0
+    },
+    {
+        "server_name": "TGPPRDTISOWARE1",
+        "ip_address": "10.121.112.24",
+        "is_installed": true,
+        "riskScore": 7101.0
+    },
+    {
+        "server_name": "VCFPANCLUS01N01",
+        "ip_address": "10.109.22.68",
+        "is_installed": true,
+        "riskScore": 58764.0
+    },
+    {
+        "server_name": "vicprdhermfbe06",
+        "ip_address": "10.126.1.79",
+        "is_installed": true,
+        "riskScore": 175768.0
+    },
+    {
+        "server_name": "VINPRDVEEAAPP02",
+        "ip_address": "10.123.140.14",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "GLRESITSV002",
+        "ip_address": "10.126.130.84",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "VCFPRDANRHEN01",
+        "ip_address": "10.102.151.127",
+        "is_installed": true,
+        "riskScore": 6838.0
+    },
+    {
+        "server_name": "VCFPCLUS06N1",
+        "ip_address": "10.109.22.141",
+        "is_installed": true,
+        "riskScore": 29979.0
+    },
+    {
+        "server_name": "vicpocetonfbe01",
+        "ip_address": "10.126.130.90",
+        "is_installed": true,
+        "riskScore": 34249.0
+    },
+    {
+        "server_name": "VCFPCLUS07N1",
+        "ip_address": "10.109.22.69",
+        "is_installed": true,
+        "riskScore": 29979.0
+    },
+    {
+        "server_name": "vicprdinfrkms02",
+        "ip_address": "10.126.1.78",
+        "is_installed": true,
+        "riskScore": 12830.0
+    },
+    {
+        "server_name": "VCFPRDGESQL01",
+        "ip_address": "10.102.212.10",
+        "is_installed": true,
+        "riskScore": 16382.0
+    },
+    {
+        "server_name": "VCFPRDDTRS11",
+        "ip_address": "10.207.101.10",
+        "is_installed": true,
+        "riskScore": 26071.0
+    },
+    {
+        "server_name": "vicprdsc12trt09",
+        "ip_address": "10.126.1.75",
+        "is_installed": true,
+        "riskScore": 309379.0
+    },
+    {
+        "server_name": "vicpocaarcfbe01",
+        "ip_address": "10.126.130.68",
+        "is_installed": true,
+        "riskScore": 2290.0
+    },
+    {
+        "server_name": "vicdevinfaapp02",
+        "ip_address": "10.126.130.94",
+        "is_installed": true,
+        "riskScore": 48271.0
+    },
+    {
+        "server_name": "vicdevinfaapp01",
+        "ip_address": "10.126.130.93",
+        "is_installed": true,
+        "riskScore": 48271.0
+    },
+    {
+        "server_name": "vicppdmsqlapp02",
+        "ip_address": "10.126.70.11",
+        "is_installed": true,
+        "riskScore": 16110.0
+    },
+    {
+        "server_name": "vicpocaarcfbe03",
+        "ip_address": "10.126.130.91",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "vicdevedyrapp01",
+        "ip_address": "10.126.130.92",
+        "is_installed": true,
+        "riskScore": 3844.0
+    },
+    {
+        "server_name": "VCFPRDRP7SCA02",
+        "ip_address": "10.102.181.22",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "vicprddocwfbe06",
+        "ip_address": "10.126.40.14",
+        "is_installed": true,
+        "riskScore": 314890.0
+    },
+    {
+        "server_name": "vicpocatykgtw01",
+        "ip_address": "10.126.160.13",
+        "is_installed": true,
+        "riskScore": 53704.0
+    },
+    {
+        "server_name": "vicppdinfaapp01",
+        "ip_address": "10.126.70.12",
+        "is_installed": true,
+        "riskScore": 287686.0
+    },
+    {
+        "server_name": "vicppdtoscapp02",
+        "ip_address": "10.126.70.10",
+        "is_installed": true,
+        "riskScore": 8563.0
+    },
+    {
+        "server_name": "vicprdadmnadm01",
+        "ip_address": "10.126.1.81",
+        "is_installed": true,
+        "riskScore": 12830.0
+    },
+    {
+        "server_name": "vicpocinfrfbe02",
+        "ip_address": "10.126.160.3",
+        "is_installed": true,
+        "riskScore": 65457.0
+    },
+    {
+        "server_name": "vicppdmultadm02",
+        "ip_address": "10.121.0.28",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "vicprdr7ivdwh01",
+        "ip_address": "10.126.1.80",
+        "is_installed": true,
+        "riskScore": 43326.0
+    },
+    {
+        "server_name": "vicprdinfaapp01",
+        "ip_address": "10.126.1.82",
+        "is_installed": true,
+        "riskScore": 287686.0
+    },
+    {
+        "server_name": "vicppdinfrfbe01",
+        "ip_address": "10.126.70.14",
+        "is_installed": true,
+        "riskScore": 69468.0
+    },
+    {
+        "server_name": "vicppdinfaapp02",
+        "ip_address": "10.126.70.13",
+        "is_installed": true,
+        "riskScore": 287686.0
+    },
+    {
+        "server_name": "vicprdhermfbe07",
+        "ip_address": "10.126.1.85",
+        "is_installed": true,
+        "riskScore": 175768.0
+    },
+    {
+        "server_name": "vicprdxsoardg01",
+        "ip_address": "10.126.1.84",
+        "is_installed": true,
+        "riskScore": 62374.0
+    },
+    {
+        "server_name": "vicprdadmtfbe02",
+        "ip_address": "10.126.1.87",
+        "is_installed": true,
+        "riskScore": 2290.0
+    },
+    {
+        "server_name": "VCFPRDDATAGW01",
+        "ip_address": "10.102.151.23",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "VCFHOMDATAGW01",
+        "ip_address": "10.102.161.23",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "vicprdinfaapp02",
+        "ip_address": "10.126.1.83",
+        "is_installed": true,
+        "riskScore": 287686.0
+    },
+    {
+        "server_name": "vicrecsc12app02",
+        "ip_address": "10.126.130.99",
+        "is_installed": true,
+        "riskScore": 282582.0
+    },
+    {
+        "server_name": "SRVSUDSTIKDMZ",
+        "ip_address": "10.102.70.15",
+        "is_installed": true,
+        "riskScore": 1333.0
+    },
+    {
+        "server_name": "vm-nc0-42",
+        "ip_address": "10.121.128.42",
+        "is_installed": true,
+        "riskScore": 154456.0
+    },
+    {
+        "server_name": "vicprddmatfbe22",
+        "ip_address": "10.126.1.92",
+        "is_installed": true,
+        "riskScore": 8717.0
+    },
+    {
+        "server_name": "vicprdxsoardg02",
+        "ip_address": "10.126.1.89",
+        "is_installed": true,
+        "riskScore": 62374.0
+    },
+    {
+        "server_name": "VCFDEVDATAGW01",
+        "ip_address": "10.102.176.23",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "vicprddmatfbe23",
+        "ip_address": "10.126.1.93",
+        "is_installed": true,
+        "riskScore": 8717.0
+    },
+    {
+        "server_name": "vm-nc0-14",
+        "ip_address": "10.121.128.142",
+        "is_installed": true,
+        "riskScore": 140737.0
+    },
+    {
+        "server_name": "VCFPRDSVCPILOT",
+        "ip_address": "10.102.181.220",
+        "is_installed": true,
+        "riskScore": 47439.0
+    },
+    {
+        "server_name": "vicprdexchfbe05",
+        "ip_address": "10.126.1.96",
+        "is_installed": true,
+        "riskScore": 5818.0
+    },
+    {
+        "server_name": "victstadmnsql02",
+        "ip_address": "10.126.130.86",
+        "is_installed": true,
+        "riskScore": 61666.0
+    },
+    {
+        "server_name": "vicprdldomfbe09",
+        "ip_address": "10.126.1.97",
+        "is_installed": true,
+        "riskScore": 305905.0
+    },
+    {
+        "server_name": "vicdevxsoardg01",
+        "ip_address": "10.126.130.82",
+        "is_installed": true,
+        "riskScore": 56102.0
+    },
+    {
+        "server_name": "vicdevxsoardg02",
+        "ip_address": "10.126.130.103",
+        "is_installed": true,
+        "riskScore": 56102.0
+    },
+    {
+        "server_name": "victstadmnsql01",
+        "ip_address": "10.126.130.85",
+        "is_installed": true,
+        "riskScore": 61666.0
+    },
+    {
+        "server_name": "vicprdexchfbe06",
+        "ip_address": "10.126.1.95",
+        "is_installed": true,
+        "riskScore": 5818.0
+    },
+    {
+        "server_name": "vicrechermfbe05",
+        "ip_address": "10.126.130.63",
+        "is_installed": true,
+        "riskScore": 52794.0
+    },
+    {
+        "server_name": "vicprdmsbiapp01",
+        "ip_address": "10.126.1.94",
+        "is_installed": true,
+        "riskScore": 2290.0
+    },
+    {
+        "server_name": "vicreccntsfbe01",
+        "ip_address": "10.126.130.101",
+        "is_installed": true,
+        "riskScore": 56124.0
+    },
+    {
+        "server_name": "VCFPDTCLUS02N2",
+        "ip_address": "10.207.101.17",
+        "is_installed": true,
+        "riskScore": 29979.0
+    },
+    {
+        "server_name": "VCFPDTCLUS02N1",
+        "ip_address": "10.207.101.19",
+        "is_installed": true,
+        "riskScore": 66741.0
+    },
+    {
+        "server_name": "vicprdinfanfs01",
+        "ip_address": "10.126.1.98",
+        "is_installed": true,
+        "riskScore": 298594.0
+    },
+    {
+        "server_name": "vicppdinfanfs01",
+        "ip_address": "10.126.70.16",
+        "is_installed": true,
+        "riskScore": 298594.0
+    },
+    {
+        "server_name": "vicprdldomfbe10",
+        "ip_address": "10.126.1.88",
+        "is_installed": true,
+        "riskScore": 305905.0
+    },
+    {
+        "server_name": "TMANEOS03",
+        "ip_address": "10.102.175.46",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "vicrecatyksql01",
+        "ip_address": "10.126.130.70",
+        "is_installed": true,
+        "riskScore": 47193.0
+    },
+    {
+        "server_name": "vicrecatykgtw01",
+        "ip_address": "10.126.130.102",
+        "is_installed": true,
+        "riskScore": 46858.0
+    },
+    {
+        "server_name": "vicprdhermfbe08",
+        "ip_address": "10.126.1.91",
+        "is_installed": true,
+        "riskScore": 172468.0
+    },
+    {
+        "server_name": "vicprdsumafbe02",
+        "ip_address": "10.120.20.16",
+        "is_installed": true,
+        "riskScore": 7973.0
+    },
+    {
+        "server_name": "vicrecatykdsh02",
+        "ip_address": "10.126.130.89",
+        "is_installed": true,
+        "riskScore": 49798.0
+    },
+    {
+        "server_name": "TPFPRDAPP01",
+        "ip_address": "10.102.220.11",
+        "is_installed": true,
+        "riskScore": 763393.0
+    },
+    {
+        "server_name": "SRVSUDCH",
+        "ip_address": "10.102.213.12",
+        "is_installed": true,
+        "riskScore": 24277.0
+    },
+    {
+        "server_name": "vicprdsumafbe01",
+        "ip_address": "10.120.20.15",
+        "is_installed": true,
+        "riskScore": 20373.0
+    },
+    {
+        "server_name": "TPFPRDADM02",
+        "ip_address": "10.102.220.12",
+        "is_installed": true,
+        "riskScore": 16584.0
+    },
+    {
+        "server_name": "SRVSUDW10",
+        "ip_address": "10.102.213.11",
+        "is_installed": true,
+        "riskScore": 123061.0
+    },
+    {
+        "server_name": "TPFPRDIIS01",
+        "ip_address": "10.102.220.10",
+        "is_installed": true,
+        "riskScore": 90427.0
+    },
+    {
+        "server_name": "VCFCBCEOSIRIS",
+        "ip_address": "10.102.210.10",
+        "is_installed": true,
+        "riskScore": 5714.0
+    },
+    {
+        "server_name": "vicrecadmnnxs01",
+        "ip_address": "10.126.130.105",
+        "is_installed": true,
+        "riskScore": 63734.0
+    },
+    {
+        "server_name": "victstedyrapp01",
+        "ip_address": "10.126.130.107",
+        "is_installed": true,
+        "riskScore": 12830.0
+    },
+    {
+        "server_name": "vicuatedyrapp01",
+        "ip_address": "10.126.130.106",
+        "is_installed": true,
+        "riskScore": 12830.0
+    },
+    {
+        "server_name": "VCFPRDBFSIMP01",
+        "ip_address": "10.102.211.10",
+        "is_installed": true,
+        "riskScore": 108299.0
+    },
+    {
+        "server_name": "vicpocadmnnxs01",
+        "ip_address": "10.126.130.97",
+        "is_installed": true,
+        "riskScore": 34822.0
+    },
+    {
+        "server_name": "SRVSOLUMATIDF-2",
+        "ip_address": "10.102.224.10",
+        "is_installed": true,
+        "riskScore": 5379.0
+    },
+    {
+        "server_name": "SRVSUDCHDR",
+        "ip_address": "10.102.213.13",
+        "is_installed": true,
+        "riskScore": 38586.0
+    },
+    {
+        "server_name": "SRVSUDINFRA",
+        "ip_address": "10.102.213.10",
+        "is_installed": true,
+        "riskScore": 7455.0
+    },
+    {
+        "server_name": "vicpocatykfbe04",
+        "ip_address": "10.126.130.104",
+        "is_installed": true,
+        "riskScore": 50133.0
+    },
+    {
+        "server_name": "vicppdatykdsh02",
+        "ip_address": "10.126.100.15",
+        "is_installed": true,
+        "riskScore": 46858.0
+    },
+    {
+        "server_name": "vicpocaarcfbe04",
+        "ip_address": "10.126.130.108",
+        "is_installed": true,
+        "riskScore": 12830.0
+    },
+    {
+        "server_name": "vicppdatykgtw04",
+        "ip_address": "10.126.100.14",
+        "is_installed": true,
+        "riskScore": 46858.0
+    },
+    {
+        "server_name": "SRVSUDIMP",
+        "ip_address": "10.102.213.17",
+        "is_installed": true,
+        "riskScore": 5874.0
+    },
+    {
+        "server_name": "VCFDEVEASYMAT01",
+        "ip_address": "10.102.175.18",
+        "is_installed": true,
+        "riskScore": 28339.0
+    },
+    {
+        "server_name": "vicppdatyksql05",
+        "ip_address": "10.126.100.17",
+        "is_installed": true,
+        "riskScore": 46858.0
+    },
+    {
+        "server_name": "vicppdatykgtw03",
+        "ip_address": "10.126.100.13",
+        "is_installed": true,
+        "riskScore": 46858.0
+    },
+    {
+        "server_name": "vicpocadmnadm07",
+        "ip_address": "10.126.130.53",
+        "is_installed": true,
+        "riskScore": 241323.0
+    },
+    {
+        "server_name": "vichomcntsapp01",
+        "ip_address": "10.126.130.87",
+        "is_installed": true,
+        "riskScore": 113469.0
+    },
+    {
+        "server_name": "vichomcntssyr01",
+        "ip_address": "10.126.130.109",
+        "is_installed": true,
+        "riskScore": 53301.0
+    },
+    {
+        "server_name": "vicpocaarcfbe05",
+        "ip_address": "10.126.130.54",
+        "is_installed": true,
+        "riskScore": 70153.0
+    },
+    {
+        "server_name": "vicprdzscagtw01",
+        "ip_address": "10.126.40.15",
+        "is_installed": true,
+        "riskScore": 44547.0
+    },
+    {
+        "server_name": "vichomcntsmdb01",
+        "ip_address": "10.126.130.110",
+        "is_installed": true,
+        "riskScore": 54056.0
+    },
+    {
+        "server_name": "vicdevadmnadm01",
+        "ip_address": "10.126.130.52",
+        "is_installed": true,
+        "riskScore": 6259.0
+    },
+    {
+        "server_name": "vicppdtoscapp04",
+        "ip_address": "10.126.70.19",
+        "is_installed": true,
+        "riskScore": 24080.0
+    },
+    {
+        "server_name": "vicprdadmnnxs01",
+        "ip_address": "10.126.1.46",
+        "is_installed": true,
+        "riskScore": 32067.0
+    },
+    {
+        "server_name": "victstatykgtw02",
+        "ip_address": "10.126.160.15",
+        "is_installed": true,
+        "riskScore": 50086.0
+    },
+    {
+        "server_name": "VCFPRDVSTFAPP11",
+        "ip_address": "10.102.150.40",
+        "is_installed": true,
+        "riskScore": 121838.0
+    },
+    {
+        "server_name": "victstatykdsh02",
+        "ip_address": "10.126.160.14",
+        "is_installed": true,
+        "riskScore": 48967.0
+    },
+    {
+        "server_name": "VCFPRDRP7SCA01",
+        "ip_address": "10.102.181.19",
+        "is_installed": true,
+        "riskScore": 28229.0
+    },
+    {
+        "server_name": "victstatyksql02",
+        "ip_address": "10.126.160.16",
+        "is_installed": true,
+        "riskScore": 47715.0
+    },
+    {
+        "server_name": "vicdevadmnadm02",
+        "ip_address": "10.126.130.112",
+        "is_installed": true,
+        "riskScore": 44547.0
+    },
+    {
+        "server_name": "vicppdcertfbe02",
+        "ip_address": "10.121.0.71",
+        "is_installed": false,
+        "riskScore": 4327.0
+    },
+    {
+        "server_name": "vicprdexchfbe09",
+        "ip_address": "10.126.21.4",
+        "is_installed": true,
+        "riskScore": 49799.0
+    },
+    {
+        "server_name": "vicprdldomfbe11",
+        "ip_address": "10.126.1.47",
+        "is_installed": true,
+        "riskScore": 306042.0
+    },
+    {
+        "server_name": "VGPPRDASC01",
+        "ip_address": "10.121.112.38",
+        "is_installed": true,
+        "riskScore": 123759.0
+    },
+    {
+        "server_name": "vicprdwecslog01",
+        "ip_address": "10.126.22.2",
+        "is_installed": true,
+        "riskScore": 26798.0
+    },
+    {
+        "server_name": "vicprdexchfbe10",
+        "ip_address": "10.126.21.2",
+        "is_installed": true,
+        "riskScore": 24334.0
+    },
+    {
+        "server_name": "VCFPRDFILEARB01",
+        "ip_address": "10.102.212.12",
+        "is_installed": true,
+        "riskScore": 1467922.0
+    },
+    {
+        "server_name": "vicdevshvcfbe02",
+        "ip_address": "10.126.130.66",
+        "is_installed": true,
+        "riskScore": 493761.0
+    },
+    {
+        "server_name": "vicppdsemafbe01",
+        "ip_address": "10.126.70.18",
+        "is_installed": true,
+        "riskScore": 302610.0
+    },
+    {
+        "server_name": "SRVSENG",
+        "ip_address": "10.102.213.15",
+        "is_installed": true,
+        "riskScore": 24277.0
+    },
+    {
+        "server_name": "VCFPRDINFRAPP07",
+        "ip_address": "10.102.151.112",
+        "is_installed": true,
+        "riskScore": 61955.0
+    },
+    {
+        "server_name": "VCFPRDFTPDMZ01",
+        "ip_address": "10.102.70.28",
+        "is_installed": true,
+        "riskScore": 465294.0
+    },
+    {
+        "server_name": "VCFPRDBCKPNAS23",
+        "ip_address": "10.109.22.93",
+        "is_installed": true,
+        "riskScore": 58308.0
+    },
+    {
+        "server_name": "SRVSUDDRTO",
+        "ip_address": "10.102.213.14",
+        "is_installed": true,
+        "riskScore": 149062.0
+    },
+    {
+        "server_name": "VCFPRDLICTSL01",
+        "ip_address": "10.102.150.41",
+        "is_installed": true,
+        "riskScore": 24732.0
+    },
+    {
+        "server_name": "vicprdcicdadm04",
+        "ip_address": "10.126.1.48",
+        "is_installed": true,
+        "riskScore": 40128.0
+    },
+    {
+        "server_name": "vicuatsemafbe01",
+        "ip_address": "10.126.130.9",
+        "is_installed": true,
+        "riskScore": 48342.0
+    },
+    {
+        "server_name": "VCFPRDBCKPNAS22",
+        "ip_address": "10.109.22.94",
+        "is_installed": true,
+        "riskScore": 58308.0
+    },
+    {
+        "server_name": "vicprdsemafbe01",
+        "ip_address": "10.126.1.45",
+        "is_installed": true,
+        "riskScore": 71219.0
+    },
+    {
+        "server_name": "VCFPRDFILEAPP02",
+        "ip_address": "10.102.150.60",
+        "is_installed": true,
+        "riskScore": 12190.0
+    },
+    {
+        "server_name": "dbiprdweuirsh",
+        "ip_address": "10.103.70.165",
+        "is_installed": true,
+        "riskScore": 450.0
+    },
+    {
+        "server_name": "vcfprdsonar01",
+        "ip_address": "10.103.140.20",
+        "is_installed": true,
+        "riskScore": 1763.0
+    },
+    {
+        "server_name": "vcf-vm-siprd-release-agent-1",
+        "ip_address": "10.103.39.164",
+        "is_installed": true,
+        "riskScore": 14155.0
+    },
+    {
+        "server_name": "vcfprdavdgb-2",
+        "ip_address": "10.34.213.5",
+        "is_installed": true,
+        "riskScore": 242885.0
+    },
+    {
+        "server_name": "vcf-vm-ibimprd-release-agent-1",
+        "ip_address": "10.103.39.165",
+        "is_installed": true,
+        "riskScore": 14155.0
+    },
+    {
+        "server_name": "vcf-vm-rover-mgmt-devops-agent",
+        "ip_address": "10.103.23.100",
+        "is_installed": true,
+        "riskScore": 14945.0
+    },
+    {
+        "server_name": "vcf-vm-sidev-release-agent-1",
+        "ip_address": "10.103.59.164",
+        "is_installed": true,
+        "riskScore": 14155.0
+    },
+    {
+        "server_name": "vcfhomavd-3",
+        "ip_address": "10.34.214.6",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "vcf-vm-sihom-release-agent-1",
+        "ip_address": "10.103.49.164",
+        "is_installed": true,
+        "riskScore": 14155.0
+    },
+    {
+        "server_name": "vcfhomavd-2",
+        "ip_address": "10.34.214.7",
+        "is_installed": true,
+        "riskScore": 11636.0
+    },
+    {
+        "server_name": "vcfhomavd-4",
+        "ip_address": "10.34.214.4",
+        "is_installed": true,
+        "riskScore": 354328.0
+    },
+    {
+        "server_name": "vcfhomwin11-2",
+        "ip_address": "10.34.214.9",
+        "is_installed": true,
+        "riskScore": 126757.0
+    },
+    {
+        "server_name": "dbihomweuirsh",
+        "ip_address": "10.103.80.166",
+        "is_installed": true,
+        "riskScore": 1039.0
+    },
+    {
+        "server_name": "vcfhomadv-0",
+        "ip_address": "10.34.214.5",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "vcfdevsonar01",
+        "ip_address": "10.103.100.20",
+        "is_installed": true,
+        "riskScore": 2352.0
+    },
+    {
+        "server_name": "vcfhomwin11-4",
+        "ip_address": "10.34.214.14",
+        "is_installed": true,
+        "riskScore": 126757.0
+    },
+    {
+        "server_name": "vcf-vm-bi-ops-1",
+        "ip_address": "10.103.79.164",
+        "is_installed": true,
+        "riskScore": 450.0
+    },
+    {
+        "server_name": "coweudnsfwd02",
+        "ip_address": "10.103.10.134",
+        "is_installed": true,
+        "riskScore": 450.0
+    },
+    {
+        "server_name": "vm-chl-prd-use-rdpbtxaus-005",
+        "ip_address": "10.2.0.4",
+        "is_installed": true,
+        "riskScore": 870.0
+    },
+    {
+        "server_name": "coweudnsfwd01",
+        "ip_address": "10.103.10.133",
+        "is_installed": true,
+        "riskScore": 450.0
+    },
+    {
+        "server_name": "vm-chl-prd-usc-bitumixcl-003",
+        "ip_address": "10.1.0.4",
+        "is_installed": true,
+        "riskScore": 11646.0
+    },
+    {
+        "server_name": "vm-chl-prd-usc-gcom-back-002",
+        "ip_address": "10.0.0.4",
+        "is_installed": true,
+        "riskScore": 1138.0
+    },
+    {
+        "server_name": "DCBPRDCAP01",
+        "ip_address": "192.168.0.4",
+        "is_installed": true,
+        "riskScore": 1138.0
+    },
+    {
+        "server_name": "vm-chl-ppd-usc-gcom-002",
+        "ip_address": "10.0.0.4",
+        "is_installed": true,
+        "riskScore": 1138.0
+    },
+    {
+        "server_name": "HEBVMBGSDEV01",
+        "ip_address": "10.209.226.77",
+        "is_installed": true,
+        "riskScore": 120922.0
+    },
+    {
+        "server_name": "HEBVMMOLDEV02",
+        "ip_address": "10.209.226.75",
+        "is_installed": true,
+        "riskScore": 120420.0
+    },
+    {
+        "server_name": "DCBPRDPAP01",
+        "ip_address": "10.52.8.9",
+        "is_installed": true,
+        "riskScore": 1138.0
+    },
+    {
+        "server_name": "HEBVMMOLDEV01",
+        "ip_address": "10.209.226.74",
+        "is_installed": true,
+        "riskScore": 120922.0
+    },
+    {
+        "server_name": "DGPPRDSQL01",
+        "ip_address": "10.52.8.7",
+        "is_installed": true,
+        "riskScore": 1138.0
+    },
+    {
+        "server_name": "DCBPRDSQL03",
+        "ip_address": "10.52.8.6",
+        "is_installed": true,
+        "riskScore": 1138.0
+    },
+    {
+        "server_name": "DCBPRDRAD01",
+        "ip_address": "10.52.8.5",
+        "is_installed": true,
+        "riskScore": 870.0
+    },
+    {
+        "server_name": "HEBVMBGSPRD03",
+        "ip_address": "10.209.226.79",
+        "is_installed": true,
+        "riskScore": 120922.0
+    },
+    {
+        "server_name": "HEBVMBGSPRD04",
+        "ip_address": "10.209.226.80",
+        "is_installed": true,
+        "riskScore": 120922.0
+    },
+    {
+        "server_name": "HEBVMMOLPRD02",
+        "ip_address": "10.209.226.69",
+        "is_installed": true,
+        "riskScore": 120922.0
+    },
+    {
+        "server_name": "HEBVMMOLPRD03",
+        "ip_address": "10.209.226.70",
+        "is_installed": true,
+        "riskScore": 121190.0
+    },
+    {
+        "server_name": "vmvukuatuks001",
+        "ip_address": "10.0.1.4",
+        "is_installed": true,
+        "riskScore": 27032.0
+    },
+    {
+        "server_name": "vmvukprduks001",
+        "ip_address": "10.0.1.4",
+        "is_installed": true,
+        "riskScore": 27032.0
+    },
+    {
+        "server_name": "HEBVMRDLPRD01",
+        "ip_address": "10.209.226.113",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "HEBVMMGMPRD00",
+        "ip_address": "10.209.226.101",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "HEBVMRDLPRD02",
+        "ip_address": "10.209.226.105",
+        "is_installed": true,
+        "riskScore": 5073.0
+    },
+    {
+        "server_name": "HEBVMRPDPRD01",
+        "ip_address": "10.209.226.103",
+        "is_installed": false,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "HEBVMGPLPRD01",
+        "ip_address": "10.209.226.39",
+        "is_installed": true,
+        "riskScore": 8024.0
+    },
+    {
+        "server_name": "HEBVMFSWPRD01",
+        "ip_address": "10.209.226.38",
+        "is_installed": true,
+        "riskScore": 5073.0
+    },
+    {
+        "server_name": "HEBVMRFSPRD01",
+        "ip_address": "10.209.226.41",
+        "is_installed": true,
+        "riskScore": 4404.0
+    },
+    {
+        "server_name": "HEBVMINTPRD01",
+        "ip_address": "10.209.226.40",
+        "is_installed": true,
+        "riskScore": 9369.0
+    },
+    {
+        "server_name": "HEBVMRCBPRD01",
+        "ip_address": "10.209.226.37",
+        "is_installed": true,
+        "riskScore": 6251.0
+    },
+    {
+        "server_name": "vmvukdevuks001",
+        "ip_address": "10.0.0.4",
+        "is_installed": true,
+        "riskScore": 28719.0
+    },
+    {
+        "server_name": "HEBVMRSHPRD01",
+        "ip_address": "10.209.226.36",
+        "is_installed": true,
+        "riskScore": 152289.0
+    },
+    {
+        "server_name": "HEBVMSQLPRD01",
+        "ip_address": "10.209.226.42",
+        "is_installed": true,
+        "riskScore": 6084.0
+    },
+    {
+        "server_name": "vmvukppduks001",
+        "ip_address": "10.0.1.4",
+        "is_installed": true,
+        "riskScore": 27032.0
+    },
+    {
+        "server_name": "vm-czeprdsmlv01",
+        "ip_address": "10.248.53.13",
+        "is_installed": true,
+        "riskScore": 1962.0
+    },
+    {
+        "server_name": "vm-czeprdrrmc01",
+        "ip_address": "10.248.53.16",
+        "is_installed": true,
+        "riskScore": 0.0
+    },
+    {
+        "server_name": "vm-czemgtvbem01",
+        "ip_address": "10.248.52.244",
+        "is_installed": true,
+        "riskScore": 4446.0
+    },
+    {
+        "server_name": "vm-czemgtvone01",
+        "ip_address": "10.248.52.245",
+        "is_installed": true,
+        "riskScore": 3837.0
+    },
+    {
+        "server_name": "vm-czesecslg01",
+        "ip_address": "10.248.52.132",
+        "is_installed": true,
+        "riskScore": 1372.0
+    },
+    {
+        "server_name": "VCFPRDADV-0",
+        "ip_address": "10.34.215.5",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-11",
+        "ip_address": "10.34.215.21",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-12",
+        "ip_address": "10.34.215.22",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-13",
+        "ip_address": "10.34.215.30",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-10",
+        "ip_address": "10.34.215.14",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-17",
+        "ip_address": "10.34.215.35",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-18",
+        "ip_address": "10.34.215.20",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-1",
+        "ip_address": "10.34.215.6",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-16",
+        "ip_address": "10.34.215.32",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-14",
+        "ip_address": "10.34.215.16",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-15",
+        "ip_address": "10.34.215.29",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-2",
+        "ip_address": "10.34.215.4",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-21",
+        "ip_address": "10.34.215.26",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-22",
+        "ip_address": "10.34.215.23",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-20",
+        "ip_address": "10.34.215.34",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-23",
+        "ip_address": "10.34.215.25",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-25",
+        "ip_address": "10.34.215.31",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-27",
+        "ip_address": "10.34.215.15",
+        "is_installed": true,
+        "riskScore": 354328.0
+    },
+    {
+        "server_name": "VCFPRDADV-28",
+        "ip_address": "10.34.215.19",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-24",
+        "ip_address": "10.34.215.33",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-26",
+        "ip_address": "10.34.215.18",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-29",
+        "ip_address": "10.34.215.17",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-31",
+        "ip_address": "10.34.215.27",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-30",
+        "ip_address": "10.34.215.24",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-3",
+        "ip_address": "10.34.215.11",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-33",
+        "ip_address": "10.34.215.36",
+        "is_installed": true,
+        "riskScore": 63253.0
+    },
+    {
+        "server_name": "VCFPRDADV-32",
+        "ip_address": "10.34.215.38",
+        "is_installed": true,
+        "riskScore": 63253.0
+    },
+    {
+        "server_name": "VCFPRDADV-34",
+        "ip_address": "10.34.215.40",
+        "is_installed": true,
+        "riskScore": 210768.0
+    },
+    {
+        "server_name": "VCFPRDADV-35",
+        "ip_address": "10.34.215.39",
+        "is_installed": true,
+        "riskScore": 63253.0
+    },
+    {
+        "server_name": "VCFPRDADV-36",
+        "ip_address": "10.34.215.37",
+        "is_installed": true,
+        "riskScore": 63253.0
+    },
+    {
+        "server_name": "VCFPRDADV-4",
+        "ip_address": "10.34.215.7",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-5",
+        "ip_address": "10.34.215.13",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-8",
+        "ip_address": "10.34.215.12",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDADV-9",
+        "ip_address": "10.34.215.10",
+        "is_installed": true,
+        "riskScore": 416039.0
+    },
+    {
+        "server_name": "VCFPRDAVD-1",
+        "ip_address": "10.34.215.28",
+        "is_installed": true,
+        "riskScore": 126757.0
+    },
+    {
+        "server_name": "VCFPRDADV-6",
+        "ip_address": "10.34.215.9",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "VCFPRDAVD-0",
+        "ip_address": "10.34.215.41",
+        "is_installed": true,
+        "riskScore": 126757.0
+    },
+    {
+        "server_name": "VCFPRDADV-7",
+        "ip_address": "10.34.215.8",
+        "is_installed": true,
+        "riskScore": 2119.0
+    },
+    {
+        "server_name": "vm-czeppddce01",
+        "ip_address": "10.248.55.4",
+        "is_installed": true,
+        "riskScore": 2023.0
+    },
+    {
+        "server_name": "HLD-AVD-STG-10",
+        "ip_address": "10.248.39.9",
+        "is_installed": true,
+        "riskScore": 4009.0
+    },
+    {
+        "server_name": "HLD-AVD-STG-12",
+        "ip_address": "10.248.39.10",
+        "is_installed": true,
+        "riskScore": 67139.0
+    },
+    {
+        "server_name": "HLD-AVD-STG-11",
+        "ip_address": "10.248.39.8",
+        "is_installed": true,
+        "riskScore": 4009.0
+    },
+    {
+        "server_name": "vicmgmtfrcjmp01",
+        "ip_address": "10.248.3.4",
+        "is_installed": true,
+        "riskScore": 84242.0
+    },
+    {
+        "server_name": "vm-vicmgmtfrcagnt1",
+        "ip_address": "10.248.3.5",
+        "is_installed": true,
+        "riskScore": 8032.0
+    },
+    {
+        "server_name": "work-gis",
+        "ip_address": "10.1.0.4",
+        "is_installed": true,
+        "riskScore": 25952.0
+    },
+    {
+        "server_name": "vm-vic-mgmt-frc-automation",
+        "ip_address": "10.248.3.6",
+        "is_installed": true,
+        "riskScore": 52417.0
+    },
+    {
+        "server_name": "stockpile-dev",
+        "ip_address": "10.0.0.4",
+        "is_installed": true,
+        "riskScore": 569214.0
+    },
+    {
+        "server_name": "geoserver",
+        "ip_address": "10.3.0.4",
+        "is_installed": true,
+        "riskScore": 337634.0
+    },
+    {
+        "server_name": "itwo-dwh",
+        "ip_address": "10.5.0.4",
+        "is_installed": true,
+        "riskScore": 76108.0
+    },
+    {
+        "server_name": "fdvkpre",
+        "ip_address": "10.0.0.6",
+        "is_installed": true,
+        "riskScore": 292619.0
+    },
+    {
+        "server_name": "openlayers",
+        "ip_address": "10.3.0.5",
+        "is_installed": true,
+        "riskScore": 336321.0
+    },
+    {
+        "server_name": "ae-license",
+        "ip_address": "10.0.0.9",
+        "is_installed": true,
+        "riskScore": 450.0
+    },
+    {
+        "server_name": "arcgis-portal",
+        "ip_address": "10.0.0.5",
+        "is_installed": true,
+        "riskScore": 338808.0
+    },
+    {
+        "server_name": "scheduler",
+        "ip_address": "10.0.0.4",
+        "is_installed": true,
+        "riskScore": 577852.0
+    },
+    {
+        "server_name": "arcgis-server",
+        "ip_address": "10.0.0.4",
+        "is_installed": true,
+        "riskScore": 338808.0
+    }
+]

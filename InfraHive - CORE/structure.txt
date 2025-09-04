@@ -1,0 +1,38 @@
+kpi_hosting/
+│
+├── main.py                       # Orchestration complète : inventaire + traitement agents
+│
+├── config/
+│   ├── settings.py               # Configs générales, credentials, constantes
+│   └── __init__.py
+│
+├── db/
+│   ├── connection_pool.py        # Pool de connexions SQL
+│   ├── queries.py                # Fonctions SQL (insert, update, upsert)
+│   └── __init__.py
+│
+├── inventory/
+│   ├── inventory_manager.py      # Coordonne l'inventaire multi-sources
+│   ├── vcenter.py                 # Récupère serveurs depuis vCenter
+│   ├── azure.py                   # Récupère serveurs depuis Azure
+│   ├── aws.py                     # Récupère serveurs depuis AWS
+│   └── __init__.py
+│
+├── api/
+│   ├── facade.py                 # Interface unique pour appeler toutes les API agents
+│   ├── checkmk.py
+│   ├── glpi.py
+│   ├── cortex.py
+│   ├── rapid7.py
+│   └── __init__.py
+│
+├── workers/
+│   ├── server_worker.py          # Worker qui traite un serveur
+│   └── __init__.py
+│
+├── utils/
+│   ├── logging_config.py         # Config du logging
+│   └── __init__.py
+│
+├── requirements.txt
+└── .env

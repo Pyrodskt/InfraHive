@@ -1,0 +1,77 @@
+2025-09-03 19:30:09,248 - root - INFO - Configuration de logging chargée avec succès.
+2025-09-03 19:30:09,249 - main - INFO - Application démarrée
+2025-09-03 19:30:09,270 - main - INFO - Démarrage de l'inventory des serveurs
+2025-09-03 19:30:09,271 - collectors.inventory_manager - INFO - Démarrage de la collecte et du traitement en parallèle...
+2025-09-03 19:30:09,272 - workers.server_worker - INFO - Démarrage de la collecte et du traitement pour la source : AZURE_VCSI
+2025-09-03 19:30:09,272 - workers.server_worker - INFO - Démarrage de la collecte et du traitement pour la source : VCENTER_NGDT_02
+2025-09-03 19:30:09,272 - workers.server_worker - INFO - Démarrage de la collecte et du traitement pour la source : VCENTER_NGDT_03
+2025-09-03 19:30:09,274 - workers.server_worker - INFO - Démarrage de la collecte et du traitement pour la source : VCENTER_OXYA
+2025-09-03 19:30:09,274 - workers.server_worker - INFO - Démarrage de la collecte et du traitement pour la source : T0_NGDT
+2025-09-03 19:30:09,282 - workers.server_worker - INFO - Collecte terminée : 92 serveurs trouvés pour la source : T0_NGDT
+2025-09-03 19:30:09,675 - collectors.vcenter_collector - VCENTER_NGDT_02 - INFO - Démarrage du traitement multi-thread de 55 VMs...
+2025-09-03 19:30:10,645 - collectors.vcenter_collector - VCENTER_OXYA - INFO - Démarrage du traitement multi-thread de 203 VMs...
+2025-09-03 19:30:10,919 - collectors.vcenter_collector - VCENTER_NGDT_03 - INFO - Démarrage du traitement multi-thread de 1157 VMs...
+2025-09-03 19:30:41,033 - workers.server_worker - INFO - Collecte terminée : 55 serveurs trouvés pour la source : VCENTER_NGDT_02
+2025-09-03 19:31:25,850 - workers.server_worker - INFO - Collecte terminée : 203 serveurs trouvés pour la source : VCENTER_OXYA
+2025-09-03 19:33:06,234 - collectors.azure_collector - AZURE_VCSI - ERROR - Erreur réseau pour AZ-NCENTRAL-01: 404 Client Error: Not Found for url: https://management.azure.com/subscriptions/a246a94f-4c5f-467a-bfa2-6294f6966f08/resourceGroups/rg-swc-prd-aus-vm-001-australiaeast/providers/Microsoft.Network/networkInterfaces/AZ-NCENTRAL-01_New?api-version=2024-05-01
+2025-09-03 19:33:40,391 - collectors.azure_collector - AZURE_VCSI - ERROR - Erreur réseau pour SOFFRPRDTEAM01: 404 Client Error: Not Found for url: https://management.azure.com/subscriptions/b424b8b0-a315-442e-ae5e-493bb8c6e9ec/resourceGroups/RG-FR-WE-SOF-NETWORK/providers/Microsoft.Network/networkInterfaces/soffrprdteam01881_z1?api-version=2024-05-01
+2025-09-03 19:34:03,121 - workers.server_worker - INFO - Collecte terminée : 1157 serveurs trouvés pour la source : VCENTER_NGDT_03
+2025-09-03 19:34:29,105 - workers.server_worker - INFO - Collecte terminée : 438 serveurs trouvés pour la source : AZURE_VCSI
+2025-09-03 19:34:29,121 - collectors.inventory_manager - INFO - Phase de collecte terminée. Récupération des résultats...
+2025-09-03 19:34:29,122 - collectors.inventory_manager - INFO - Démarrage de la phase d'insertion dans la base de données en parallèle...
+2025-09-03 19:34:29,190 - collectors.inventory_manager - INFO - Données exportées avec succès vers exports\all_inventory.json
+2025-09-03 19:34:29,191 - collectors.inventory_manager - INFO - Insertion des données de cloud subscriptions dans la base de données...
+2025-09-03 19:34:29,192 - workers.server_db_worker - INFO - Démarrage de l'insertion pour la source : AZURE_VCSI
+2025-09-03 19:34:29,192 - workers.server_db_worker - INFO - Démarrage de l'insertion pour la source : AZURE_VCSI
+2025-09-03 19:34:32,214 - workers.server_db_worker - INFO - Insertion réussie pour 951 éléments de la source AZURE_VCSI avec la méthode upsert_network.
+2025-09-03 19:34:44,374 - workers.server_db_worker - INFO - Insertion réussie pour 2469 éléments de la source AZURE_VCSI avec la méthode upsert_subscription.
+2025-09-03 19:34:44,376 - collectors.inventory_manager - INFO - Insertions des données de cloud subscriptions terminées.
+2025-09-03 19:34:44,376 - workers.server_db_worker - INFO - Démarrage de l'insertion pour la source : AZURE_VCSI
+2025-09-03 19:34:44,377 - workers.server_db_worker - INFO - Démarrage de l'insertion pour la source : VCENTER_NGDT_02
+2025-09-03 19:34:44,379 - workers.server_db_worker - INFO - Démarrage de l'insertion pour la source : VCENTER_NGDT_03
+2025-09-03 19:34:44,380 - workers.server_db_worker - INFO - Démarrage de l'insertion pour la source : VCENTER_OXYA
+2025-09-03 19:34:44,380 - workers.server_db_worker - INFO - Démarrage de l'insertion pour la source : T0_NGDT
+2025-09-03 19:34:46,147 - workers.server_db_worker - INFO - Insertion réussie pour 55 éléments de la source VCENTER_NGDT_02 avec la méthode insert_server_in_db.
+2025-09-03 19:34:46,916 - workers.server_db_worker - INFO - Insertion réussie pour 92 éléments de la source T0_NGDT avec la méthode insert_server_in_db.
+2025-09-03 19:34:48,967 - workers.server_db_worker - INFO - Insertion réussie pour 203 éléments de la source VCENTER_OXYA avec la méthode insert_server_in_db.
+2025-09-03 19:35:05,322 - workers.server_db_worker - INFO - Insertion réussie pour 1157 éléments de la source VCENTER_NGDT_03 avec la méthode insert_server_in_db.
+2025-09-03 19:35:05,323 - collectors.inventory_manager - INFO - Toutes les insertions de serveurs dans la base de données sont terminées.
+2025-09-03 19:35:05,324 - workers.server_db_worker - INFO - Démarrage de l'insertion pour la source : AZURE_VCSI
+2025-09-03 19:35:05,324 - workers.server_db_worker - INFO - Démarrage de l'insertion pour la source : VCENTER_NGDT_02
+2025-09-03 19:35:05,325 - workers.server_db_worker - INFO - Démarrage de l'insertion pour la source : VCENTER_NGDT_03
+2025-09-03 19:35:05,326 - workers.server_db_worker - INFO - Démarrage de l'insertion pour la source : VCENTER_OXYA
+2025-09-03 19:35:05,326 - workers.server_db_worker - INFO - Démarrage de l'insertion pour la source : T0_NGDT
+2025-09-03 19:35:06,341 - workers.server_db_worker - INFO - Insertion réussie pour 55 éléments de la source VCENTER_NGDT_02 avec la méthode insert_networks_of_server.
+2025-09-03 19:35:06,433 - workers.server_db_worker - INFO - Insertion réussie pour 438 éléments de la source AZURE_VCSI avec la méthode insert_networks_of_server.
+2025-09-03 19:35:06,869 - workers.server_db_worker - INFO - Insertion réussie pour 92 éléments de la source T0_NGDT avec la méthode insert_networks_of_server.
+2025-09-03 19:35:08,079 - workers.server_db_worker - INFO - Insertion réussie pour 203 éléments de la source VCENTER_OXYA avec la méthode insert_networks_of_server.
+2025-09-03 19:35:16,059 - workers.server_db_worker - INFO - Insertion réussie pour 1157 éléments de la source VCENTER_NGDT_03 avec la méthode insert_networks_of_server.
+2025-09-03 19:35:16,060 - collectors.inventory_manager - INFO - Toutes les insertions de networks dans la base de données sont terminées.
+2025-09-03 19:35:16,061 - main - INFO - Inventory des serveurs terminé
+2025-09-03 19:35:16,109 - agents.agent_manager - INFO - Démarrage de la collecte et du traitement en parallèle...
+2025-09-03 19:35:16,110 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - VIC-T1
+2025-09-03 19:35:16,110 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - VIC-T0
+2025-09-03 19:35:16,111 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - OXYA-T0
+2025-09-03 19:35:16,111 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : GLPI - GLPI-VCSI
+2025-09-03 19:35:16,113 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : RAPID7 - Rapid7-VCSI
+2025-09-03 19:35:16,597 - CHECKMK - VIC-T0 - INFO - Normalisation terminée. 92 serveurs normalisés.
+2025-09-03 19:35:16,598 - workers.server_agents_worker - INFO - Collecte terminée : 92 serveurs trouvés pour la source : CHECKMK - VIC-T0
+2025-09-03 19:35:16,601 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - VIC-T0' exportées avec succès vers exports\CHECKMK - VIC-T0.json
+2025-09-03 19:35:16,617 - CHECKMK - OXYA-T0 - INFO - Normalisation terminée. 31 serveurs normalisés.
+2025-09-03 19:35:16,618 - workers.server_agents_worker - INFO - Collecte terminée : 31 serveurs trouvés pour la source : CHECKMK - OXYA-T0
+2025-09-03 19:35:16,619 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - OXYA-T0' exportées avec succès vers exports\CHECKMK - OXYA-T0.json
+2025-09-03 19:35:16,835 - GLPI - GLPI-VCSI - INFO - Normalisation terminée. 1041 serveurs normalisés.
+2025-09-03 19:35:16,836 - workers.server_agents_worker - INFO - Collecte terminée : 1041 serveurs trouvés pour la source : GLPI - GLPI-VCSI
+2025-09-03 19:35:16,851 - workers.server_agents_worker - INFO - Données normalisées pour 'GLPI - GLPI-VCSI' exportées avec succès vers exports\GLPI - GLPI-VCSI.json
+2025-09-03 19:35:16,913 - CHECKMK - VIC-T1 - INFO - Normalisation terminée. 958 serveurs normalisés.
+2025-09-03 19:35:16,914 - workers.server_agents_worker - INFO - Collecte terminée : 958 serveurs trouvés pour la source : CHECKMK - VIC-T1
+2025-09-03 19:35:16,926 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - VIC-T1' exportées avec succès vers exports\CHECKMK - VIC-T1.json
+2025-09-03 19:36:26,036 - agents.rapid7_collector - Rapid7-VCSI - INFO - Collecte Rapid7 terminée. 1082 serveurs traités avec succès.
+2025-09-03 19:36:26,041 - agents.rapid7_collector - Rapid7-VCSI - INFO - Normalisation terminée. 1082 serveurs normalisés.
+2025-09-03 19:36:26,041 - workers.server_agents_worker - INFO - Collecte terminée : 1082 serveurs trouvés pour la source : RAPID7 - Rapid7-VCSI
+2025-09-03 19:36:26,053 - workers.server_agents_worker - INFO - Données normalisées pour 'RAPID7 - Rapid7-VCSI' exportées avec succès vers exports\RAPID7 - Rapid7-VCSI.json
+2025-09-03 19:36:26,053 - agents.agent_manager - INFO - Collecte terminée. Démarrage de la consolidation des données.
+2025-09-03 19:36:26,055 - agents.agent_manager - INFO - Démarrage de la phase de traitement et de mise à jour des agents.
+2025-09-03 19:37:16,248 - agents.agent_manager - INFO - Données exportées avec succès vers exports\all_agents.json
+2025-09-03 19:37:16,248 - agents.agent_manager - INFO - Phase de traitement terminée. Les agents ont été mis à jour.
+2025-09-03 19:37:16,249 - main - INFO - Application terminée

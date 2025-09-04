@@ -1,0 +1,26 @@
+2025-09-04 11:35:02,643 - root - INFO - Configuration de logging chargée avec succès.
+2025-09-04 11:35:02,643 - main - INFO - Application démarrée
+2025-09-04 11:35:02,819 - agents.agent_manager - INFO - Démarrage de la collecte et du traitement en parallèle...
+2025-09-04 11:35:02,820 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - VIC-T1
+2025-09-04 11:35:02,821 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - VIC-T0
+2025-09-04 11:35:02,821 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - OXYA-T0
+2025-09-04 11:35:02,822 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : GLPI - GLPI-VCSI
+2025-09-04 11:35:02,822 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : RAPID7 - Rapid7-VCSI
+2025-09-04 11:35:03,430 - CHECKMK - VIC-T0 - INFO - Normalisation terminée. 92 serveurs normalisés.
+2025-09-04 11:35:03,431 - workers.server_agents_worker - INFO - Collecte terminée : 92 serveurs trouvés pour la source : CHECKMK - VIC-T0
+2025-09-04 11:35:03,627 - CHECKMK - OXYA-T0 - INFO - Normalisation terminée. 31 serveurs normalisés.
+2025-09-04 11:35:03,627 - workers.server_agents_worker - INFO - Collecte terminée : 31 serveurs trouvés pour la source : CHECKMK - OXYA-T0
+2025-09-04 11:35:03,836 - GLPI - GLPI-VCSI - INFO - Normalisation terminée. 1040 serveurs normalisés.
+2025-09-04 11:35:03,837 - workers.server_agents_worker - INFO - Collecte terminée : 1040 serveurs trouvés pour la source : GLPI - GLPI-VCSI
+2025-09-04 11:35:03,991 - CHECKMK - VIC-T1 - INFO - Normalisation terminée. 957 serveurs normalisés.
+2025-09-04 11:35:03,992 - workers.server_agents_worker - INFO - Collecte terminée : 957 serveurs trouvés pour la source : CHECKMK - VIC-T1
+2025-09-04 11:36:27,173 - agents.rapid7_collector - Rapid7-VCSI - INFO - Collecte Rapid7 terminée. 1178 serveurs traités avec succès.
+2025-09-04 11:36:27,179 - agents.rapid7_collector - Rapid7-VCSI - INFO - Normalisation terminée. 1178 serveurs normalisés.
+2025-09-04 11:36:27,179 - workers.server_agents_worker - INFO - Collecte terminée : 1178 serveurs trouvés pour la source : RAPID7 - Rapid7-VCSI
+2025-09-04 11:36:27,192 - agents.agent_manager - INFO - Collecte terminée. Démarrage de la consolidation des données.
+2025-09-04 11:36:27,423 - agents.agent_manager - INFO - Démarrage de la phase de traitement et de mise à jour des agents.
+2025-09-04 11:36:27,423 - agents.agent_manager - ERROR - Erreur lors de la récupération du serveur <Server(name='vicprdvreaops22')> dans la table server_has_agents : DBQueries.get_required_agents_to_check() got an unexpected keyword argument 'server_name'
+Traceback (most recent call last):
+  File "e:\KPI_HOSTING - V2.1\agents\agent_manager.py", line 72, in get_server_agent_info
+    res = db_queries.get_required_agents_to_check(server_name=server_name, agent_name=agent_name)
+TypeError: DBQueries.get_required_agents_to_check() got an unexpected keyword argument 'server_name'

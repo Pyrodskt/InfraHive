@@ -1,0 +1,33 @@
+2025-09-03 17:02:44,682 - root - INFO - Configuration de logging chargée avec succès.
+2025-09-03 17:02:44,683 - main - INFO - Application démarrée
+2025-09-03 17:02:44,937 - agents.agent_manager - INFO - Démarrage de la collecte et du traitement en parallèle...
+2025-09-03 17:02:44,938 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - VIC-T1
+2025-09-03 17:02:44,938 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - VIC-T0
+2025-09-03 17:02:44,939 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - OXYA-T0
+2025-09-03 17:02:44,939 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : GLPI - GLPI-VCSI
+2025-09-03 17:02:45,426 - CHECKMK - OXYA-T0 - INFO - Normalisation terminée. 31 serveurs normalisés.
+2025-09-03 17:02:45,427 - workers.server_agents_worker - INFO - Collecte terminée : 31 serveurs trouvés pour la source : CHECKMK - OXYA-T0
+2025-09-03 17:02:45,433 - CHECKMK - VIC-T0 - INFO - Normalisation terminée. 92 serveurs normalisés.
+2025-09-03 17:02:45,434 - workers.server_agents_worker - INFO - Collecte terminée : 92 serveurs trouvés pour la source : CHECKMK - VIC-T0
+2025-09-03 17:02:45,435 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - OXYA-T0' exportées avec succès vers exports\CHECKMK - OXYA-T0.json
+2025-09-03 17:02:45,437 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - VIC-T0' exportées avec succès vers exports\CHECKMK - VIC-T0.json
+2025-09-03 17:02:45,577 - GLPI - GLPI-VCSI - INFO - Normalisation terminée. 1041 serveurs normalisés.
+2025-09-03 17:02:45,578 - workers.server_agents_worker - INFO - Collecte terminée : 1041 serveurs trouvés pour la source : GLPI - GLPI-VCSI
+2025-09-03 17:02:45,595 - workers.server_agents_worker - INFO - Données normalisées pour 'GLPI - GLPI-VCSI' exportées avec succès vers exports\GLPI - GLPI-VCSI.json
+2025-09-03 17:02:45,767 - CHECKMK - VIC-T1 - INFO - Normalisation terminée. 958 serveurs normalisés.
+2025-09-03 17:02:45,768 - workers.server_agents_worker - INFO - Collecte terminée : 958 serveurs trouvés pour la source : CHECKMK - VIC-T1
+2025-09-03 17:02:45,781 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - VIC-T1' exportées avec succès vers exports\CHECKMK - VIC-T1.json
+2025-09-03 17:02:45,784 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : GLPI - GLPI-VCSI
+2025-09-03 17:02:45,784 - workers.server_agents_worker - ERROR - Erreur dans le thread du collecteur GLPI - GLPI-VCSI : 'Server' object is not subscriptable
+Traceback (most recent call last):
+  File "e:\KPI_HOSTING - V2.1\workers\server_agents_worker.py", line 47, in run
+    servers_data = self.collector.collect()
+  File "e:\KPI_HOSTING - V2.1\agents\rapid7_collector.py", line 26, in collect
+    raw_servers_data = self.rapid7_connector.collect()
+  File "e:\KPI_HOSTING - V2.1\connectors\rapid7_connector.py", line 18, in collect
+    server_info = self.query_rapid7_by_server(server['name'])
+                                              ~~~~~~^^^^^^^^
+TypeError: 'Server' object is not subscriptable
+2025-09-03 17:02:45,803 - agents.agent_manager - INFO - Données exportées avec succès vers exports\all_agents.json
+2025-09-03 17:02:45,803 - agents.agent_manager - INFO - Phase de collecte terminée. Récupération des résultats...
+2025-09-03 17:02:45,804 - main - INFO - Application terminée

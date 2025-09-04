@@ -1,0 +1,73 @@
+# Chemin du répertoire ou tous les extracts seront stockés
+dir_export_path: "Import_VMS//exports//"
+
+CHECK_MK_CONFIGS:
+  - name: "VIC-T1"
+    scope: "VIC"
+    tier: "T1"
+    url: "https://monitoring.vinci-construction.net/ngdt/check_mk/api/1.0"
+    username: "CHECKMK_NGDT_T1_USERNAME"
+    password: "CHECKMK_NGDT_T1_PASSWORD"
+    type: 'checkmk'
+
+  - name: "VIC-T0"
+    scope: "VIC"
+    tier: "T0"
+    url: "https://10.120.16.20/TIER0/check_mk/api/1.0"
+    username: "CHECKMK_NGDT_T0_USERNAME"
+    password: "CHECKMK_NGDT_T0_PASSWORD"
+    type: 'checkmk'
+
+  - name: "OXYA-T0"
+    scope: "OXYA"
+    tier: 'T0'
+    url: "https://172.22.0.2/Oxya_Tier0/check_mk/api/1.0"
+    username: "CHECKMK_OXYA_USERNAME"
+    password: "CHECKMK_OXYA_PASSWORD"
+    type: 'checkmk'
+
+GLPI_CONFIGS:
+  - name: "GLPI-VCSI"
+    base_url: "https://inventory.vinci-construction.net/apirest.php/"
+    GLPI_APP_TOKEN: "GLPI_APP_TOKEN"
+    GLPI_USER_TOKEN: "GLPI_USER_TOKEN"
+    type: 'glpi'
+
+RAPID7_CONFIGS:
+  - name: "Rapid7-VCSI"
+    url: "RAPID7_URL"
+    RAPID7_KEY: "RAPID7_KEY"
+    type: 'rapid7'
+
+VCENTER_CONFIGS:
+  - name: "VCENTER_NGDT_02"
+    url: "vicprdvmwavce02.vc-ic.grpsc.net"
+    username: "INFR_P24112762"
+    password: "VCENTER_NGDT_PASSWORD"
+    type: "ngdt"
+  
+  - name: "VCENTER_NGDT_03"
+    url: "vicprdvmwavce03.vc-ic.grpsc.net"
+    username: "INFR_P24112762"
+    password: "VCENTER_NGDT_PASSWORD"
+    type: "ngdt"
+
+  - name: "VCENTER_OXYA"
+    url: "172.25.7.85"
+    username: "svc_MS_licensing@vsphere.local"
+    password: "VCENTER_OXYA_PASSWORD"
+    type: "oxya"
+
+CSV_CONFIGS:
+  - name: "T0_NGDT"
+    filepath: "imports//rvtools_T0.csv"
+    type: "csv"
+
+AZURE_CONFIGS:
+  - name: "AZURE_VCSI"
+    env_tenant_id: "AZURE_TENANT_ID"
+    env_client_id: "AZURE_CLIENT_ID"
+    env_client_secret: "AZURE_CLIENT_SECRET"
+    type: "azure"
+
+AWS_CONFIGS:
