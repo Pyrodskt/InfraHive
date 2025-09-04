@@ -1,0 +1,21 @@
+2025-09-04 11:27:40,183 - root - INFO - Configuration de logging chargée avec succès.
+2025-09-04 11:27:40,184 - main - INFO - Application démarrée
+2025-09-04 11:27:40,373 - agents.agent_manager - INFO - Démarrage de la collecte et du traitement en parallèle...
+2025-09-04 11:27:40,376 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - VIC-T1
+2025-09-04 11:27:40,377 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - VIC-T0
+2025-09-04 11:27:40,377 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - OXYA-T0
+2025-09-04 11:27:40,378 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : GLPI - GLPI-VCSI
+2025-09-04 11:27:40,378 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : RAPID7 - Rapid7-VCSI
+2025-09-04 11:27:40,964 - CHECKMK - OXYA-T0 - INFO - Normalisation terminée. 31 serveurs normalisés.
+2025-09-04 11:27:40,964 - workers.server_agents_worker - INFO - Collecte terminée : 31 serveurs trouvés pour la source : CHECKMK - OXYA-T0
+2025-09-04 11:27:40,968 - CHECKMK - VIC-T0 - INFO - Normalisation terminée. 92 serveurs normalisés.
+2025-09-04 11:27:40,969 - workers.server_agents_worker - INFO - Collecte terminée : 92 serveurs trouvés pour la source : CHECKMK - VIC-T0
+2025-09-04 11:27:41,335 - GLPI - GLPI-VCSI - INFO - Normalisation terminée. 1040 serveurs normalisés.
+2025-09-04 11:27:41,336 - workers.server_agents_worker - INFO - Collecte terminée : 1040 serveurs trouvés pour la source : GLPI - GLPI-VCSI
+2025-09-04 11:27:41,650 - CHECKMK - VIC-T1 - INFO - Normalisation terminée. 957 serveurs normalisés.
+2025-09-04 11:27:41,670 - workers.server_agents_worker - INFO - Collecte terminée : 957 serveurs trouvés pour la source : CHECKMK - VIC-T1
+2025-09-04 11:29:11,379 - agents.rapid7_collector - Rapid7-VCSI - INFO - Collecte Rapid7 terminée. 1178 serveurs traités avec succès.
+2025-09-04 11:29:11,385 - agents.rapid7_collector - Rapid7-VCSI - INFO - Normalisation terminée. 1178 serveurs normalisés.
+2025-09-04 11:29:11,386 - workers.server_agents_worker - INFO - Collecte terminée : 1178 serveurs trouvés pour la source : RAPID7 - Rapid7-VCSI
+2025-09-04 11:29:11,399 - agents.agent_manager - INFO - Collecte terminée. Démarrage de la consolidation des données.
+2025-09-04 11:29:11,647 - agents.agent_manager - INFO - Démarrage de la phase de traitement et de mise à jour des agents.

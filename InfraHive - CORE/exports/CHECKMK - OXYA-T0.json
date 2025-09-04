@@ -1,0 +1,250 @@
+[
+    {
+        "server_name": "FRBORDEAUXDC001.kherty.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "FRHQDC901.kherty.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "FRHQDC902.kherty.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "FRHQDC904.kherty.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "FRHQDC905.kherty.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "FRHQDC906.kherty.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "FRHQMLTSV001.meltix.local",
+        "ip_address": "172.22.2.193",
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "FRHQMLTSV002.meltix.local",
+        "ip_address": "172.22.2.194",
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "FRHQMLTSV910.meltix.local",
+        "ip_address": "172.22.0.38",
+        "alias": "",
+        "codeapp": null,
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "FRHQSV007.kherty.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "FRHQSV017.kherty.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "FRHQSV1010.kherty.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "FRHQSV1032.kherty.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "FRHQSV1033.kherty.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "FRHQSV1044.kherty.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "FRHQSV909.kherty.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "FRHQSV910.kherty.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "FRHQSV997.kherty.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "FRRUEILHV702.kherty.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "FRURRUGNEDC002.kherty.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "GLRESITDC901.res.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "GLRESITDC902.res.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "GLRESITSV030.res.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "GLRESITSV031.res.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "GLRESITSV904.res.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "GLRESITSV909.res.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "GLRESITSV910.res.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "GLRESITSV911.res.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "GLRESITSV912.res.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "GLRESITSV913.res.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    },
+    {
+        "server_name": "GLRESITSV914.res.local",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/",
+        "site": "Oxya_Tier0"
+    }
+]

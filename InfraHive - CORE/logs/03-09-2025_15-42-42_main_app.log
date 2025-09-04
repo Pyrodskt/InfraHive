@@ -1,0 +1,24 @@
+2025-09-03 15:42:42,275 - root - INFO - Configuration de logging chargée avec succès.
+2025-09-03 15:42:42,276 - main - INFO - Application démarrée
+2025-09-03 15:42:42,303 - main - INFO - Démarrage de l'inventory des serveurs
+2025-09-03 15:42:42,304 - collectors.inventory_manager - INFO - Démarrage de la collecte et du traitement en parallèle...
+2025-09-03 15:42:42,305 - workers.server_worker - INFO - Démarrage de la collecte et du traitement pour la source : AZURE_VCSI
+2025-09-03 15:42:42,305 - workers.server_worker - INFO - Démarrage de la collecte et du traitement pour la source : VCENTER_NGDT_02
+2025-09-03 15:42:42,306 - workers.server_worker - INFO - Démarrage de la collecte et du traitement pour la source : VCENTER_NGDT_03
+2025-09-03 15:42:42,307 - workers.server_worker - INFO - Démarrage de la collecte et du traitement pour la source : VCENTER_OXYA
+2025-09-03 15:42:42,312 - workers.server_worker - INFO - Démarrage de la collecte et du traitement pour la source : T0_NGDT
+2025-09-03 15:42:42,317 - collectors.csv_vcenter_collector - INFO - Normalisation terminée. 92 serveurs normalisés.
+2025-09-03 15:42:42,335 - workers.server_worker - INFO - Collecte terminée : 92 serveurs trouvés pour la source : T0_NGDT
+2025-09-03 15:42:42,392 - workers.server_worker - INFO - Données normalisées pour 'T0_NGDT' exportées avec succès vers exports\T0_NGDT.json
+2025-09-03 15:42:42,564 - collectors.azure_collector - AZURE_VCSI - INFO - === Démarrage de la corrélation Azure ===
+2025-09-03 15:42:42,749 - collectors.vcenter_collector - VCENTER_NGDT_02 - INFO - Démarrage du traitement multi-thread de 55 VMs...
+2025-09-03 15:42:43,433 - collectors.vcenter_collector - VCENTER_NGDT_03 - INFO - Démarrage du traitement multi-thread de 1160 VMs...
+2025-09-03 15:42:43,806 - collectors.vcenter_collector - VCENTER_OXYA - INFO - Démarrage du traitement multi-thread de 203 VMs...
+2025-09-03 15:43:04,139 - collectors.azure_collector - AZURE_VCSI - INFO - Total Subs trouvées actives : 202
+2025-09-03 15:43:04,178 - collectors.azure_collector - AZURE_VCSI - INFO - Total RGs trouvés actifs : 2589
+2025-09-03 15:43:10,895 - collectors.vcenter_collector - VCENTER_NGDT_02 - INFO - Normalisation terminée. 55 serveurs normalisés.
+2025-09-03 15:43:11,156 - workers.server_worker - INFO - Collecte terminée : 55 serveurs trouvés pour la source : VCENTER_NGDT_02
+2025-09-03 15:43:11,760 - workers.server_worker - INFO - Données normalisées pour 'VCENTER_NGDT_02' exportées avec succès vers exports\VCENTER_NGDT_02.json
+2025-09-03 15:43:57,445 - collectors.vcenter_collector - VCENTER_OXYA - INFO - Normalisation terminée. 203 serveurs normalisés.
+2025-09-03 15:43:57,553 - workers.server_worker - INFO - Collecte terminée : 203 serveurs trouvés pour la source : VCENTER_OXYA
+2025-09-03 15:43:58,273 - workers.server_worker - INFO - Données normalisées pour 'VCENTER_OXYA' exportées avec succès vers exports\VCENTER_OXYA.json

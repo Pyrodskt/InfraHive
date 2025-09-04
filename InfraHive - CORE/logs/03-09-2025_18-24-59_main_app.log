@@ -1,0 +1,29 @@
+2025-09-03 18:24:59,078 - root - INFO - Configuration de logging chargée avec succès.
+2025-09-03 18:24:59,079 - main - INFO - Application démarrée
+2025-09-03 18:24:59,240 - agents.agent_manager - INFO - Démarrage de la collecte et du traitement en parallèle...
+2025-09-03 18:24:59,242 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - VIC-T1
+2025-09-03 18:24:59,242 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - VIC-T0
+2025-09-03 18:24:59,243 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - OXYA-T0
+2025-09-03 18:24:59,243 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : GLPI - GLPI-VCSI
+2025-09-03 18:24:59,243 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : RAPID7 - Rapid7-VCSI
+2025-09-03 18:24:59,944 - CHECKMK - OXYA-T0 - INFO - Normalisation terminée. 31 serveurs normalisés.
+2025-09-03 18:24:59,945 - workers.server_agents_worker - INFO - Collecte terminée : 31 serveurs trouvés pour la source : CHECKMK - OXYA-T0
+2025-09-03 18:24:59,949 - CHECKMK - VIC-T0 - INFO - Normalisation terminée. 92 serveurs normalisés.
+2025-09-03 18:24:59,950 - workers.server_agents_worker - INFO - Collecte terminée : 92 serveurs trouvés pour la source : CHECKMK - VIC-T0
+2025-09-03 18:24:59,951 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - OXYA-T0' exportées avec succès vers exports\CHECKMK - OXYA-T0.json
+2025-09-03 18:24:59,953 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - VIC-T0' exportées avec succès vers exports\CHECKMK - VIC-T0.json
+2025-09-03 18:25:00,037 - GLPI - GLPI-VCSI - INFO - Normalisation terminée. 1041 serveurs normalisés.
+2025-09-03 18:25:00,040 - workers.server_agents_worker - INFO - Collecte terminée : 1041 serveurs trouvés pour la source : GLPI - GLPI-VCSI
+2025-09-03 18:25:00,056 - workers.server_agents_worker - INFO - Données normalisées pour 'GLPI - GLPI-VCSI' exportées avec succès vers exports\GLPI - GLPI-VCSI.json
+2025-09-03 18:25:00,467 - CHECKMK - VIC-T1 - INFO - Normalisation terminée. 958 serveurs normalisés.
+2025-09-03 18:25:00,468 - workers.server_agents_worker - INFO - Collecte terminée : 958 serveurs trouvés pour la source : CHECKMK - VIC-T1
+2025-09-03 18:25:00,479 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - VIC-T1' exportées avec succès vers exports\CHECKMK - VIC-T1.json
+2025-09-03 18:26:19,417 - agents.rapid7_collector - Rapid7-VCSI - INFO - Collecte Rapid7 terminée. 1188 serveurs traités avec succès.
+2025-09-03 18:26:19,422 - agents.rapid7_collector - Rapid7-VCSI - INFO - Normalisation terminée. 1188 serveurs normalisés.
+2025-09-03 18:26:19,423 - workers.server_agents_worker - INFO - Collecte terminée : 1188 serveurs trouvés pour la source : RAPID7 - Rapid7-VCSI
+2025-09-03 18:26:19,437 - workers.server_agents_worker - INFO - Données normalisées pour 'RAPID7 - Rapid7-VCSI' exportées avec succès vers exports\RAPID7 - Rapid7-VCSI.json
+2025-09-03 18:26:19,438 - agents.agent_manager - INFO - Collecte terminée. Démarrage de la consolidation des données.
+2025-09-03 18:26:19,440 - agents.agent_manager - INFO - Démarrage de la phase de traitement et de mise à jour des agents.
+2025-09-03 18:27:07,631 - agents.agent_manager - INFO - Données exportées avec succès vers exports\all_agents.json
+2025-09-03 18:27:07,631 - agents.agent_manager - INFO - Phase de traitement terminée. Les agents ont été mis à jour.
+2025-09-03 18:27:07,632 - main - INFO - Application terminée

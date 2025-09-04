@@ -1,0 +1,23 @@
+2025-09-03 17:27:13,570 - root - INFO - Configuration de logging chargée avec succès.
+2025-09-03 17:27:13,571 - main - INFO - Application démarrée
+2025-09-03 17:27:13,744 - agents.agent_manager - INFO - Démarrage de la collecte et du traitement en parallèle...
+2025-09-03 17:27:13,745 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - VIC-T1
+2025-09-03 17:27:13,745 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - VIC-T0
+2025-09-03 17:27:13,746 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : CHECKMK - OXYA-T0
+2025-09-03 17:27:14,194 - CHECKMK - VIC-T0 - INFO - Normalisation terminée. 92 serveurs normalisés.
+2025-09-03 17:27:14,195 - workers.server_agents_worker - INFO - Collecte terminée : 92 serveurs trouvés pour la source : CHECKMK - VIC-T0
+2025-09-03 17:27:14,197 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - VIC-T0' exportées avec succès vers exports\CHECKMK - VIC-T0.json
+2025-09-03 17:27:14,202 - CHECKMK - OXYA-T0 - INFO - Normalisation terminée. 31 serveurs normalisés.
+2025-09-03 17:27:14,202 - workers.server_agents_worker - INFO - Collecte terminée : 31 serveurs trouvés pour la source : CHECKMK - OXYA-T0
+2025-09-03 17:27:14,204 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - OXYA-T0' exportées avec succès vers exports\CHECKMK - OXYA-T0.json
+2025-09-03 17:27:14,597 - CHECKMK - VIC-T1 - INFO - Normalisation terminée. 958 serveurs normalisés.
+2025-09-03 17:27:14,597 - workers.server_agents_worker - INFO - Collecte terminée : 958 serveurs trouvés pour la source : CHECKMK - VIC-T1
+2025-09-03 17:27:14,608 - workers.server_agents_worker - INFO - Données normalisées pour 'CHECKMK - VIC-T1' exportées avec succès vers exports\CHECKMK - VIC-T1.json
+2025-09-03 17:27:14,609 - workers.server_agents_worker - INFO - Démarrage de la collecte et du traitement pour la source : GLPI - GLPI-VCSI
+2025-09-03 17:28:33,153 - agents.rapid7_collector - GLPI-VCSI - INFO - Collecte Rapid7 terminée. 1188 serveurs traités avec succès.
+2025-09-03 17:28:33,157 - agents.rapid7_collector - GLPI-VCSI - INFO - Normalisation terminée. 1188 serveurs normalisés.
+2025-09-03 17:28:33,158 - workers.server_agents_worker - INFO - Collecte terminée : 1188 serveurs trouvés pour la source : GLPI - GLPI-VCSI
+2025-09-03 17:28:33,169 - workers.server_agents_worker - INFO - Données normalisées pour 'GLPI - GLPI-VCSI' exportées avec succès vers exports\GLPI - GLPI-VCSI.json
+2025-09-03 17:28:33,202 - agents.agent_manager - INFO - Données exportées avec succès vers exports\all_agents.json
+2025-09-03 17:28:33,203 - agents.agent_manager - INFO - Phase de collecte terminée. Récupération des résultats...
+2025-09-03 17:28:33,203 - main - INFO - Application terminée

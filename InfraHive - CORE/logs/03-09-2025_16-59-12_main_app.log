@@ -1,0 +1,3 @@
+2025-09-03 16:59:12,708 - root - INFO - Configuration de logging chargée avec succès.
+2025-09-03 16:59:12,709 - main - INFO - Application démarrée
+2025-09-03 16:59:12,709 - agents.agent_manager - INFO - [{'name': 'GLPI-VCSI', 'base_url': 'https://inventory.vinci-construction.net/apirest.php/', 'GLPI_APP_TOKEN': 'GLPI_APP_TOKEN', 'GLPI_USER_TOKEN': 'GLPI_USER_TOKEN', 'type': 'glpi', 'APP_TOKEN': 'ihJH4Qnvr44Xtxnu3CC9linJliWQi9ZoPEqRHJqr', 'USER_TOKEN': 'wxwhMRRQQM8o3WILWgRPjCN5hZDZAWKliZwM8D3H', 'url': 'https://rapid7.intranet.eurovia.com/api/3/assets/search/', 'rapid7_key': 'QUJSX0FQSTpSUVVldlM0OiJnbyMnXDI4QG9ZLiE6TjM'}]

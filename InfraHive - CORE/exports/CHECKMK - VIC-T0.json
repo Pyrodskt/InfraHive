@@ -1,0 +1,738 @@
+[
+    {
+        "server_name": "vicprdstorbck021.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0_infrastructure/storeonce",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdstorbck022.vc-ic.grpsc.net",
+        "ip_address": "vicprdstorbck022.vc-ic.grpsc.net",
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0_infrastructure/storeonce",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdhcitesx01.vc-ic.grpsc.net",
+        "ip_address": "10.120.4.11",
+        "alias": "",
+        "codeapp": "Esxi",
+        "folder": "/tier0_infrastructure/esx",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdhcitesx02.vc-ic.grpsc.net",
+        "ip_address": "10.120.4.12",
+        "alias": "",
+        "codeapp": "Esxi",
+        "folder": "/tier0_infrastructure/esx",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdhcitesx03.vc-ic.grpsc.net",
+        "ip_address": "10.120.4.13",
+        "alias": "",
+        "codeapp": "Esxi",
+        "folder": "/tier0_infrastructure/esx",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdhcitesx04.vc-ic.grpsc.net",
+        "ip_address": "10.120.4.14",
+        "alias": "",
+        "codeapp": "Esxi",
+        "folder": "/tier0_infrastructure/esx",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdhcitesx05.vc-ic.grpsc.net",
+        "ip_address": "10.120.4.15",
+        "alias": "",
+        "codeapp": "Esxi",
+        "folder": "/tier0_infrastructure/esx",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdhcitesx06.vc-ic.grpsc.net",
+        "ip_address": "10.120.4.16",
+        "alias": "",
+        "codeapp": "Esxi",
+        "folder": "/tier0_infrastructure/esx",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdhcitesx07.vc-ic.grpsc.net",
+        "ip_address": "10.120.4.17",
+        "alias": "",
+        "codeapp": "Esxi",
+        "folder": "/tier0_infrastructure/esx",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdhcitesx08.vc-ic.grpsc.net",
+        "ip_address": "10.120.4.18",
+        "alias": "",
+        "codeapp": "Esxi",
+        "folder": "/tier0_infrastructure/esx",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdveeabck04.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0_infrastructure/veeam/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdveeaprx07.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0_infrastructure/veeam/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdveeaprx08.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0_infrastructure/veeam/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdchmkfbe04.vc-ic.grpsc.net",
+        "ip_address": "10.120.16.20",
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0_infrastructure/check_mk",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdvmwavce00.vc-ic.grpsc.net",
+        "ip_address": "10.120.4.100",
+        "alias": "",
+        "codeapp": "Vce",
+        "folder": "/tier0_infrastructure/vcenter",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "sw-prd-t0-pa3-01.vc.infra",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0_infrastructure/switches",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "sw-prd-t0-pa4-01.vc.infra",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0_infrastructure/switches",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "VICPRDSCANFBE01.vc-ic.grpsc.net",
+        "ip_address": "10.120.16.11",
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/scan",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdvulnapp02.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/scan",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "GRPPRDDST0ADM01.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/dsto",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "GRPPRDOOADFBE01.grpsc.net",
+        "ip_address": "10.120.16.122",
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/dsto",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "VICPRDDST0ADM02.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/dsto",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprddst0adm01.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adm",
+        "folder": "/tier0/dsto",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "VICPRDAZACAPP03.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/azac",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "VICPRDAZACAPP04.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/azac",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdfileapp01.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/file",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdsftpapp01.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "file",
+        "folder": "/tier0/file",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "VICPRDINFRLIC03.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/infr",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdinfradm01.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/infr",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdinfrapp11.vc-ic.grpsc.net",
+        "ip_address": "10.120.17.127",
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/infr",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdinfrapp12.vc-ic.grpsc.net",
+        "ip_address": "10.120.17.128",
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/infr",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdinfrlic02.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/infr",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "d01prdaddswdc01.dom01.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "d01prdaddswdc02.dom01.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "encprdaddswdc01.vincic-ec.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "encprdaddswdc02.vincic-ec.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "extprdaddswdc01.vincic-ext.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "extprdaddswdc02.vincic-ext.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "grpprdaddswdc01.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "grpprdaddswdc02.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "hldprdaddswdc01.vincic-hld.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "hldprdaddswdc02.vincic-hld.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "plcprdaddswdc01.vincic-plc.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "plcprdaddswdc02.vincic-plc.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "sofprdaddswdc01.vincic-sf.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "sofprdaddswdc02.vincic-sf.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "sofprdaddswdc03.vincic-sf.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "sofprdaddswdc05.vincic-sf.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "sosprdaddswdc01.vincic-sosa.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "sosprdaddswdc02.vincic-sosa.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vcfprdaddswdc50.vincic-fr.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vcfprdaddswdc51.vincic-fr.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vcfprdaddswdc52.vincic-fr.grpsc.net",
+        "ip_address": "10.120.19.13",
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vcfprdaddswdc53.vincic-fr.grpsc.net",
+        "ip_address": "10.120.19.14",
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vdtprdaddswdc01.vincic-dt.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vdtprdaddswdc02.vincic-dt.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vgpprdaddswdc01.vincic-gp.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vgpprdaddswdc02.vincic-gp.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdaddswdc01.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdaddswdc02.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adds",
+        "folder": "/tier0/adds/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "GRPPPDADDSWDC01.grpsc-ppd.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/adds/ppd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicppdaddswdc01.vc-ic-ppd.grpsc-ppd.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/adds/ppd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicppdaddswdc02.vc-ic-ppd.grpsc-ppd.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/adds/ppd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "pam-vic-prd-tier0.vinci-construction.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/vpam",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdvpamacm02.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/vpam",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdvpamacm03.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/vpam",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdvpambas01.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/vpam",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdvpambas02.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/vpam",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdvpamrds01.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/vpam",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdvpamrds02.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/vpam",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "VICPRDMEPPPRX01.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/mepp",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "VICPRDMEPPPRX02.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/mepp",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdcertfbe01.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "cert",
+        "folder": "/tier0/cert",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdcertfbe02.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "cert",
+        "folder": "/tier0/cert",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdcertfbe03.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "cert",
+        "folder": "/tier0/cert",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdcertfbe04.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "cert",
+        "folder": "/tier0/cert",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdcertfbe05.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "cert",
+        "folder": "/tier0/cert",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdcertfbe06.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/cert",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdcertwkg01.vc-ic.grpsc.net",
+        "ip_address": "10.120.17.156",
+        "alias": "",
+        "codeapp": "cert",
+        "folder": "/tier0/cert",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdcertwkg02.vc-ic.grpsc.net",
+        "ip_address": "10.120.17.153",
+        "alias": "",
+        "codeapp": "cert",
+        "folder": "/tier0/cert",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdwsusfbe02.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/wsus/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdwecsfbe01.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/wecs",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdadfsfbe05.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adfs",
+        "folder": "/tier0/addfs/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdadfsfbe06.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adfs",
+        "folder": "/tier0/addfs/prd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicdevadfsfbe02.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adfs",
+        "folder": "/tier0/addfs/dev",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "VCFHOMADFSAPP51.vincic-fr.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/addfs/addfs__vcf_",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "VCFHOMADFSAPP52.vincic-fr.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/addfs/addfs__vcf_",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "VCFPRDADFSAPP51.vincic-fr.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/addfs/addfs__vcf_",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "VCFPRDADFSAPP52.vincic-fr.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/addfs/addfs__vcf_",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicppdadfsfbe05.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adfs",
+        "folder": "/tier0/addfs/ppd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicppdadfsfbe06.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": "adfs",
+        "folder": "/tier0/addfs/ppd",
+        "site": "TIER0"
+    },
+    {
+        "server_name": "vicprdmmdtfbe01.vc-ic.grpsc.net",
+        "ip_address": null,
+        "alias": "",
+        "codeapp": null,
+        "folder": "/tier0/mmdt",
+        "site": "TIER0"
+    }
+]

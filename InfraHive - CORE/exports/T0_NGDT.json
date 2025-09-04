@@ -1,0 +1,1484 @@
+[
+    {
+        "name": "D01PRDADDSWDC01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-572"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "UKN",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.250.72.11"
+    },
+    {
+        "name": "D01PRDADDSWDC02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-572"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "UKN",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.253.72.11"
+    },
+    {
+        "name": "ENCPRDADDSWDC01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-560"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "ENC",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.250.60.11"
+    },
+    {
+        "name": "ENCPRDADDSWDC02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-560"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "ENC",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.253.60.11"
+    },
+    {
+        "name": "export-T1-2019",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-561"
+        ],
+        "env": "UKN",
+        "tier": "T0",
+        "app": "UKN",
+        "division": "UKN",
+        "role": "UKN",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": ""
+    },
+    {
+        "name": "EXTPRDADDSWDC01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-552"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "EXT",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.250.52.11"
+    },
+    {
+        "name": "EXTPRDADDSWDC02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-552"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "EXT",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.253.52.11"
+    },
+    {
+        "name": "GRPPRDADDSWDC01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-3918"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "GRP",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.18.11"
+    },
+    {
+        "name": "GRPPRDADDSWDC02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-3918"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "GRP",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.18.12"
+    },
+    {
+        "name": "GRPPRDDST0ADM01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "UKN",
+        "tier": "T0",
+        "app": "UKN",
+        "division": "UKN",
+        "role": "UKN",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.121"
+    },
+    {
+        "name": "GRPPRDOOADFBE01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "OOAD",
+        "division": "GRP",
+        "role": "FBE",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.122"
+    },
+    {
+        "name": "HLDPRDADDSWDC01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-557"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "HLD",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.250.57.11"
+    },
+    {
+        "name": "HLDPRDADDSWDC02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-557"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "HLD",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.253.57.11"
+    },
+    {
+        "name": "PLCPRDADDSWDC01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-559"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "PLC",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.250.59.11"
+    },
+    {
+        "name": "PLCPRDADDSWDC02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-559"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "PLC",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.253.59.11"
+    },
+    {
+        "name": "SOFPRDADDSWDC01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-561"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "SOF",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.250.61.11"
+    },
+    {
+        "name": "SOFPRDADDSWDC02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-561"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "SOF",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.253.61.11"
+    },
+    {
+        "name": "SOFPRDMEPPPRX01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-561"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "MEPP",
+        "division": "SOF",
+        "role": "PRX",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.250.61.12"
+    },
+    {
+        "name": "SOFPRDMEPPPRX02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-561"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "MEPP",
+        "division": "SOF",
+        "role": "PRX",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.253.61.12"
+    },
+    {
+        "name": "SOSPRDADDSWDC01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-554"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "SOS",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.250.54.11"
+    },
+    {
+        "name": "SOSPRDADDSWDC02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-554"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "SOS",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.253.54.11"
+    },
+    {
+        "name": "Surebackup-VirtualLab-PA3",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-HCI",
+            "Surebackup-VirtualLab-PA3"
+        ],
+        "env": "UKN",
+        "tier": "T0",
+        "app": "UKN",
+        "division": "UKN",
+        "role": "UKN",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": ""
+    },
+    {
+        "name": "Surebackup-VirtualLab-PA4",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-HCI",
+            "Surebackup-VirtualLab-PA4"
+        ],
+        "env": "UKN",
+        "tier": "T0",
+        "app": "UKN",
+        "division": "UKN",
+        "role": "UKN",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": ""
+    },
+    {
+        "name": "TEMPLATE-DC",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "UKN",
+        "tier": "T0",
+        "app": "UKN",
+        "division": "UKN",
+        "role": "UKN",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": ""
+    },
+    {
+        "name": "TEMPLATE-NONDC",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "UKN",
+        "tier": "T0",
+        "app": "UKN",
+        "division": "UKN",
+        "role": "UKN",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": ""
+    },
+    {
+        "name": "vcfdevadfsapp51",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "DEV",
+        "tier": "T0",
+        "app": "ADFS",
+        "division": "VCF",
+        "role": "APP",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.25"
+    },
+    {
+        "name": "vcfdevadfsapp52",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "DEV",
+        "tier": "T0",
+        "app": "ADFS",
+        "division": "VCF",
+        "role": "APP",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.26"
+    },
+    {
+        "name": "vcfhomadfsapp51",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "HOM",
+        "tier": "T0",
+        "app": "ADFS",
+        "division": "VCF",
+        "role": "APP",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.29"
+    },
+    {
+        "name": "vcfhomadfsapp52",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "HOM",
+        "tier": "T0",
+        "app": "ADFS",
+        "division": "VCF",
+        "role": "APP",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.30"
+    },
+    {
+        "name": "VCFPRDADDSWDC50",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-3918"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "VCF",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.19.11"
+    },
+    {
+        "name": "VCFPRDADDSWDC51",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-3918"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "VCF",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.19.12"
+    },
+    {
+        "name": "VCFPRDADDSWDC52",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-3918"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "VCF",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.19.13"
+    },
+    {
+        "name": "VCFPRDADDSWDC53",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-3918"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "VCF",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.19.14"
+    },
+    {
+        "name": "VCFPRDADFSAPP51",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADFS",
+        "division": "VCF",
+        "role": "APP",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.52"
+    },
+    {
+        "name": "VCFPRDADFSAPP52",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADFS",
+        "division": "VCF",
+        "role": "APP",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.53"
+    },
+    {
+        "name": "VCFPRDMEPPPRX01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "MEPP",
+        "division": "VCF",
+        "role": "PRX",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.92"
+    },
+    {
+        "name": "VCFPRDMEPPPRX02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "MEPP",
+        "division": "VCF",
+        "role": "PRX",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.93"
+    },
+    {
+        "name": "VDTPRDADDSWDC01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-555"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "VDT",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.250.55.11"
+    },
+    {
+        "name": "VDTPRDADDSWDC02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-555"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "VDT",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.253.55.11"
+    },
+    {
+        "name": "VGPPRDADDSWDC01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-558"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "VGP",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.250.58.11"
+    },
+    {
+        "name": "VGPPRDADDSWDC02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-558"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "VGP",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.253.58.11"
+    },
+    {
+        "name": "vicdevadfsfbe02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "DEV",
+        "tier": "T0",
+        "app": "ADFS",
+        "division": "VIC",
+        "role": "FBE",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.120"
+    },
+    {
+        "name": "vicppdadfsfbe05",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "PPD",
+        "tier": "T0",
+        "app": "ADFS",
+        "division": "VIC",
+        "role": "FBE",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.123"
+    },
+    {
+        "name": "vicppdadfsfbe06",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "PPD",
+        "tier": "T0",
+        "app": "ADFS",
+        "division": "VIC",
+        "role": "FBE",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.124"
+    },
+    {
+        "name": "VICPRDADDSWDC01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-551"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "VIC",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.250.51.11"
+    },
+    {
+        "name": "VICPRDADDSWDC02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-PED-551"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADDS",
+        "division": "VIC",
+        "role": "WDC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.253.51.11"
+    },
+    {
+        "name": "VICPRDADFSAPP51",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADFS",
+        "division": "VIC",
+        "role": "APP",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.2"
+    },
+    {
+        "name": "VICPRDADFSAPP52",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADFS",
+        "division": "VIC",
+        "role": "APP",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.2"
+    },
+    {
+        "name": "vicprdadfsfbe05",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADFS",
+        "division": "VIC",
+        "role": "FBE",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.125"
+    },
+    {
+        "name": "vicprdadfsfbe06",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "ADFS",
+        "division": "VIC",
+        "role": "FBE",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.126"
+    },
+    {
+        "name": "vicprdazacapp01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "AZAC",
+        "division": "VIC",
+        "role": "APP",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.162"
+    },
+    {
+        "name": "VICPRDAZACAPP02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "AZAC",
+        "division": "VIC",
+        "role": "APP",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.163"
+    },
+    {
+        "name": "vicprdazacapp03",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "AZAC",
+        "division": "VIC",
+        "role": "APP",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.164"
+    },
+    {
+        "name": "vicprdazacapp04",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "AZAC",
+        "division": "VIC",
+        "role": "APP",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.165"
+    },
+    {
+        "name": "vicprdbrokfbe00",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "BROK",
+        "division": "VIC",
+        "role": "FBE",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.75"
+    },
+    {
+        "name": "vicprdbrokfbe02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "BROK",
+        "division": "VIC",
+        "role": "FBE",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.76"
+    },
+    {
+        "name": "VICPRDCERTFBE01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "CERT",
+        "division": "VIC",
+        "role": "FBE",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.150"
+    },
+    {
+        "name": "VICPRDCERTFBE02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "CERT",
+        "division": "VIC",
+        "role": "FBE",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.151"
+    },
+    {
+        "name": "VICPRDCERTFBE03",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "CERT",
+        "division": "VIC",
+        "role": "FBE",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.154"
+    },
+    {
+        "name": "VICPRDCERTFBE04",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "CERT",
+        "division": "VIC",
+        "role": "FBE",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.155"
+    },
+    {
+        "name": "VICPRDCERTFBE05",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "CERT",
+        "division": "VIC",
+        "role": "FBE",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.157"
+    },
+    {
+        "name": "VICPRDCERTFBE06",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "CERT",
+        "division": "VIC",
+        "role": "FBE",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.100"
+    },
+    {
+        "name": "VICPRDCERTWKG01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "CERT",
+        "division": "VIC",
+        "role": "WKG",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.156"
+    },
+    {
+        "name": "VICPRDCERTWKG02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "CERT",
+        "division": "VIC",
+        "role": "WKG",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": ""
+    },
+    {
+        "name": "VICPRDCHMKFBE04",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "CHMK",
+        "division": "VIC",
+        "role": "FBE",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.20"
+    },
+    {
+        "name": "VICPRDDST0ADM02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "UKN",
+        "tier": "T0",
+        "app": "UKN",
+        "division": "UKN",
+        "role": "UKN",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.123"
+    },
+    {
+        "name": "VICPRDDSTOADM01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "DSTO",
+        "division": "VIC",
+        "role": "ADM",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.120"
+    },
+    {
+        "name": "VICPRDFILEAPP01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "FILE",
+        "division": "VIC",
+        "role": "APP",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.15"
+    },
+    {
+        "name": "VICPRDINFRADM01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "INFR",
+        "division": "VIC",
+        "role": "ADM",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.145"
+    },
+    {
+        "name": "VICPRDINFRAPP11",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "INFR",
+        "division": "VIC",
+        "role": "APP",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.127"
+    },
+    {
+        "name": "VICPRDINFRAPP12",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "INFR",
+        "division": "VIC",
+        "role": "APP",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.17.128"
+    },
+    {
+        "name": "VICPRDINFRLIC02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "INFR",
+        "division": "VIC",
+        "role": "LIC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.126"
+    },
+    {
+        "name": "VICPRDINFRLIC03",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "INFR",
+        "division": "VIC",
+        "role": "LIC",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.127"
+    },
+    {
+        "name": "VICPRDMEPPPRX01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "MEPP",
+        "division": "VIC",
+        "role": "PRX",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.90"
+    },
+    {
+        "name": "VICPRDMEPPPRX02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "MEPP",
+        "division": "VIC",
+        "role": "PRX",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.91"
+    },
+    {
+        "name": "VICPRDMMDTFBE01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "MMDT",
+        "division": "VIC",
+        "role": "FBE",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.110"
+    },
+    {
+        "name": "VICPRDSCANFBE01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "SCAN",
+        "division": "VIC",
+        "role": "FBE",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.11"
+    },
+    {
+        "name": "VICPRDSFTPAPP01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES",
+            "VIC-E-INF-TIER0-PED",
+            "VIC-E-INF-TIER0-SERVICES",
+            "VIC-E-INF-TIER0-SERVICES",
+            "VIC-E-INF-TIER0-PED-3918"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "SFTP",
+        "division": "VIC",
+        "role": "APP",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.43"
+    },
+    {
+        "name": "VICPRDVEEABCK04",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "VEEA",
+        "division": "VIC",
+        "role": "BCK",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.142"
+    },
+    {
+        "name": "VICPRDVEEAPRX07",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "VEEA",
+        "division": "VIC",
+        "role": "PRX",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.143"
+    },
+    {
+        "name": "VICPRDVEEAPRX08",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "VEEA",
+        "division": "VIC",
+        "role": "PRX",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.144"
+    },
+    {
+        "name": "VICPRDVMWAVCE00",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-MGT-VCENTER"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "VMWA",
+        "division": "VIC",
+        "role": "VCE",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.4.100"
+    },
+    {
+        "name": "VICPRDVPAMACM02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-754",
+            "VIC-E-INF-TIER0-754",
+            "VIC-E-INF-TIER0-754"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "VPAM",
+        "division": "VIC",
+        "role": "ACM",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.250.254.5"
+    },
+    {
+        "name": "VICPRDVPAMACM03",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-754",
+            "VIC-E-INF-TIER0-754",
+            "VIC-E-INF-TIER0-754"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "VPAM",
+        "division": "VIC",
+        "role": "ACM",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.250.254.8"
+    },
+    {
+        "name": "VICPRDVPAMRDS01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-753"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "VPAM",
+        "division": "VIC",
+        "role": "RDS",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.250.254.24"
+    },
+    {
+        "name": "VICPRDVPAMRDS02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-753"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "VPAM",
+        "division": "VIC",
+        "role": "RDS",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.250.254.25"
+    },
+    {
+        "name": "VICPRDVULNAPP02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "VULN",
+        "division": "VIC",
+        "role": "APP",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.4"
+    },
+    {
+        "name": "VICPRDWECSFBE01",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "WECS",
+        "division": "VIC",
+        "role": "FBE",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.100"
+    },
+    {
+        "name": "VICPRDWSUSFBE02",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-SERVICES"
+        ],
+        "env": "PRD",
+        "tier": "T0",
+        "app": "WSUS",
+        "division": "VIC",
+        "role": "FBE",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": "10.120.16.10"
+    },
+    {
+        "name": "windows2019_div-ootb-2024-03-28",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "Not connected"
+        ],
+        "env": "UKN",
+        "tier": "T0",
+        "app": "UKN",
+        "division": "UKN",
+        "role": "UKN",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": ""
+    },
+    {
+        "name": "windows2022_div-ootb-2024-03-28",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "UKN",
+        "tier": "T0",
+        "app": "UKN",
+        "division": "UKN",
+        "role": "UKN",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": ""
+    },
+    {
+        "name": "windows2022_vcic-ootb-2024-03-28",
+        "power_state": null,
+        "guest_OS": null,
+        "networks": [
+            "VIC-E-INF-TIER0-DOMAIN-CTL"
+        ],
+        "env": "UKN",
+        "tier": "T0",
+        "app": "UKN",
+        "division": "UKN",
+        "role": "UKN",
+        "source": "ngdt",
+        "tags": {},
+        "ip_address": ""
+    }
+]

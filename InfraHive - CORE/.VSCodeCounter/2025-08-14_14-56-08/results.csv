@@ -1,0 +1,42 @@
+"filename", "language", "Markdown", "Python", "Log", "pip requirements", "YAML", "comment", "blank", "total"
+"e:\KPI_HOSTING - V2.1\README.md", "Markdown", 104, 0, 0, 0, 0, 0, 24, 128
+"e:\KPI_HOSTING - V2.1\api\__init__.py", "Python", 0, 14, 0, 0, 0, 0, 2, 16
+"e:\KPI_HOSTING - V2.1\api\api_dispatcher.py", "Python", 0, 20, 0, 0, 0, 10, 7, 37
+"e:\KPI_HOSTING - V2.1\api\api_processor.py", "Python", 0, 48, 0, 0, 0, 16, 13, 77
+"e:\KPI_HOSTING - V2.1\api\checkmk.py", "Python", 0, 50, 0, 0, 0, 47, 13, 110
+"e:\KPI_HOSTING - V2.1\api\cortex.py", "Python", 0, 37, 0, 0, 0, 17, 8, 62
+"e:\KPI_HOSTING - V2.1\api\facade.py", "Python", 0, 3, 0, 0, 0, 0, 3, 6
+"e:\KPI_HOSTING - V2.1\api\glpi.py", "Python", 0, 51, 0, 0, 0, 23, 6, 80
+"e:\KPI_HOSTING - V2.1\api\rapid7.py", "Python", 0, 42, 0, 0, 0, 16, 9, 67
+"e:\KPI_HOSTING - V2.1\collectors\__init__.py", "Python", 0, 10, 0, 0, 0, 0, 2, 12
+"e:\KPI_HOSTING - V2.1\collectors\aws_collector.py", "Python", 0, 6, 0, 0, 0, 10, 1, 17
+"e:\KPI_HOSTING - V2.1\collectors\azure_collector.py", "Python", 0, 6, 0, 0, 0, 10, 1, 17
+"e:\KPI_HOSTING - V2.1\collectors\inventory_manager.py", "Python", 0, 46, 0, 0, 0, 20, 6, 72
+"e:\KPI_HOSTING - V2.1\collectors\vcenter_collector.py", "Python", 0, 43, 0, 0, 0, 71, 10, 124
+"e:\KPI_HOSTING - V2.1\config\__init__.py", "Python", 0, 2, 0, 0, 0, 7, 3, 12
+"e:\KPI_HOSTING - V2.1\config\config.yaml", "YAML", 0, 0, 0, 0, 58, 7, 14, 79
+"e:\KPI_HOSTING - V2.1\config\normalization_maps.yaml", "YAML", 0, 0, 0, 0, 13, 3, 3, 19
+"e:\KPI_HOSTING - V2.1\config\settings.py", "Python", 0, 46, 0, 0, 0, 31, 16, 93
+"e:\KPI_HOSTING - V2.1\connectors\azure_connector.py", "Python", 0, 24, 0, 0, 0, 19, 3, 46
+"e:\KPI_HOSTING - V2.1\connectors\cortex_connector.py", "Python", 0, 8, 0, 0, 0, 3, 1, 12
+"e:\KPI_HOSTING - V2.1\connectors\rapid7_connector.py", "Python", 0, 7, 0, 0, 0, 3, 1, 11
+"e:\KPI_HOSTING - V2.1\connectors\sql_connector.py", "Python", 0, 33, 0, 0, 0, 16, 2, 51
+"e:\KPI_HOSTING - V2.1\connectors\vcenter_connector.py", "Python", 0, 138, 0, 0, 0, 47, 33, 218
+"e:\KPI_HOSTING - V2.1\db\__init__.py", "Python", 0, 6, 0, 0, 0, 7, 2, 15
+"e:\KPI_HOSTING - V2.1\db\connection_pool.py", "Python", 0, 41, 0, 0, 0, 10, 9, 60
+"e:\KPI_HOSTING - V2.1\db\queries.py", "Python", 0, 216, 0, 0, 0, 342, 25, 583
+"e:\KPI_HOSTING - V2.1\logs\12-08-2025_11-57-27_main_app.log", "Log", 0, 0, 11, 0, 0, 0, 1, 12
+"e:\KPI_HOSTING - V2.1\logs\12-08-2025_14-26-59_main_app.log", "Log", 0, 0, 4, 0, 0, 0, 1, 5
+"e:\KPI_HOSTING - V2.1\logs\12-08-2025_14-27-53_main_app.log", "Log", 0, 0, 4, 0, 0, 0, 1, 5
+"e:\KPI_HOSTING - V2.1\logs\12-08-2025_14-29-10_main_app.log", "Log", 0, 0, 4, 0, 0, 0, 1, 5
+"e:\KPI_HOSTING - V2.1\main.py", "Python", 0, 27, 0, 0, 0, 5, 11, 43
+"e:\KPI_HOSTING - V2.1\requirements.txt", "pip requirements", 0, 0, 0, 27, 0, 0, 0, 27
+"e:\KPI_HOSTING - V2.1\temp_connection_test.py", "Python", 0, 64, 0, 0, 0, 21, 14, 99
+"e:\KPI_HOSTING - V2.1\utils\__init__.py", "Python", 0, 11, 0, 0, 0, 7, 2, 20
+"e:\KPI_HOSTING - V2.1\utils\data_normalizer.py", "Python", 0, 48, 0, 0, 0, 27, 11, 86
+"e:\KPI_HOSTING - V2.1\utils\logger_setup.py", "Python", 0, 56, 0, 0, 0, 16, 8, 80
+"e:\KPI_HOSTING - V2.1\utils\normalization_strategies.py", "Python", 0, 17, 0, 0, 0, 35, 5, 57
+"e:\KPI_HOSTING - V2.1\workers\__init__.py", "Python", 0, 6, 0, 0, 0, 0, 2, 8
+"e:\KPI_HOSTING - V2.1\workers\api_worker.py", "Python", 0, 46, 0, 0, 0, 46, 10, 102
+"e:\KPI_HOSTING - V2.1\workers\server_worker.py", "Python", 0, 16, 0, 0, 0, 22, 6, 44
+"Total", "-", 104, 1188, 23, 27, 71, 914, 290, 2617

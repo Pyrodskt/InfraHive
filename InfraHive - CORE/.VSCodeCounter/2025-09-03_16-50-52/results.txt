@@ -1,0 +1,119 @@
+Date : 2025-09-03 16:50:52
+Directory : e:\KPI_HOSTING - V2.1
+Total : 77 files,  149183 codes, 867 comments, 587 blanks, all 150637 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| JSON             |         13 |    144,389 |          0 |          0 |    144,389 |
+| Python           |         38 |      2,264 |        863 |        524 |      3,651 |
+| Log              |         18 |      1,773 |          0 |         18 |      1,791 |
+| CSV              |          4 |        507 |          0 |          2 |        509 |
+| YAML             |          2 |        119 |          4 |         19 |        142 |
+| Markdown         |          1 |        104 |          0 |         24 |        128 |
+| pip requirements |          1 |         27 |          0 |          0 |         27 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                           | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                              |         77 |    149,183 |        867 |        587 |    150,637 |
+| . (Files)                                                      |          4 |        205 |         26 |         43 |        274 |
+| agents                                                         |          6 |        177 |         46 |         58 |        281 |
+| analyzers                                                      |          2 |         98 |          8 |         20 |        126 |
+| collectors                                                     |          6 |        193 |         75 |         58 |        326 |
+| config                                                         |          7 |        622 |         36 |         51 |        709 |
+| connectors                                                     |          8 |        591 |         79 |         93 |        763 |
+| db                                                             |          4 |        748 |        452 |        170 |      1,370 |
+| exports                                                        |         13 |    144,389 |          0 |          0 |    144,389 |
+| imports                                                        |          1 |         93 |          0 |          1 |         94 |
+| logs                                                           |         18 |      1,773 |          0 |         18 |      1,791 |
+| utils                                                          |          4 |        200 |         85 |         47 |        332 |
+| workers                                                        |          4 |         94 |         60 |         28 |        182 |
++----------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                       | language         | code       | comment    | blank      | total      |
++----------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| e:\KPI_HOSTING - V2.1\README.md                                | Markdown         |        104 |          0 |         24 |        128 |
+| e:\KPI_HOSTING - V2.1\agents\__init__.py                       | Python           |         10 |          0 |          2 |         12 |
+| e:\KPI_HOSTING - V2.1\agents\agent_manager.py                  | Python           |         56 |         21 |         19 |         96 |
+| e:\KPI_HOSTING - V2.1\agents\checkmk_collector.py              | Python           |         24 |          1 |         10 |         35 |
+| e:\KPI_HOSTING - V2.1\agents\cortex_collector.py               | Python           |         37 |         17 |          8 |         62 |
+| e:\KPI_HOSTING - V2.1\agents\glpi_collector.py                 | Python           |         24 |          1 |         10 |         35 |
+| e:\KPI_HOSTING - V2.1\agents\rapid7_collector.py               | Python           |         26 |          6 |          9 |         41 |
+| e:\KPI_HOSTING - V2.1\analyzers\__init__.py                    | Python           |          0 |          0 |          1 |          1 |
+| e:\KPI_HOSTING - V2.1\analyzers\vcenter_analyser.py            | Python           |         98 |          8 |         19 |        125 |
+| e:\KPI_HOSTING - V2.1\collectors\__init__.py                   | Python           |         10 |          0 |          2 |         12 |
+| e:\KPI_HOSTING - V2.1\collectors\aws_collector.py              | Python           |          6 |         10 |          1 |         17 |
+| e:\KPI_HOSTING - V2.1\collectors\azure_collector.py            | Python           |         42 |         14 |          8 |         64 |
+| e:\KPI_HOSTING - V2.1\collectors\csv_vcenter_collector.py      | Python           |         24 |         13 |          8 |         45 |
+| e:\KPI_HOSTING - V2.1\collectors\inventory_manager.py          | Python           |         86 |         25 |         29 |        140 |
+| e:\KPI_HOSTING - V2.1\collectors\vcenter_collector.py          | Python           |         25 |         13 |         10 |         48 |
+| e:\KPI_HOSTING - V2.1\config\__init__.py                       | Python           |          2 |          7 |          3 |         12 |
+| e:\KPI_HOSTING - V2.1\config\config.yaml                       | YAML             |         61 |          1 |         11 |         73 |
+| e:\KPI_HOSTING - V2.1\config\exceptions_oxya.csv               | CSV              |         14 |          0 |          0 |         14 |
+| e:\KPI_HOSTING - V2.1\config\ngdt_portgroups.csv               | CSV              |        348 |          0 |          0 |        348 |
+| e:\KPI_HOSTING - V2.1\config\normalization_maps.yaml           | YAML             |         58 |          3 |          8 |         69 |
+| e:\KPI_HOSTING - V2.1\config\oxya_portgroups.csv               | CSV              |         52 |          0 |          1 |         53 |
+| e:\KPI_HOSTING - V2.1\config\settings.py                       | Python           |         87 |         25 |         28 |        140 |
+| e:\KPI_HOSTING - V2.1\connectors\azure_connector.py            | Python           |        235 |         24 |         33 |        292 |
+| e:\KPI_HOSTING - V2.1\connectors\checkmk_connector.py          | Python           |         34 |          1 |         12 |         47 |
+| e:\KPI_HOSTING - V2.1\connectors\cortex_connector.py           | Python           |          8 |          3 |          1 |         12 |
+| e:\KPI_HOSTING - V2.1\connectors\csv_vcenter_connector.py      | Python           |         25 |          0 |          2 |         27 |
+| e:\KPI_HOSTING - V2.1\connectors\glpi_connector.py             | Python           |         56 |          2 |          8 |         66 |
+| e:\KPI_HOSTING - V2.1\connectors\rapid7_connector.py           | Python           |         51 |         14 |          8 |         73 |
+| e:\KPI_HOSTING - V2.1\connectors\sql_connector.py              | Python           |         34 |         16 |          4 |         54 |
+| e:\KPI_HOSTING - V2.1\connectors\vcenter_connector.py          | Python           |        148 |         19 |         25 |        192 |
+| e:\KPI_HOSTING - V2.1\db\__init__.py                           | Python           |          7 |          7 |          1 |         15 |
+| e:\KPI_HOSTING - V2.1\db\db_connector.py                       | Python           |        320 |         93 |         63 |        476 |
+| e:\KPI_HOSTING - V2.1\db\db_model.py                           | Python           |        205 |         10 |         81 |        296 |
+| e:\KPI_HOSTING - V2.1\db\queries.py                            | Python           |        216 |        342 |         25 |        583 |
+| e:\KPI_HOSTING - V2.1\exports\AZURE_VCSI.json                  | JSON             |     10,802 |          0 |          0 |     10,802 |
+| e:\KPI_HOSTING - V2.1\exports\AZURE_VCSI_ressource_groups.json | JSON             |     23,303 |          0 |          0 |     23,303 |
+| e:\KPI_HOSTING - V2.1\exports\AZURE_VCSI_subnets.json          | JSON             |      5,708 |          0 |          0 |      5,708 |
+| e:\KPI_HOSTING - V2.1\exports\CHECKMK - OXYA-T0.json           | JSON             |        250 |          0 |          0 |        250 |
+| e:\KPI_HOSTING - V2.1\exports\CHECKMK - VIC-T0.json            | JSON             |        738 |          0 |          0 |        738 |
+| e:\KPI_HOSTING - V2.1\exports\CHECKMK - VIC-T1.json            | JSON             |      7,666 |          0 |          0 |      7,666 |
+| e:\KPI_HOSTING - V2.1\exports\GLPI - GLPI-VCSI.json            | JSON             |      9,653 |          0 |          0 |      9,653 |
+| e:\KPI_HOSTING - V2.1\exports\T0_NGDT.json                     | JSON             |      1,484 |          0 |          0 |      1,484 |
+| e:\KPI_HOSTING - V2.1\exports\VCENTER_NGDT_02.json             | JSON             |      1,072 |          0 |          0 |      1,072 |
+| e:\KPI_HOSTING - V2.1\exports\VCENTER_NGDT_03.json             | JSON             |     22,597 |          0 |          0 |     22,597 |
+| e:\KPI_HOSTING - V2.1\exports\VCENTER_OXYA.json                | JSON             |      3,423 |          0 |          0 |      3,423 |
+| e:\KPI_HOSTING - V2.1\exports\all_agents.json                  | JSON             |     18,313 |          0 |          0 |     18,313 |
+| e:\KPI_HOSTING - V2.1\exports\all_inventory.json               | JSON             |     39,380 |          0 |          0 |     39,380 |
+| e:\KPI_HOSTING - V2.1\imports\rvtools_T0.csv                   | CSV              |         93 |          0 |          1 |         94 |
+| e:\KPI_HOSTING - V2.1\logs\03-09-2025_14-34-04_main_app.log    | Log              |         81 |          0 |          1 |         82 |
+| e:\KPI_HOSTING - V2.1\logs\03-09-2025_14-43-21_main_app.log    | Log              |        141 |          0 |          1 |        142 |
+| e:\KPI_HOSTING - V2.1\logs\03-09-2025_14-47-42_main_app.log    | Log              |         82 |          0 |          1 |         83 |
+| e:\KPI_HOSTING - V2.1\logs\03-09-2025_15-42-42_main_app.log    | Log              |         24 |          0 |          1 |         25 |
+| e:\KPI_HOSTING - V2.1\logs\03-09-2025_15-45-54_main_app.log    | Log              |         29 |          0 |          1 |         30 |
+| e:\KPI_HOSTING - V2.1\logs\03-09-2025_15-46-40_main_app.log    | Log              |         29 |          0 |          1 |         30 |
+| e:\KPI_HOSTING - V2.1\logs\03-09-2025_15-46-57_main_app.log    | Log              |         29 |          0 |          1 |         30 |
+| e:\KPI_HOSTING - V2.1\logs\03-09-2025_15-54-55_main_app.log    | Log              |         30 |          0 |          1 |         31 |
+| e:\KPI_HOSTING - V2.1\logs\03-09-2025_15-56-14_main_app.log    | Log              |         31 |          0 |          1 |         32 |
+| e:\KPI_HOSTING - V2.1\logs\03-09-2025_15-58-29_main_app.log    | Log              |         32 |          0 |          1 |         33 |
+| e:\KPI_HOSTING - V2.1\logs\03-09-2025_15-59-19_main_app.log    | Log              |         32 |          0 |          1 |         33 |
+| e:\KPI_HOSTING - V2.1\logs\03-09-2025_15-59-55_main_app.log    | Log              |         33 |          0 |          1 |         34 |
+| e:\KPI_HOSTING - V2.1\logs\03-09-2025_16-00-26_main_app.log    | Log              |      1,066 |          0 |          1 |      1,067 |
+| e:\KPI_HOSTING - V2.1\logs\03-09-2025_16-01-41_main_app.log    | Log              |         25 |          0 |          1 |         26 |
+| e:\KPI_HOSTING - V2.1\logs\03-09-2025_16-04-23_main_app.log    | Log              |         25 |          0 |          1 |         26 |
+| e:\KPI_HOSTING - V2.1\logs\03-09-2025_16-44-29_main_app.log    | Log              |         26 |          0 |          1 |         27 |
+| e:\KPI_HOSTING - V2.1\logs\03-09-2025_16-45-51_main_app.log    | Log              |         29 |          0 |          1 |         30 |
+| e:\KPI_HOSTING - V2.1\logs\03-09-2025_16-46-20_main_app.log    | Log              |         29 |          0 |          1 |         30 |
+| e:\KPI_HOSTING - V2.1\main.py                                  | Python           |         10 |          5 |          5 |         20 |
+| e:\KPI_HOSTING - V2.1\requirements.txt                         | pip requirements |         27 |          0 |          0 |         27 |
+| e:\KPI_HOSTING - V2.1\temp_connection_test.py                  | Python           |         64 |         21 |         14 |         99 |
+| e:\KPI_HOSTING - V2.1\utils\__init__.py                        | Python           |         11 |          7 |          2 |         20 |
+| e:\KPI_HOSTING - V2.1\utils\data_normalizer.py                 | Python           |         54 |         46 |         19 |        119 |
+| e:\KPI_HOSTING - V2.1\utils\logger_setup.py                    | Python           |         56 |         16 |          8 |         80 |
+| e:\KPI_HOSTING - V2.1\utils\normalization_strategies.py        | Python           |         79 |         16 |         18 |        113 |
+| e:\KPI_HOSTING - V2.1\workers\__init__.py                      | Python           |          4 |          0 |          2 |          6 |
+| e:\KPI_HOSTING - V2.1\workers\server_agents_worker.py          | Python           |         31 |         21 |         10 |         62 |
+| e:\KPI_HOSTING - V2.1\workers\server_db_worker.py              | Python           |         28 |         18 |          6 |         52 |
+| e:\KPI_HOSTING - V2.1\workers\server_worker.py                 | Python           |         31 |         21 |         10 |         62 |
+| Total                                                          |                  |    149,183 |        867 |        587 |    150,637 |
++----------------------------------------------------------------+------------------+------------+------------+------------+------------+
